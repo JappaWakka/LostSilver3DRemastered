@@ -1,0 +1,4 @@
+Version=2
+@Screen.SetFade(25)
+@Register.Change(Tunnel,25)
+:end

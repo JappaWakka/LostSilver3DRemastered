@@ -1,0 +1,10 @@
+﻿Version=2
+@level.update
+@camera.update
+@player.setskin(Gold_Regular)
+@player.setname(...)
+@player.setot(10705)
+@player.addmoney(999999)
+@system.endnewgame(tower.dat,7,0.1,11,0)
+
+:end

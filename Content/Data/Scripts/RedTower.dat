@@ -1,0 +1,33 @@
+@Action:SetRenderDistance(0)
+@Player:WearSkin(GhostGold)
+@Action:ActivateThirdPerson
+
+@Pokemon:Clear
+
+@Pokemon:Add(201,15,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(0,UNOWN)
+@Pokemon:SetAdditionalValue(0,3)
+
+@Pokemon:Add(201,15,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(1,UNOWN)
+@Pokemon:SetAdditionalValue(1,24)
+
+@Pokemon:Add(201,15,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(2,UNOWN)
+@Pokemon:SetAdditionalValue(2,8)
+
+@Pokemon:Add(201,15,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(3,UNOWN)
+@Pokemon:SetAdditionalValue(3,13)
+
+@Pokemon:Add(201,15,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(4,UNOWN)
+@Pokemon:SetAdditionalValue(4,6)
+
+@Pokemon:Add(251,100,...,1,...,0)
+@Pokemon:SetNickName(5,CELEBI)
+@Pokemon:SetShiny(5,1)
+@Pokemon:ClearAttacks(5)
+@Pokemon:AddAttack(5,195)
+
+:end

@@ -1,0 +1,37 @@
+@Action:SetRenderDistance(0)
+@Action:DeactivateThirdPerson
+@Text:R.I.P. ...
+
+@Pokemon:Clear
+
+@Pokemon:Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(0,UNOWN)
+@Pokemon:SetAdditionalValue(0,8)
+@Pokemon:SetShiny(0,1)
+
+@Pokemon:Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(1,UNOWN)
+@Pokemon:SetAdditionalValue(1,12)
+@Pokemon:SetShiny(1,1)
+
+@Pokemon:Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(2,UNOWN)
+@Pokemon:SetAdditionalValue(2,3)
+@Pokemon:SetShiny(2,1)
+
+@Pokemon:Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(3,UNOWN)
+@Pokemon:SetAdditionalValue(3,4)
+@Pokemon:SetShiny(3,1)
+
+@Pokemon:Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(4,UNOWN)
+@Pokemon:SetAdditionalValue(4,0)
+@Pokemon:SetShiny(4,1)
+
+@Pokemon:Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon:SetNickName(5,UNOWN)
+@Pokemon:SetAdditionalValue(5,3)
+@Pokemon:SetShiny(5,1)
+
+:end

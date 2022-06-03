@@ -1,0 +1,16 @@
+Version=2
+@Environment.SetRenderDistance(0)
+@Player.SetSkin(Gold_Regular)
+	
+:if:<Register.Registered(Tunnel)>=false
+	@Player.StopMovement
+	@Screen.SetFade(255)
+	@Environment.SetRenderDistance(0)
+	@Player.SetSkin(Gold_Regular)
+	@Level.Wait(200)
+	@Screen.SetFade(0)
+	@Register.Register(Tunnel,int,0)
+:else
+	@Screen.SetFade(<Register.Value(Tunnel)>)
+:endif
+:end

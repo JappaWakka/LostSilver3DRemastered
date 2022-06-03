@@ -1,0 +1,9 @@
+@Action:SetRenderDistance(0)
+
+@Player:WearSkin(WhiteGold)
+@Action:ActivateThirdPerson
+@Pokemon:Clear
+
+@Move:Player,3
+
+:end
