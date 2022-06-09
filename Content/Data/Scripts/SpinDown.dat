@@ -1,42 +1,42 @@
-:if:not register(spin_step_1)
-:then
-@Register:spin_step_1
-@Action:DeactivateThirdPerson
-:end
+version=2
+:if:<Register.Value(spin_steps)>=0
+	@Register.Change(spin_steps,1)
+	:end
 :endif
-
-:if:not register(spin_step_2)
-:then
-@Register:spin_step_2
-@Action:DeactivateThirdPerson
-:end
+:if:<Register.Value(spin_steps)>=1
+	@Register.Change(spin_steps,2)
+	:end
 :endif
-
-@Action:DeactivateThirdPerson
-@Wait:35
-
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-
-@Warp:0,5,0,7
-@Warp:1,2,0,5
-
-@Turn:Player,1
-
-@Action:PlayCry(155)
-@Wait:20
-
-@Warp:Player,redtower.dat,4,0.1,8,0
+:if:<Register.Value(spin_steps)>=2
+	@Register.Change(spin_steps,3)
+	:end
+:endif
+:if:<Register.Value(spin_steps)>=3
+	:if:<player.position>=5,0,4
+		@Camera.DeactivateThirdPerson
+		:if:<player.facing>=3
+			@Player.TurnTo(0)
+		:endif
+		@Player.TurnTo(1)
+		@Player.TurnTo(2)
+		@Player.TurnTo(3)
+		
+		@Player.TurnTo(0)
+		@Player.TurnTo(1)
+		@Player.TurnTo(2)
+		@Player.TurnTo(3)
+		
+		@Player.TurnTo(0)
+		@Player.TurnTo(1)
+		@Player.TurnTo(2)
+		@NPC.Warp(0,~,0,~)
+		@Player.TurnTo(3)
+		@Player.TurnTo(0)
+								
+		@Sound.Play(Cyndaquil)
+		@Level.Wait(10)
+		
+		@Player.Warp(RedTower.dat,4,0.1,8,0)
+	:endif
+:endif
 :end

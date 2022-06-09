@@ -10,6 +10,10 @@ Version=2
 	@Screen.SetFade(0)
 	@Register.Register(Grave)
 :endif
+:if:<Register.Registered(spin_steps)>=false
+	@Register.Register(spin_steps,int,0)
+:endif
+@Music.Play(PokeFlute)
 @Pokemon.Clear
 
 @Pokemon.Add(201,5,...,5,Ruins of Alph,0)

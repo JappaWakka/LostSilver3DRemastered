@@ -1,0 +1,6 @@
+Version=2
+@NPC.Turn(4,3)
+@NPC.Turn(5,3)
+@NPC.Turn(6,3)
+@NPC.Turn(7,3)
+:end

@@ -1,17 +1,17 @@
-@Action:SetRenderDistance(0)
+Version=2
 
-@Pokemon:Clear
+@Pokemon.Clear
 
-@Pokemon:Add(251,100,...,1,...,0)
-@Pokemon:SetNickName(0,CELEBI)
-@Pokemon:SetShiny(0,1)
-@Pokemon:ClearAttacks(0)
-@Pokemon:AddAttack(0,195)
-@Pokemon:SetStat(0,HP,314)
-@Pokemon:SetStat(0,cHP,314)
-@Pokemon:SetStat(0,Speed,1)
+@Pokemon.Add(251,100,...,1,...,0)
+@Pokemon.SetNickName(0,CELEBI)
+@Pokemon.SetShiny(0,1)
+@Pokemon.ClearAttacks(0)
+@Pokemon.AddAttack(0,1003)
+@Pokemon.SetStat(0,HP,314)
+@Pokemon.SetStat(0,cHP,314)
+@Pokemon.SetStat(0,Speed,1)
+@Pokemon.RemoveItem(0)
+@Battle.Trainer(red)
 
-@Battle:Trainer,red
-
-@Warp:Player,room.dat,1,0.1,3,0
+@Player.Warp(room.dat,1,0.1,3,0)
 :end

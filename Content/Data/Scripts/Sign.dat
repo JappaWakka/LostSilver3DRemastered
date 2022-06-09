@@ -3,5 +3,5 @@ Version=2
 @Level.Wait(1)
 @Options.Show(YES,NO,[TEXT=FALSE])
 :endwhen
-@Player.Warp(grave.dat,4,0.1,4,0)
+@Player.Warp(grave.dat,5,0.1,4,0)
 :end
