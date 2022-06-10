@@ -1,53 +1,68 @@
-@Action:SetRenderDistance(0)
-@Action:DeactivateThirdPerson
+version=2
+@Environment.SetRenderDistance(0)
+@Camera.DeactivateThirdPerson
+@Text.Show(Good bye forever ....)
+@Level.Wait(25)
+@Text.Show(??? used Nightmare!)
 
-@Text:Good bye~forever ....
-@NPC:Remove(0)
-@Wait:25
-@Text:???~used NIGHTMARE!
-
-@Wait:35
-@Action:DeactivateThirdPerson
-
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-@Turn:Player,1
-
-:if:position(Player,8,0,84)
-:then
-@Turn:Player,1
+@NPC.Remove(0)
+@Level.Update
+:if:<player.position>=7,0,80
+	@NPC.Warp(1,~,0,~)
+	@NPC.Warp(2,~,0,~)
+	@NPC.Warp(3,~,0,~)
+	@NPC.Warp(4,~,0,~)
 :endif
 
-:if:position(Player,8,0,84)
-:then
-@Warp:2,8,0,83
+:if:<player.position>=6,0,81
+	@NPC.Warp(1,~-1,0,~+1)
+	@NPC.Warp(2,~-1,0,~+1)
+	@NPC.Warp(3,~-1,0,~+1)
+	@NPC.Warp(4,~-1,0,~+1)
 :endif
 
-:if:position(Player,7,0,83)
-:then
-@Warp:2,7,0,82
+:if:<player.position>=7,0,82
+	@NPC.Warp(1,~,0,~+2)
+	@NPC.Warp(2,~,0,~+2)
+	@NPC.Warp(3,~,0,~+2)
+	@NPC.Warp(4,~,0,~+2)
 :endif
+@Sound.Play(Screech)
+@NPC.MoveAsync(1,1)
+@NPC.MoveAsync(2,1)
+@NPC.MoveAsync(3,1)
+@NPC.Move(4,1)
 
-:if:position(Player,7,0,85)
-:then
-@Warp:1,7,0,86
-:endif
+@NPC.Turn(1,0)
+@NPC.Turn(2,3)
+@NPC.Turn(3,1)
+@NPC.Turn(4,2)
 
-@Turn:Player,1
-@Turn:Player,1
+@NPC.MoveAsync(1,2)
+@NPC.MoveAsync(2,2)
+@NPC.MoveAsync(3,2)
+@NPC.Move(4,2)
 
-@Wait:20
+@NPC.Turn(1,3)
+@NPC.Turn(2,2)
+@NPC.Turn(3,0)
+@NPC.Turn(4,1)
 
-@Warp:Player,rip.dat,4,0.1,4,0
+@NPC.MoveAsync(1,2)
+@NPC.MoveAsync(2,2)
+@NPC.MoveAsync(3,2)
+@NPC.Move(4,2)
 
+@NPC.Turn(1,2)
+@NPC.Turn(2,1)
+@NPC.Turn(3,3)
+@NPC.Turn(4,0)
+
+@NPC.MoveAsync(1,1)
+@NPC.MoveAsync(2,1)
+@NPC.MoveAsync(3,1)
+@NPC.Move(4,1)
+
+@Level.Wait(20)
+@Player.Warp(RIP.dat,4,0.1,4,0)
 :end

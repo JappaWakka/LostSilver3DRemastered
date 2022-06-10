@@ -5,30 +5,38 @@ version=2
 @Pokemon.Clear
 
 @Pokemon.Add(201,15,...,5,Ruins of Alph,0)
-@Pokemon.SetNickName(0,UNOWN)
+@Pokemon.SetNickName(0,Unown)
 @Pokemon.SetAdditionalValue(0,3)
 
 @Pokemon.Add(201,15,...,5,Ruins of Alph,0)
-@Pokemon.SetNickName(1,UNOWN)
+@Pokemon.SetNickName(1,Unown)
 @Pokemon.SetAdditionalValue(1,24)
 
 @Pokemon.Add(201,15,...,5,Ruins of Alph,0)
-@Pokemon.SetNickName(2,UNOWN)
+@Pokemon.SetNickName(2,Unown)
 @Pokemon.SetAdditionalValue(2,8)
 
 @Pokemon.Add(201,15,...,5,Ruins of Alph,0)
-@Pokemon.SetNickName(3,UNOWN)
+@Pokemon.SetNickName(3,Unown)
 @Pokemon.SetAdditionalValue(3,13)
 
 @Pokemon.Add(201,15,...,5,Ruins of Alph,0)
-@Pokemon.SetNickName(4,UNOWN)
+@Pokemon.SetNickName(4,Unown)
 @Pokemon.SetAdditionalValue(4,6)
 
 @Pokemon.Add(251,100,...,1,...,0)
-@Pokemon.SetNickName(5,CELEBI)
+@Pokemon.SetNickName(5,Celebi)
 @Pokemon.SetShiny(5,1)
 @Pokemon.RemoveItem(5)
 @Pokemon.ClearAttacks(5)
 @Pokemon.AddAttack(5,1003)
 
+@Player.AddBadge(25)
+@Player.AddBadge(26)
+@Player.AddBadge(27)
+@Player.AddBadge(28)
+@Player.AddBadge(29)
+@Player.AddBadge(30)
+@Player.AddBadge(31)
+@Player.AddBadge(32)
 :end

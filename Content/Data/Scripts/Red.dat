@@ -3,7 +3,7 @@ Version=2
 @Pokemon.Clear
 
 @Pokemon.Add(251,100,...,1,...,0)
-@Pokemon.SetNickName(0,CELEBI)
+@Pokemon.SetNickName(0,Celebi)
 @Pokemon.SetShiny(0,1)
 @Pokemon.ClearAttacks(0)
 @Pokemon.AddAttack(0,1003)
@@ -11,7 +11,14 @@ Version=2
 @Pokemon.SetStat(0,cHP,314)
 @Pokemon.SetStat(0,Speed,1)
 @Pokemon.RemoveItem(0)
+
 @Battle.Trainer(red)
 
+@Level.Wait(35)
+@NPC.Turn(0,2)
+@Level.Wait(35)
+@Sound.Play(FieldMove_Cut)
+@NPC.WearSkin(0,Red_Beheaded)
+@Level.Wait(15)
 @Player.Warp(room.dat,1,0.1,3,0)
 :end

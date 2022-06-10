@@ -1,9 +1,8 @@
-@Action:SetRenderDistance(0)
+version=2
+@Environment.SetRenderDistance(0)
 
-@Player:WearSkin(WhiteGold)
-@Action:ActivateThirdPerson
-@Pokemon:Clear
+@Player.SetSkin(Gold_Transparent_White)
+@Camera.ActivateThirdPerson
 
-@Move:Player,3
-
+@Pokemon.Clear
 :end
