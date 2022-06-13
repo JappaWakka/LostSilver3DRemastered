@@ -1,0 +1,7 @@
+Version=2
+@Text.Show(TURN BACK NOW)
+@Level.Wait(1)
+@Options.Show(Yes,No,[TEXT=FALSE])
+:endwhen
+@Player.Warp(grave.dat,5,0.1,4,0)
+:end

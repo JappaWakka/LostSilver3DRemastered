@@ -2,7 +2,7 @@ Version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Regular)
 @Player.SetName(...)
-@Player.SetOT(10705)
+@Player.SetOT(18713)
 @Player.AddMoney(999999)
 
 :end
