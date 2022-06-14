@@ -2,7 +2,7 @@ Version=2
 
 @Pokemon.Clear
 
-@Pokemon.Add(251,100,...,1,...,0)
+@Pokemon.Add(1033,100,...,1,...,0)
 @Pokemon.SetNickName(0,Celebi)
 @Pokemon.SetShiny(0,1)
 @Pokemon.ClearAttacks(0)

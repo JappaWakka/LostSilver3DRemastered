@@ -740,6 +740,7 @@ pokemon_name_Fearow,Fearow
 pokemon_name_Ekans,Ekans
 pokemon_name_Arbok,Arbok
 pokemon_name_Pikachu,Pikachu
+pokemon_name_PikachuSad,Pikachu
 pokemon_name_Raichu,Raichu
 pokemon_name_Sandshrew,Sandshrew
 pokemon_name_Sandshlash,Sandslash
@@ -869,10 +870,12 @@ pokemon_name_Chikorita,Chikorita
 pokemon_name_Bayleef,Bayleef
 pokemon_name_Meganium,Meganium
 pokemon_name_Cyndaquil,Cyndaquil
+pokemon_name_CyndaquilNoEyes,Cyndaquil
 pokemon_name_Quilava,Quilava
 pokemon_name_Typhlosion,Typhlosion
 pokemon_name_TyphlosionNoEyes,Typhlosion
 pokemon_name_Totodile,Totodile
+pokemon_name_TotodileNoEyes,Totodile
 pokemon_name_Croconaw,Croconaw
 pokemon_name_Feraligatr,Feraligatr
 pokemon_name_FeraligatrNoEyes,Feraligatr
@@ -967,6 +970,8 @@ pokemon_name_Tyranitar,Tyranitar
 pokemon_name_Lugia,Lugia
 pokemon_name_Ho-Oh,Ho-Oh
 pokemon_name_Celebi,Celebi
+pokemon_name_CelebiHalf,Celebi
+pokemon_name_CelebiHalfScreech,Celebi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Story translation:
 ---

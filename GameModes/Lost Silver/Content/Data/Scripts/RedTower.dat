@@ -24,7 +24,7 @@ version=2
 @Pokemon.SetNickName(4,Unown)
 @Pokemon.SetAdditionalValue(4,6)
 
-@Pokemon.Add(251,100,...,1,...,0)
+@Pokemon.Add(1032,100,...,1,...,0)
 @Pokemon.SetNickName(5,Celebi)
 @Pokemon.SetShiny(5,1)
 @Pokemon.RemoveItem(5)
