@@ -1,8 +1,13 @@
 version=2
+@Camera.DeactivateThirdPerson
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Dead)
 @Level.Wait(50)
-@Text.Show(R.I.P. ...)
+:if:<Register.Registered(Hidden_Done)>=true
+	@Text.Show(R.I.P.*Trainer Gold)
+:else
+	@Text.Show(R.I.P. ...)
+:endif
 
 @Pokemon.Clear
 

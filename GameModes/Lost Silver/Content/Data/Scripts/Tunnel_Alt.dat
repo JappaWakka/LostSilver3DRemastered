@@ -1,6 +1,17 @@
 version=2
+:if:<register.registered(TunnelAlt)>=false
+	@Camera.ActivateThirdPerson
+	@Camera.Update
+	@Screen.SetFade(255)
+	@Text.Show( ~HURRY has)
+	@Level.Wait(15)
+	@Screen.SetFade(204)
+	@Register.Change(Tunnel,204)
+	@Register.Register(TunnelAlt,int,0)
+:endif
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Backwards)
+@Screen.SetFade(<Register.Value(Tunnel)>)
 
 @Pokemon.Clear
 

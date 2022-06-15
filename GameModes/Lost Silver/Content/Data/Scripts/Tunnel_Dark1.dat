@@ -1,4 +1,6 @@
 Version=2
-@Screen.SetFade(25)
-@Register.Change(Tunnel,25)
+:if:<Register.Value(Tunnel)><25
+	@Screen.SetFade(25)
+	@Register.Change(Tunnel,25)
+:endif
 :end
