@@ -1,21 +1,3 @@
 Version=2
-:if:<Register.Registered(EasterEgg_Tunnel)>=false
-	@Text.Show(Even...*SAVE YO...!)
-	@Sound.Play(Success)
-	@Text.Show( has forgotten~Nightmare!)
-	@Text.Show(GO AWAY...)
-	@Options.Show(Yes,No,[TEXT=FALSE])
-	:when:Yes
-		@Text.Show(Crystal! Hack!)
-		@Text.Show(You let them get you,~didn't you, Crystal?)
-		@Text.Show(Don't lie to me!)
-		@Text.Show(I can see what they did!~Look at yourself.)
-	:when:No
-		@Text.Show(GOLD?)
-		@Register.Register(EasterEgg_Tunnel)
-	:endwhen
-	@Text.Show(Where do you think you are?)
-:else
-	@Text.Show(Where do you think you are?)
-:endif
+@Text.Show(Where do you think you are?)
 :end

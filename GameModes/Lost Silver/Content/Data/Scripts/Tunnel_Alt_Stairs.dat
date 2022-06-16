@@ -1,0 +1,5 @@
+Version=2
+@Sound.Play(Enter)
+@Screen.FadeOut(15)
+@Player.Warp(Maze.dat,10,0.1,1,0)
+:end
