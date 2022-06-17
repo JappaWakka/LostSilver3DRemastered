@@ -1,0 +1,25 @@
+Version=2
+:if:<Register.Registered(PleaseHalf)>=false
+	@Text.Show(      ~PLEASE! has)
+	@Pokemon.Clear
+	
+	@Pokemon.Add(1008,20,...,5,...,0)
+	@Pokemon.SetNickName(0,Unown)
+	
+	@Pokemon.Add(1009,20,...,5,...,0)
+	@Pokemon.SetNickName(1,Unown)
+	
+	@Pokemon.Add(1028,20,...,5,...,0)
+	@Pokemon.SetNickName(2,Unown)
+	
+	@Pokemon.Add(1028,20,...,5,...,0)
+	@Pokemon.SetNickName(3,Unown)
+	
+	@Pokemon.Add(4,{"Pokemon"[1004]}{"Experience"[762160]}{"Gender"[1]}{"NickName"[Please!]}{"Level"[90]}{"OT"[18713]}{"Status"[PRZ]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[172,25,25]}{"Attack2"[9,15,15]}{"Attack3"[216,20,20]}{"Attack4"[43,40,40]}{"HP"[99]})
+	@Pokemon.SetStat(4,cHP,18)
+	
+	@Pokemon.Add(1000,15,...,5,...,1)
+	@Pokemon.SetNickName(5,Egg)
+	@Register.Register(PleaseHalf)
+:endif
+:end

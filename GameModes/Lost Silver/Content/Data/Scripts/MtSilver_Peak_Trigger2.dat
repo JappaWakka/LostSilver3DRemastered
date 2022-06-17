@@ -1,0 +1,22 @@
+Version=2
+:if:<Register.Registered(PleaseDead)>=false
+	@Text.Show(      ~PLEASE! has p)
+	@Pokemon.Clear
+	
+	@Pokemon.Add(1008,20,...,5,...,0)
+	@Pokemon.SetNickName(0,Unown)
+	
+	@Pokemon.Add(1009,20,...,5,...,0)
+	@Pokemon.SetNickName(1,Unown)
+	
+	@Pokemon.Add(1018,20,...,5,...,0)
+	@Pokemon.SetNickName(2,Unown)
+	
+	@Pokemon.Add(1029,20,...,5,...,0)
+	@Pokemon.SetNickName(3,Unown)
+	
+	@Pokemon.Add(1000,15,...,5,...,1)
+	@Pokemon.SetNickName(4,Egg)
+	@Register.Register(PleaseDead)
+:endif
+:end

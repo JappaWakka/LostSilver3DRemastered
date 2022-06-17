@@ -15,22 +15,22 @@ version=2
 
 @Pokemon.Clear
 
-@Pokemon.Add(1024,10,...,5,Ruins of Alph,0)
+@Pokemon.Add(1024,10,...,5,...,0)
 @Pokemon.SetNickName(0,Unown)
 
-@Pokemon.Add(1019,10,...,5,Ruins of Alph,0)
+@Pokemon.Add(1019,10,...,5,...,0)
 @Pokemon.SetNickName(1,Unown)
 
-@Pokemon.Add(1019,10,...,5,Ruins of Alph,0)
+@Pokemon.Add(1019,10,...,5,...,0)
 @Pokemon.SetNickName(2,Unown)
 
-@Pokemon.Add(1006,10,...,5,Ruins of Alph,0)
+@Pokemon.Add(1006,10,...,5,...,0)
 @Pokemon.SetNickName(3,Unown)
 
-@Pokemon.Add(1005,10,...,5,Ruins of Alph,0)
+@Pokemon.Add(1005,10,...,5,...,0)
 @Pokemon.SetNickName(4,Unown)
 
-@Pokemon.Add(1008,10,...,5,Ruins of Alph,0)
+@Pokemon.Add(1008,10,...,5,...,0)
 @Pokemon.SetNickName(5,Unown)
 
 :end

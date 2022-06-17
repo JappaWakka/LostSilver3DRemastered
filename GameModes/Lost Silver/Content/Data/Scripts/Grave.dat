@@ -16,27 +16,27 @@ Version=2
 @Music.Play(PokeFlute)
 @Pokemon.Clear
 
-@Pokemon.Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon.Add(201,5,...,5,...,0)
 @Pokemon.SetNickName(0,Unown)
 @Pokemon.SetAdditionalValue(0,7)
 
-@Pokemon.Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon.Add(201,5,...,5,...,0)
 @Pokemon.SetNickName(1,Unown)
 @Pokemon.SetAdditionalValue(1,4)
 
-@Pokemon.Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon.Add(201,5,...,5,...,0)
 @Pokemon.SetNickName(2,Unown)
 @Pokemon.SetAdditionalValue(2,3)
 
-@Pokemon.Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon.Add(201,5,...,5,...,0)
 @Pokemon.SetNickName(3,Unown)
 @Pokemon.SetAdditionalValue(3,8)
 
-@Pokemon.Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon.Add(201,5,...,5,...,0)
 @Pokemon.SetNickName(4,Unown)
 @Pokemon.SetAdditionalValue(4,4)
 
-@Pokemon.Add(201,5,...,5,Ruins of Alph,0)
+@Pokemon.Add(201,5,...,5,...,0)
 @Pokemon.SetNickName(5,Unown)
 @Pokemon.SetAdditionalValue(5,3)
 
