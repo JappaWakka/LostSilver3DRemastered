@@ -4,7 +4,7 @@ version=2
 @Player.SetSkin(Dead)
 @Level.Wait(50)
 :if:<Register.Registered(Hidden_Done)>=true
-	@Text.Show(R.I.P.*Trainer Gold)
+	@Text.Show(R.I.P.*Pokémon Trainer Gold)
 :else
 	@Text.Show(R.I.P. ...)
 :endif
