@@ -1,4 +1,5 @@
 Version=2
+@Camera.SetPitch(0)
 @Camera.ActivateThirdPerson
 @Camera.Fix
 @Level.Wait(45)
