@@ -9837,3 +9837,4 @@ System.Runtime.CompilerServices.Unsafe.xml
 System.ValueTuple.dll
 System.ValueTuple.xml
 GameModes/Kolben/GameMode.dat
+*.tmp
