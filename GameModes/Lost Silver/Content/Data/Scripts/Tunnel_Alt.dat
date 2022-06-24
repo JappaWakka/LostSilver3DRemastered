@@ -8,6 +8,7 @@ version=2
 	@Screen.SetFade(204)
 	@Register.Change(Tunnel,204)
 	@Register.Register(TunnelAlt,int,0)
+	@Camera.SetYaw(0)
 :endif
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Backwards)
