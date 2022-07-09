@@ -1,6 +1,6 @@
 Version=2
 :if:<Register.Registered(EggHatched)>=false
-	@Text.Show(?)
+	@Text.Show(?*   came~out of its egg!)
 	@Pokemon.Clear
 	
 	@Pokemon.Add(1008,20,...,5,...,0)
