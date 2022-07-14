@@ -18,7 +18,6 @@ version=2
 	@Screen.FadeIn(15)
 	@Level.Wait(10)
 	@Camera.ActivateThirdPerson
-	@Register.Register(MtSilver_Peak)
 	@Pokemon.Clear
 
 	@Pokemon.Add(1028,20,...,5,...,0)
@@ -40,6 +39,7 @@ version=2
 	@Pokemon.Add(1000,15,...,5,...,1)
 	@Pokemon.SetNickName(5,Egg)
 	
+	@Register.Register(MtSilver_Peak)
 :endif
 
 @Environment.SetRenderDistance(0)

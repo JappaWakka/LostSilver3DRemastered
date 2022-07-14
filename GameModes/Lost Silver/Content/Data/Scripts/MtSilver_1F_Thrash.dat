@@ -1,0 +1,7 @@
+Version=2
+:if:<Register.Registered(RemoveThrash)>=false
+	@Text.Show(    is thrashing~about!)
+	@Pokemon.RemoveAttack(4,3)
+	@Register.Register(RemoveThrash)
+:endif
+:end

@@ -23,5 +23,6 @@ Version=2
 	@Pokemon.AddAttack(4,148)
 	@Pokemon.AddAttack(4,171)
 	@Pokemon.AddAttack(4,37)
+	@Register.Register(EggHatched)
 :endif
 :end
