@@ -12,8 +12,9 @@ Version=2
 @Pokemon.SetStat(0,Speed,1)
 @Pokemon.RemoveItem(0)
 
-@Battle.Trainer(red)
+@Battle.Trainer(Red)
 
+@Player.Warp(Battle_RedTower.dat)
 @Level.Wait(35)
 @NPC.Turn(0,2)
 @Level.Wait(35)

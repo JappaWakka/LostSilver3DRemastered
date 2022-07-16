@@ -1,5 +1,5 @@
 version=2
-:if:<register.registered(TunnelAlt)>=false
+:if:<Register.Registered(TunnelAlt)>=false
 	@Camera.ActivateThirdPerson
 	@Camera.Update
 	@Screen.SetFade(255)

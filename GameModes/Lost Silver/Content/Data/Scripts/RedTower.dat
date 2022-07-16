@@ -2,6 +2,19 @@ version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Grayscale)
 
+:if:<Register.Registered(RedTower)>=false
+	@Camera.ActivateThirdPerson
+	@Register.Register(RedTower)
+	@Player.AddBadge(25)
+	@Player.AddBadge(26)
+	@Player.AddBadge(27)
+	@Player.AddBadge(28)
+	@Player.AddBadge(29)
+	@Player.AddBadge(30)
+	@Player.AddBadge(31)
+	@Player.AddBadge(32)
+:endif
+
 @Pokemon.Clear
 
 @Pokemon.Add(201,15,...,5,...,0)
@@ -31,12 +44,4 @@ version=2
 @Pokemon.ClearAttacks(5)
 @Pokemon.AddAttack(5,1003)
 
-@Player.AddBadge(25)
-@Player.AddBadge(26)
-@Player.AddBadge(27)
-@Player.AddBadge(28)
-@Player.AddBadge(29)
-@Player.AddBadge(30)
-@Player.AddBadge(31)
-@Player.AddBadge(32)
 :end

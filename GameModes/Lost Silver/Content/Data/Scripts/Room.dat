@@ -1,8 +1,18 @@
 version=2
-@Environment.SetRenderDistance(0)
+:if:<Register.Registered(Room)>=false
+	@Player.SetSkin(Gold_Transparent_Black)
+	@Camera.ActivateThirdPerson
+	@Player.AddBadge(33)
+	@Player.AddBadge(34)
+	@Player.AddBadge(35)
+	@Player.AddBadge(36)
+	@Player.AddBadge(37)
+	@Player.AddBadge(38)
+	@Player.AddBadge(39)
+	@Player.AddBadge(40)
+:endif
 
-@Player.SetSkin(Gold_Transparent_Black)
-@Camera.ActivateThirdPerson
+@Environment.SetRenderDistance(0)
 
 @Pokemon.Clear
 
@@ -35,14 +45,5 @@ version=2
 @Pokemon.SetNickName(5,Unown)
 @Pokemon.SetAdditionalValue(5,4)
 @Pokemon.SetShiny(5,1)
-
-@Player.AddBadge(33)
-@Player.AddBadge(34)
-@Player.AddBadge(35)
-@Player.AddBadge(36)
-@Player.AddBadge(37)
-@Player.AddBadge(38)
-@Player.AddBadge(39)
-@Player.AddBadge(40)
 
 :end
