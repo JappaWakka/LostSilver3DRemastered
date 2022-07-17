@@ -79,7 +79,11 @@ Version=2
 	@Level.Update
 :endwhile
 @NPC.Register(MtSilver_Outside.dat|1|remove|1)
+@Level.Update
 @NPC.Remove(0)
+@Level.Update
+@NPC.Register(MtSilver_Outside.dat|0|remove|1)
 @NPC.Warp(2,~,0,~)
+@Level.Update
 @Register.Register(FeraligatrBattle)
 :end

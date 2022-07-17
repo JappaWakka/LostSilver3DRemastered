@@ -24,6 +24,8 @@ Version=2
 
 :if:<Register.Registered(FeraligatrBattle)>=true
 	@Pokemon.SetStat(4,cHP,1)
-	@NPC.Warp(2,~,0,~)
+	:if:<Register.Registered(SilverEven)>=False
+		@NPC.Warp(2,~,0,~)
+	:endif
 :endif
 :end
