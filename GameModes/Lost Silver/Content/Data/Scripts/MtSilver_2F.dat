@@ -1,4 +1,5 @@
 Version=2
+@Environment.SetRenderDistance(0)
 :if:<Register.Registered(EggHatched)>=false
 	@Pokemon.Clear
 	

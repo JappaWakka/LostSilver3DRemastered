@@ -19,10 +19,10 @@ Version=2
 @Player.Warp(Battle_MtSilver_Outside.dat)
 @Level.Update
 @Camera.Update
+@Environment.SetRenderDistance(4)
 @Battle.Wild({"Pokemon"[1003]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[]}{"Level"[90]}{"OT"[18713]}{"Ability"[67]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[37,10,10]}{"Attack2"[401,10,10]}{"Attack3"[276,5,5]}{"Attack4"[56,5,5]}{"HP"[256]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[]}{"IDValue"[myDYzVeAXfg]},FeraligatrBattle_Intro)
 @Screen.FadeIn(10)
 @Battle.ResetVars
-
 @Pokemon.Clear
 
 @Pokemon.Add(1008,20,...,5,...,0)
@@ -80,6 +80,7 @@ Version=2
 :endwhile
 @NPC.Register(MtSilver_Outside.dat|1|remove|1)
 @Level.Update
+@Environment.SetRenderDistance(0)
 @NPC.Remove(0)
 @Level.Update
 @NPC.Register(MtSilver_Outside.dat|0|remove|1)

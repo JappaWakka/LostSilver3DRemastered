@@ -1,5 +1,6 @@
 Version=2
 @Pokemon.Clear
+@Environment.SetRenderDistance(0)
 
 @Pokemon.Add(1008,20,...,5,...,0)
 @Pokemon.SetNickName(0,Unown)
