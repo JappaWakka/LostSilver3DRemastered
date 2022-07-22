@@ -1,4 +1,4 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Unown_Reverse]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[5]}}{"Weather"{int[1]}}{"Lighting"{int[1]}}{"CurrentRegion"{str[Lost]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[5]}}{"Weather"{int[1]}}{"Lighting"{int[1]}}]}}
 Red
 {"NPC"{NPC[{"Position"{sngArr[4,0,-127]}}{"TextureID"{str[Red_Transparent]}}{"ID"{int[0]}}{"Name"{str[Red]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
