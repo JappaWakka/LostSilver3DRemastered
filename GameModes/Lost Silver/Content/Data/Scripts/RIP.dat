@@ -82,5 +82,5 @@ version=2
 @Player.RemoveBadge(39)
 @Player.RemoveBadge(40)
 
-@Level.Wait(10000000000000000000)
+@Level.Wait(10000000)
 :end
