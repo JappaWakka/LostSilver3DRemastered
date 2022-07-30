@@ -25,6 +25,7 @@ Version=2
 	@Pokemon.AddAttack(4,171)
 	@Pokemon.SetStat(5,MaxHP,20)
 	@Pokemon.SetStat(4,cHP,1)
-	@Register.Register(Goldenrod_Dead)
+	@Register.Register(Goldenrod_Dead,int,0)
 :endif
+
 :end
