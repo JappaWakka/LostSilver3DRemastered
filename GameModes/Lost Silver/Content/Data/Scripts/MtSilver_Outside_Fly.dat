@@ -18,7 +18,7 @@ Version=2
 	@Level.Update
 	@Screen.SetFade(255)
 	@Camera.Update
-	@Screen.FadeIn(8)
+	@Screen.FadeIn(10)
 	@Camera.Update
 	@Player.TurnTo(0)
 :endif

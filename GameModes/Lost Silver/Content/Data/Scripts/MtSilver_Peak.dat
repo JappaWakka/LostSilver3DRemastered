@@ -1,4 +1,6 @@
 version=2
+@Environment.SetRenderDistance(0)
+@Player.SetSkin(Gold_NoEyes)
 :if:<Register.Registered(MtSilver_Peak)>=false
 	@Camera.SetPitch(0)
 	@Camera.DeactivateThirdPerson
@@ -41,8 +43,5 @@ version=2
 	
 	@Register.Register(MtSilver_Peak)
 :endif
-
-@Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_NoEyes)
 
 :end

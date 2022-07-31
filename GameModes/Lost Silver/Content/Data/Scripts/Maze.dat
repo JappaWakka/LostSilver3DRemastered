@@ -1,4 +1,7 @@
 version=2
+@Environment.SetRenderDistance(0)
+@Player.SetSkin(Gold_Backwards_Dark4)
+
 :if:<Register.Registered(Maze)>=false
 	@screen.setfade(255)
 	@camera.update
@@ -13,8 +16,6 @@ version=2
 :endif
 @screen.setfade(204)
 
-@Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_Backwards_Dark4)
 @Pokemon.Clear
 
 @Pokemon.Add(1022,15,...,5,...,0)

@@ -1,5 +1,4 @@
 Version=2
-
 :if:<Register.Value(Goldenrod_Dead)>=12
 	@Camera.ActivateThirdPerson
 	@Camera.SetPosition(0,0.9,3)
@@ -19,7 +18,7 @@ Version=2
 	@Level.Update
 	@Screen.SetFade(255)
 	@Camera.Update
-	@Screen.FadeIn(8)
+	@Screen.FadeIn(10)
 	@Camera.Update
 	@Player.TurnTo(0)
 :endif

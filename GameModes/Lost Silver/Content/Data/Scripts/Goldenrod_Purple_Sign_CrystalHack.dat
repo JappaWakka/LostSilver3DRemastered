@@ -1,5 +1,3 @@
 Version=2
-@Text.Show(CRYSTAL HACK)
-@Text.Show(You let them get you,~didn't you, Crystal?)
-@Text.Show(Don't lie to me!)
-@Text.Show(I can see what they did!~Look at yourself.)
+@Text.Show(CRYSTAL HACK*You let them get you,~didn't you, Crystal?*Don't lie to me!*I can see what they did!~Look at yourself.)
+:end

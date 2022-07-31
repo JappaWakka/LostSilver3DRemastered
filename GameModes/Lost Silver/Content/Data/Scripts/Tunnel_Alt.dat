@@ -5,33 +5,31 @@ version=2
 	@Screen.SetFade(255)
 	@Text.Show( ~HURRY has)
 	@Level.Wait(15)
-	@Screen.SetFade(204)
-	@Register.Change(Tunnel,204)
+	@Screen.SetFade(153)
+	@Register.Change(Tunnel,153)
 	@Register.Register(TunnelAlt,int,0)
 	@Camera.SetYaw(0)
+	@Environment.SetRenderDistance(0)
+	@Player.SetSkin(Gold_Backwards)
+	@Screen.SetFade(<Register.Value(Tunnel)>)
+	@Pokemon.Clear
+	
+	@Pokemon.Add(1024,10,...,5,...,0)
+	@Pokemon.SetNickName(0,Unown)
+	
+	@Pokemon.Add(1019,10,...,5,...,0)
+	@Pokemon.SetNickName(1,Unown)
+	
+	@Pokemon.Add(1019,10,...,5,...,0)
+	@Pokemon.SetNickName(2,Unown)
+	
+	@Pokemon.Add(1006,10,...,5,...,0)
+	@Pokemon.SetNickName(3,Unown)
+	
+	@Pokemon.Add(1005,10,...,5,...,0)
+	@Pokemon.SetNickName(4,Unown)
+	
+	@Pokemon.Add(1008,10,...,5,...,0)
+	@Pokemon.SetNickName(5,Unown)
 :endif
-@Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_Backwards)
-@Screen.SetFade(<Register.Value(Tunnel)>)
-
-@Pokemon.Clear
-
-@Pokemon.Add(1024,10,...,5,...,0)
-@Pokemon.SetNickName(0,Unown)
-
-@Pokemon.Add(1019,10,...,5,...,0)
-@Pokemon.SetNickName(1,Unown)
-
-@Pokemon.Add(1019,10,...,5,...,0)
-@Pokemon.SetNickName(2,Unown)
-
-@Pokemon.Add(1006,10,...,5,...,0)
-@Pokemon.SetNickName(3,Unown)
-
-@Pokemon.Add(1005,10,...,5,...,0)
-@Pokemon.SetNickName(4,Unown)
-
-@Pokemon.Add(1008,10,...,5,...,0)
-@Pokemon.SetNickName(5,Unown)
-
 :end

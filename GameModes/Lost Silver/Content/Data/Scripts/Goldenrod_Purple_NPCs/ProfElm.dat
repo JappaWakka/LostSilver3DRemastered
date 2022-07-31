@@ -1,4 +1,4 @@
 Version=2
-@Screen.ShowPokemon(1027,0,1)
 @NPC.Turn(2,3)
+@Screen.ShowPokemon(1027,0,1)
 :end
