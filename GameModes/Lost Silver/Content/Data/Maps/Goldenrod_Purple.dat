@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Goldenrod_Slower]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[0]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[Goldenrod_Purple]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[0]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[2]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[Goldenrod_Purple]}}]}}
 
 Floors:
 Dirt
@@ -486,3 +486,16 @@ Hills:
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[39,0,9]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[64,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[2]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,11]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[39,1,-2]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[48,16,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,11]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[38,0,-2]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[64,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
+
+{"NPC"{NPC[{"Position"{sngArr[18,0,26]}}{"TextureID"{str[ProfessorElm_White]}}{"ID"{int[2]}}{"Name"{str[Prof. Elm]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\ProfElm]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[21,0,24]}}{"TextureID"{str[LeaderFalkner_White]}}{"ID"{int[4]}}{"Name"{str[Falkner]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Falkner]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[18,0,22]}}{"TextureID"{str[LeaderJasmine_White]}}{"ID"{int[10]}}{"Name"{str[Jasmine]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Jasmine]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[21,0,20]}}{"TextureID"{str[LeaderWhitney_White]}}{"ID"{int[9]}}{"Name"{str[Whitney]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Whitney]}}{"Rotation"{int[0]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[18,0,18]}}{"TextureID"{str[LeaderChuck_White]}}{"ID"{int[6]}}{"Name"{str[Chuck]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Chuck]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[21,0,16]}}{"TextureID"{str[LeaderPryce_White]}}{"ID"{int[7]}}{"Name"{str[Pryce]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Pryce]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[18,0,14]}}{"TextureID"{str[LeaderBugsy_White]}}{"ID"{int[3]}}{"Name"{str[Bugsy]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Bugsy]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[21,0,12]}}{"TextureID"{str[LeaderMorty_White]}}{"ID"{int[5]}}{"Name"{str[Morty]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Morty]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[18,0,10]}}{"TextureID"{str[LeaderClair_White]}}{"ID"{int[8]}}{"Name"{str[Clair]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Clair]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[21,0,8]}}{"TextureID"{str[ChampionLance_White]}}{"ID"{int[11]}}{"Name"{str[Lance]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Lance]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[18,0,6]}}{"TextureID"{str[ProfessorOak_White]}}{"ID"{int[1]}}{"Name"{str[Prof. Oak]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\ProfOak]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[21,0,4]}}{"TextureID"{str[Mom_White]}}{"ID"{int[0]}}{"Name"{str[Mom]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Mom]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
