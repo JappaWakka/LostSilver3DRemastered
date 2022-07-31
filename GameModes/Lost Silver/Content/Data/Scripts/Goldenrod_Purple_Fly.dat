@@ -12,6 +12,7 @@ Version=2
 @Camera.DeFix
 @Camera.Reset
 @Player.TurnTo(0)
+@Camera.SetPitch(0)
 @Player.Warp(BellchimeTrail.dat,6,0.1,7)
 @Player.WearSkin(Gold_NoEyes)
 @Level.Update

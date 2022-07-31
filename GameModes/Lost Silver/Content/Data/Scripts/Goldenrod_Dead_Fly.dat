@@ -14,6 +14,7 @@ Version=2
 	@Camera.Reset
 	@Player.TurnTo(0)
 	@Player.Warp(Goldenrod_Purple.dat,19,0.1,31)
+	@Camera.SetPitch(0)
 	@Player.WearSkin(Gold_NoEyes)
 	@Level.Update
 	@Screen.SetFade(255)

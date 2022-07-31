@@ -1,9 +1,12 @@
 Version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Regular)
-@Player.SetName(...)
-@Player.SetOT(18713)
-@Player.AddMoney(999999)
+	
+:if:<Register.Registered(Tower)>=false
+	@Player.SetName(...)
+	@Player.SetOT(18713)
+	@Player.AddMoney(999999)
+:endif
 
 @Pokemon.Clear
 

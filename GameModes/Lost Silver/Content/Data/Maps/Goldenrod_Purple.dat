@@ -245,7 +245,7 @@ Sign
 Goldenrod Tunnel South Entrance:
 {"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[10,0,28]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[11,0,29]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
-Sign
+Sign Crystal Hack
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[12,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"Entity"{ENT[{"EntityID"{str[SignBlock]}}{"Position"{sngArr[12,0,30]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_Sign_CrystalHack]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 
@@ -264,7 +264,7 @@ NameRater:
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[16.905,1,7]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[32,48,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Door
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[15,0,7]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
-Sign
+Sign Tarnished Gold
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[28,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"Entity"{ENT[{"EntityID"{str[SignBlock]}}{"Position"{sngArr[28,0,30]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_Sign_TarnishedGold]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 

@@ -1,5 +1,6 @@
 Version=2
 @Environment.SetRenderDistance(0)
+@Player.SetSkin(Gold_NoEyes)
 @Pokemon.Clear
 
 @Pokemon.Add(1008,20,...,5,...,0)

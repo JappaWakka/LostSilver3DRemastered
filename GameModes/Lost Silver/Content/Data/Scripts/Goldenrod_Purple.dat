@@ -23,7 +23,7 @@ Version=2
 	@Pokemon.AddAttack(4,43)
 	@Pokemon.AddAttack(4,148)
 	@Pokemon.AddAttack(4,171)
-	@Pokemon.SetStat(5,MaxHP,20)
+	@Pokemon.SetStat(4,MaxHP,20)
 	@Pokemon.SetStat(4,cHP,1)
 	@Register.Register(Goldenrod_Purple)
 :endif

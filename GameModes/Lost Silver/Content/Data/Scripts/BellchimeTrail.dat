@@ -1,0 +1,49 @@
+Version=2
+@Environment.SetRenderDistance(0)
+@Player.SetSkin(Gold_NoEyes)
+
+@Pokemon.Clear
+
+@Pokemon.Add(1028,5,...,5,...,0)
+@Pokemon.SetNickName(0,Unown)
+@Pokemon.SetAdditionalValue(0,11)
+
+@Pokemon.Add(1028,5,...,5,...,0)
+@Pokemon.SetNickName(1,Unown)
+@Pokemon.SetAdditionalValue(1,4)
+
+@Pokemon.Add(1028,5,...,5,...,0)
+@Pokemon.SetNickName(2,Unown)
+@Pokemon.SetAdditionalValue(2,0)
+
+@Pokemon.Add(1028,5,...,5,...,0)
+@Pokemon.SetNickName(3,Unown)
+@Pokemon.SetAdditionalValue(3,21)
+
+@Pokemon.Add(1028,5,...,5,...,0)
+@Pokemon.SetNickName(4,Unown)
+@Pokemon.SetAdditionalValue(4,4)
+
+@Pokemon.Add(1000,5,...,5,...,0)
+@Pokemon.SetNickName(5,   )
+@Pokemon.RemoveItem(5)
+@Pokemon.ClearAttacks(5)
+@Pokemon.AddAttack(5,43)
+@Pokemon.AddAttack(5,148)
+@Pokemon.AddAttack(5,171)
+@Pokemon.SetStat(5,MaxHP,20)
+@Pokemon.SetStat(5,cHP,1)
+
+:if:<Register.Registered(BellchimeTrail)>=false
+	@Camera.DeactivateThirdPerson
+	@Level.Wait(50)
+	@NPC.Turn(0,3)
+	@NPC.Move(0,6)
+	@NPC.Turn(0,2)
+	@NPC.Move(0,1)
+	@NPC.Remove(0)
+	@NPC.Register(BellchimeTrail.dat|0|remove|1)
+	@Register.Register(BellchimeTrail)
+:endif
+
+:end
