@@ -6,23 +6,18 @@ Version=2
 
 @Pokemon.Add(1028,5,...,5,...,0)
 @Pokemon.SetNickName(0,Unown)
-@Pokemon.SetAdditionalValue(0,11)
 
 @Pokemon.Add(1028,5,...,5,...,0)
 @Pokemon.SetNickName(1,Unown)
-@Pokemon.SetAdditionalValue(1,4)
 
 @Pokemon.Add(1028,5,...,5,...,0)
 @Pokemon.SetNickName(2,Unown)
-@Pokemon.SetAdditionalValue(2,0)
 
 @Pokemon.Add(1028,5,...,5,...,0)
 @Pokemon.SetNickName(3,Unown)
-@Pokemon.SetAdditionalValue(3,21)
 
 @Pokemon.Add(1028,5,...,5,...,0)
 @Pokemon.SetNickName(4,Unown)
-@Pokemon.SetAdditionalValue(4,4)
 
 @Pokemon.Add(1000,5,...,5,...,0)
 @Pokemon.SetNickName(5,   )

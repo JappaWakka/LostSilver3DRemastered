@@ -1,0 +1,31 @@
+Version=2
+@Environment.SetRenderDistance(0)
+@Player.SetSkin(Gold_NoEyes)
+
+:if:<Register.Value(ResetTower)>=1
+	@Text.Show(GO AWAY...)
+	@Sound.Play(Celebi)
+	@Pokemon.Clear
+
+	@Pokemon.Add(1016,5,...,5,...,0)
+	@Pokemon.SetNickName(0,Unown)
+	
+	@Pokemon.Add(1009,5,...,5,...,0)
+	@Pokemon.SetNickName(1,Unown)
+	
+	@Pokemon.Add(1005,5,...,5,...,0)
+	@Pokemon.SetNickName(2,Unown)
+	
+	@Pokemon.Add(1026,5,...,5,...,0)
+	@Pokemon.SetNickName(3,Unown)
+	
+	@Pokemon.Add(1009,5,...,5,...,0)
+	@Pokemon.SetNickName(4,Unown)
+	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,14]}{"Attack4"[]}{"HP"[20]})
+	@Register.Change(ResetTower,2)
+:endif
+
+@Pokemon.RemoveItem(5)
+@Pokemon.SetStat(5,MaxHP,20)
+@Pokemon.SetStat(5,cHP,1)
+:end
