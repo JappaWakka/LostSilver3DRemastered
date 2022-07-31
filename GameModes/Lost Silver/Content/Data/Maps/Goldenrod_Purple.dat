@@ -56,7 +56,7 @@ Flowers
 Fences:
 Vertical
 Aligned to the Right
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Fence_Vertical_Right_6z]}}{"Offset"{sngArr[17,0,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Fence_Vertical_Right_6z]}}{"Offset"{sngArr[17,0,-2]}}]}}
 
 {"EntityField"{ENT[{"Size"{intArr[1,4]}}{"Steps"{sngArr[1,3]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[35.344,-0.09375,7.346]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[48,99,5,13][48,112,5,5]]}}{"Scale"{sngArr[0.3125,0.8125,0.3125]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,4]}}{"Steps"{sngArr[1,3]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[35.344,-0.09375,6.846]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[48,99,5,13][48,112,5,5]]}}{"Scale"{sngArr[0.3125,0.8125,0.3125]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
@@ -69,8 +69,8 @@ Aligned to the Right
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[17.344,-0.06225,34.596]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[53,103,3,4][64,109,5,3][64,103,5,4]]}}{"Scale"{sngArr[0.3125,0.25,0.1875]}}{"TextureIndex"{intArr[-1,-1,0,0,0,0,2,2,1,1]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Aligned to the Left
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Fence_Vertical_Left_6z]}}{"Offset"{sngArr[22,0,-2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Fence_Vertical_Left_6z]}}{"Offset"{sngArr[5,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Fence_Vertical_Left_6z]}}{"Offset"{sngArr[22,0,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Fence_Vertical_Left_6z]}}{"Offset"{sngArr[5,0,4]}}]}}
 
 {"EntityField"{ENT[{"Size"{intArr[1,3]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[1.656,-0.09375,25.346]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[48,99,5,13][48,112,5,5]]}}{"Scale"{sngArr[0.3125,0.8125,0.3125]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,3]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[1.656,-0.09375,24.846]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[48,99,5,13][48,112,5,5]]}}{"Scale"{sngArr[0.3125,0.8125,0.3125]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
@@ -160,103 +160,103 @@ Horizontal
 
 Buildings:
 2x2
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[8,0,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[8,0,2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[32,0,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[6,0,4]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[12,0,4]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[10,0,20]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[32,0,18]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[34,0,18]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[36,0,20]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[6,0,22]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[28,0,24]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[30,0,24]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[34,0,26]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[2,0,28]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[4,0,30]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[26,0,30]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[36,0,30]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[10,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[12,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[16,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[30,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[4,0,34]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[28,0,34]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_2x1y2z]}}{"Offset"{sngArr[36,0,34]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[8,0,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[8,0,2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[32,0,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[6,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[12,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[10,0,20]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[32,0,18]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[34,0,18]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[36,0,20]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[6,0,22]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[28,0,24]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[30,0,24]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[34,0,26]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[2,0,28]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[4,0,30]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[26,0,30]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[36,0,30]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[10,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[12,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[16,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[30,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[4,0,34]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[28,0,34]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_2x1y2z]}}{"Offset"{sngArr[36,0,34]}}]}}
 
 3x2
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_3x1y2z]}}{"Offset"{sngArr[35,0,24]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_3x1y2z]}}{"Offset"{sngArr[35,0,28]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_3x1y2z]}}{"Offset"{sngArr[33,0,30]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_3x1y2z]}}{"Offset"{sngArr[27,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_3x1y2z]}}{"Offset"{sngArr[9,0,34]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_3x1y2z]}}{"Offset"{sngArr[31,0,34]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_3x1y2z]}}{"Offset"{sngArr[35,0,24]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_3x1y2z]}}{"Offset"{sngArr[35,0,28]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_3x1y2z]}}{"Offset"{sngArr[33,0,30]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_3x1y2z]}}{"Offset"{sngArr[27,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_3x1y2z]}}{"Offset"{sngArr[9,0,34]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_3x1y2z]}}{"Offset"{sngArr[31,0,34]}}]}}
 
 4x2
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[10,0,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[12,0,2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[28,0,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[34,0,2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[28,0,14]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[6,0,20]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[24,0,18]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[10,0,24]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[34,0,22]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[4,0,28]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[14,0,30]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[6,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[22,0,32]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z]}}{"Offset"{sngArr[32,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[10,0,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[12,0,2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[28,0,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[34,0,2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[28,0,14]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[6,0,20]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[24,0,18]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[10,0,24]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[34,0,22]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[4,0,28]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[14,0,30]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[6,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[22,0,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z]}}{"Offset"{sngArr[32,0,32]}}]}}
 
 4x2 with Door
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[30,0,20]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[30,0,20]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[31,0,21]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[4,0,24]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[4,0,24]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[5,0,25]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[32,0,8]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[32,0,8]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[33,0,9]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Flower Shop
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[32,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[32,0,4]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[33,0,5]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 4x4 with Windows
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x2y4z_LightBrick_Windows]}}{"Offset"{sngArr[34,0,14]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x2y4z_LightBrick_Windows]}}{"Offset"{sngArr[34,0,14]}}]}}
 
 Train Gate
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x2y4z_TrainGate]}}{"Offset"{sngArr[24,0,12]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x2y4z_TrainGate]}}{"Offset"{sngArr[24,0,12]}}]}}
 
 Train Station
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_6x2y4z_TrainStation]}}{"Offset"{sngArr[8,0,10]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_6x2y4z_TrainStation]}}{"Offset"{sngArr[8,0,10]}}]}}
 Door
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[9,0,13]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[10,-0.0625,14]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Goldenrod Tunnel North Entrance:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[8,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[8,0,4]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[9,0,5]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[8,-0.0625,6]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Goldenrod Tunnel South Entrance:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[10,0,28]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[10,0,28]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[11,0,29]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[12,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Pokémon Gym:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_6x2y4z_Gym]}}{"Offset"{sngArr[22,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_6x2y4z_Gym]}}{"Offset"{sngArr[22,0,4]}}]}}
 Door
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[24,0,7]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[26,-0.0625,9]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 NameRater:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x2y4z_LightBrick]}}{"Offset"{sngArr[14,0,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x2y4z_LightBrick]}}{"Offset"{sngArr[14,0,4]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[14.095,1,7]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[3,64,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[15,1,7]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[16,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[16,1,7]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[64,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
@@ -267,14 +267,14 @@ Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[28,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 GameCorner:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_6x2y4z_GameCorner]}}{"Offset"{sngArr[12,0,18]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_6x2y4z_GameCorner]}}{"Offset"{sngArr[12,0,18]}}]}}
 Door
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[14,0,21]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[16,-0.0625,22]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Gatehouse:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x2y4z_LightBrick_Gate]}}{"Offset"{sngArr[18,0,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x2y4z_LightBrick_Gate]}}{"Offset"{sngArr[18,0,-2]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[18.095,1,1]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[3,64,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[19,1,1]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[16,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[20,1,1]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[64,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
@@ -299,7 +299,7 @@ Door
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[19,0,1]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Bike Shop:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x2y4z_LightBrick]}}{"Offset"{sngArr[28,0,26]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x2y4z_LightBrick]}}{"Offset"{sngArr[28,0,26]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[28.095,1,29]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[3,64,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[29,1,29]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[16,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[30,1,29]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[64,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
@@ -310,7 +310,7 @@ Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[28,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Pokécenter:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x2y4z_DarkBrick]}}{"Offset"{sngArr[14,0,24]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_4x2y4z_DarkBrick]}}{"Offset"{sngArr[14,0,24]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[14.095,1,27]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[3,16,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[2,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[15,1,27]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[16,16,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[16.905,1,27]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[32,16,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
@@ -322,7 +322,7 @@ Sign
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[0.25,0.25,0.125]}}{"Position"{sngArr[16.25,-0.375,27.50625]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[68,116,4,4][76,116,2,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Pokémart:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_6x6x8z_PokeMart]}}{"Offset"{sngArr[22,0,20]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\Building_6x6x8z_PokeMart]}}{"Offset"{sngArr[22,0,20]}}]}}
 Door
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[24,0,27]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
@@ -406,32 +406,32 @@ City Sign:
 {"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[22,-0.0625,18]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Waterrocks:
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,-2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[2,0.25,-2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[4,0.25,-2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[6,0.25,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[2,0.25,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[4,0.25,-2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[6,0.25,-2]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[2,0.25,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[4,0.25,0]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[6,0.25,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[2,0.25,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[4,0.25,0]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[6,0.25,0]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[2,0.25,2]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[4,0.25,2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[2,0.25,2]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[4,0.25,2]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,4]}}]}}
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[2,0.25,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,4]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[2,0.25,4]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[2,0.25,6]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[2,0.25,6]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[2,0.25,8]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[2,0.25,8]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,10]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,10]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,22]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,22]}}]}}
 
-{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\WaterRock]}}{"Offset"{sngArr[0,0.25,32]}}]}}
+{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Purple\WaterRock]}}{"Offset"{sngArr[0,0.25,32]}}]}}
 
 Water:
 {"EntityField"{ENT[{"Size"{intArr[2,8]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[0,-0.25,24]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,160,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[LostSilver]}}{"AnimationData"{intArr2D[[0,160,16,16,1,3,5,0,0]]}}{"Rotation"{int[0]}}]}}
