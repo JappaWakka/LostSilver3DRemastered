@@ -246,7 +246,7 @@ Goldenrod Tunnel South Entrance:
 {"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_4x1y2z_DoorHole]}}{"Offset"{sngArr[10,0,28]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[11,0,29]}}{"TexturePath"{str[Goldenrod_Dead]}}{"Textures"{recArr[[80,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 Sign
-{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[10,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Dead]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+{"Entity"{ENT[{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[12,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Dead]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 
 Pokémon Gym:
 {"Structure"{STR[{"Map"{str[Structures\Goldenrod_Dead\Building_6x2y4z_Gym]}}{"Offset"{sngArr[22,0,4]}}]}}
