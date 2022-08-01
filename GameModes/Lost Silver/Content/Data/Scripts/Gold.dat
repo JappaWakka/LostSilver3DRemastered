@@ -69,23 +69,31 @@ version=2
 	@Camera.ActivateThirdPerson
 	@Camera.Fix
 	@Player.TurnTo(0)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(1)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(2)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(3)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(0)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(1)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(2)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(3)
-	@Level.Wait(2)
+	@Level.Wait(5)
 	@Player.TurnTo(0)
-	@Level.Wait(2)
+	@Level.Wait(5)
+	@Player.TurnTo(1)
+	@Level.Wait(5)
+	@Player.TurnTo(2)
+	@Level.Wait(5)
+	@Player.TurnTo(3)
+	@Level.Wait(5)
+	@Player.TurnTo(0)
+	@Level.Wait(5)
 	
 	@Player.SetMovement(0,-1,0)
 	@Player.SetSpeed(2)
@@ -93,7 +101,10 @@ version=2
 	@Player.ResetMovement
 :endif
 @Screen.FadeOut(15)
+@Camera.DeFix
+@Player.SetSkin(Dead)
 @Player.Warp(RIP.dat,4,0.1,4,0)
 @Level.Update
 @Screen.FadeIn(15)
+@Camera.Update
 :end
