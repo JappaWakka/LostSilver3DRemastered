@@ -1,31 +1,29 @@
 Version=2
 
-:if:<Register.Registered(Goldenrod_Purple)>=false
-	@Environment.SetRenderDistance(0)
+@Environment.SetRenderDistance(0)
 
-	@Pokemon.Clear	
-	@Pokemon.Add(1012,20,...,5,...,0)
-	@Pokemon.SetNickName(0,Unown)
-	
-	@Pokemon.Add(1009,20,...,5,...,0)
-	@Pokemon.SetNickName(1,Unown)
-	
-	@Pokemon.Add(1016,20,...,5,...,0)
-	@Pokemon.SetNickName(2,Unown)
-	
-	@Pokemon.Add(1020,20,...,5,...,0)
-	@Pokemon.SetNickName(3,Unown)
-	
-	@Pokemon.Add(1000,5,...,5,...,0)
-	@Pokemon.SetNickName(4,   )
-	@Pokemon.RemoveItem(4)
-	@Pokemon.ClearAttacks(4)
-	@Pokemon.AddAttack(4,43)
-	@Pokemon.AddAttack(4,148)
-	@Pokemon.AddAttack(4,171)
-	@Pokemon.SetStat(4,MaxHP,20)
-	@Pokemon.SetStat(4,cHP,1)
-	@Register.Register(Goldenrod_Purple)
-:endif
+@Pokemon.Clear	
+@Pokemon.Add(1012,20,...,5,...,0)
+@Pokemon.SetNickName(0,Unown)
+
+@Pokemon.Add(1009,20,...,5,...,0)
+@Pokemon.SetNickName(1,Unown)
+
+@Pokemon.Add(1016,20,...,5,...,0)
+@Pokemon.SetNickName(2,Unown)
+
+@Pokemon.Add(1020,20,...,5,...,0)
+@Pokemon.SetNickName(3,Unown)
+
+@Pokemon.Add(1000,5,...,5,...,0)
+@Pokemon.SetNickName(4,   )
+@Pokemon.RemoveItem(4)
+@Pokemon.ClearAttacks(4)
+@Pokemon.AddAttack(4,43)
+@Pokemon.AddAttack(4,148)
+@Pokemon.AddAttack(4,171)
+@Pokemon.SetStat(4,MaxHP,20)
+@Pokemon.SetStat(4,cHP,1)
+@Register.Register(Goldenrod_Purple)
 
 :end

@@ -2,7 +2,6 @@ Version=2
 @Level.Wait(15)
 @Screen.FadeOut(10)
 @Camera.SetPitch(0)
-@Register.Change(Tunnel,0)
 @Player.Warp(Tower.dat,4,0.1,7)
 @Player.TurnTo(0)
 @Level.Update
@@ -10,5 +9,19 @@ Version=2
 @Camera.Update
 @Screen.FadeIn(10)
 @Camera.Update
+
+@Register.Change(Tunnel,0)
+@Register.Unregister(Tunnel_Alt)
+@Register.Unregister(Maze)
+@Register.Unregister(MtSilver_Peak)
+@Register.Unregister(PleaseHalf)
+@Register.Unregister(PleaseDead)
+@Register.Unregister(EggHatched)
+@Register.Unregister(RemoveThrash)
+@Register.Unregister(FeraligatrBattle)
+@Register.Unregister(SilverEven)
+@Register.Change(Goldenrod_Dead,0)
+@Register.Unregister(BellchimeTrail)
+
 @Register.Register(Hidden_Done)
 :end
