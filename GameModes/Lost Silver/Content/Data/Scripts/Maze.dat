@@ -2,20 +2,7 @@ version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Backwards_Dark4)
 
-:if:<Register.Registered(Maze)>=false
-	@screen.setfade(153)
-	@camera.update
-	@storage.set(integer,screenFade,0)
-
-	:while:<storage.get(integer,screenFade)><51
-		@storage.set(integer,screenFade,<storage.get(integer,screenFade)>+2)
-		@screen.setfade(153-<storage.get(integer,screenFade)>)
-		@camera.update
-	:endwhile
-	@Register.Register(Maze)
-:endif
-@screen.setfade(204)
-
+@Screen.SetFade(200)
 @Pokemon.Clear
 
 @Pokemon.Add(1022,15,...,5,...,0)

@@ -1,5 +1,11 @@
 Version=2
 @Sound.Play(Enter)
-@Screen.FadeOut(15)
+@Screen.FadeOut(10)
 @Player.Warp(Maze.dat,10,0.1,1,0)
+@Player.SetSkin(Gold_Backwards_Dark4)
+@Level.Update
+@Screen.SetFade(255)
+@Camera.Update
+@Screen.FadeIn(15,200)
+@Camera.Update
 :end

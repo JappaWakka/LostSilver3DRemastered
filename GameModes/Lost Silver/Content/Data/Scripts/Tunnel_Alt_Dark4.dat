@@ -1,5 +1,5 @@
 Version=2
-:if:<Register.Value(TunnelAlt)><4
+:if:<Register.Value(Tunnel_Alt)><4
 	@Player.SetSkin(Gold_Backwards_Dark4)
-	@Register.Change(TunnelAlt,4)
+	@Register.Change(Tunnel_Alt,4)
 :end

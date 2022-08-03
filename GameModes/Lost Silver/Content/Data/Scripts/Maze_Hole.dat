@@ -9,7 +9,7 @@ Version=2
 @Player.WearSkin(Dead)
 @Player.ResetMovement
 @Level.Wait(30)
-@Screen.FadeOut(15)
+@Screen.FadeOut(10)
 @Player.Warp(MtSilver_Peak.dat,2,0.1,3,2)
 @Player.SetSkin(Gold_NoEyes)
 @Camera.Defix

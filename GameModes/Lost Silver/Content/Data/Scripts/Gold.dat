@@ -100,11 +100,11 @@ version=2
 	@Player.Move(2)
 	@Player.ResetMovement
 :endif
-@Screen.FadeOut(15)
+@Screen.FadeOut(10)
 @Camera.DeFix
 @Player.SetSkin(Dead)
 @Player.Warp(RIP.dat,4,0.1,4,0)
 @Level.Update
-@Screen.FadeIn(15)
+@Screen.FadeIn(10)
 @Camera.Update
 :end

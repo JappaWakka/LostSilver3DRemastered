@@ -9912,3 +9912,1979 @@ System.Security.AccessControl.dll
 System.Security.AccessControl.xml
 System.Security.Principal.Windows.dll
 System.Security.Principal.Windows.xml
+GameModes/Hoenn/*.*
+GameModes/Hoenn/Content/Textures/TextureSheets/Whirlpool.png
+GameModes/Hoenn/Content/Textures/TextureSheets/WaterFall.png
+GameModes/Hoenn/Content/Textures/TextureSheets/Water_Dive.png
+GameModes/Hoenn/Content/Textures/TextureSheets/Water.png
+GameModes/Hoenn/Content/Textures/TextureSheets/FloorOutside.png
+GameModes/Hoenn/Content/Textures/Outside.png
+GameModes/Hoenn/Content/Textures/NPC/YoungWoman.png
+GameModes/Hoenn/Content/Textures/NPC/youngster.png
+GameModes/Hoenn/Content/Textures/NPC/YoungCouple_Male.png
+GameModes/Hoenn/Content/Textures/NPC/YoungCouple_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Woman5.png
+GameModes/Hoenn/Content/Textures/NPC/Woman4.png
+GameModes/Hoenn/Content/Textures/NPC/Woman3.png
+GameModes/Hoenn/Content/Textures/NPC/Woman2.png
+GameModes/Hoenn/Content/Textures/NPC/Woman1.png
+GameModes/Hoenn/Content/Textures/NPC/Winona.png
+GameModes/Hoenn/Content/Textures/NPC/Wattson.png
+GameModes/Hoenn/Content/Textures/NPC/Wally.png
+GameModes/Hoenn/Content/Textures/NPC/Wallace.png
+GameModes/Hoenn/Content/Textures/NPC/Waitress.png
+GameModes/Hoenn/Content/Textures/NPC/waiter.png
+GameModes/Hoenn/Content/Textures/NPC/videogamekid.png
+GameModes/Hoenn/Content/Textures/NPC/Twin.png
+GameModes/Hoenn/Content/Textures/NPC/Tuber_Male_Water.png
+GameModes/Hoenn/Content/Textures/NPC/Tuber_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Tuber_Female_Water.png
+GameModes/Hoenn/Content/Textures/NPC/Tuber_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Triathlete_Run_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Triathlete_Run_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Triathlete_Bike_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Triathlete_Bike_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Trader.png
+GameModes/Hoenn/Content/Textures/NPC/Tate.png
+GameModes/Hoenn/Content/Textures/NPC/Swimmer_Male_Water.png
+GameModes/Hoenn/Content/Textures/NPC/Swimmer_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Swimmer_Female_Water.png
+GameModes/Hoenn/Content/Textures/NPC/Swimmer_Female.png
+GameModes/Hoenn/Content/Textures/NPC/SuperNerd.png
+GameModes/Hoenn/Content/Textures/NPC/Substitute.png
+GameModes/Hoenn/Content/Textures/NPC/Storyteller.png
+GameModes/Hoenn/Content/Textures/NPC/Steven.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/seaweed.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/rock.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/Pokeball.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/ManaphyEgg.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/LightStone.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/Lightning.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/Flame.png
+GameModes/Hoenn/Content/Textures/NPC/StaticEntities/darkstone.png
+GameModes/Hoenn/Content/Textures/NPC/Socialite.png
+GameModes/Hoenn/Content/Textures/NPC/Smasher.png
+GameModes/Hoenn/Content/Textures/NPC/Skier.png
+GameModes/Hoenn/Content/Textures/NPC/Scientist2.png
+GameModes/Hoenn/Content/Textures/NPC/Scientist1.png
+GameModes/Hoenn/Content/Textures/NPC/SchoolKid.png
+GameModes/Hoenn/Content/Textures/NPC/SchoolGirl.png
+GameModes/Hoenn/Content/Textures/NPC/Sailor.png
+GameModes/Hoenn/Content/Textures/NPC/RuinManiac.png
+GameModes/Hoenn/Content/Textures/NPC/Roxanne.png
+GameModes/Hoenn/Content/Textures/NPC/Roughneck.png
+GameModes/Hoenn/Content/Textures/NPC/RichBoy.png
+GameModes/Hoenn/Content/Textures/NPC/Reporter_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Reporter_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Red.png
+GameModes/Hoenn/Content/Textures/NPC/Receptionist.png
+GameModes/Hoenn/Content/Textures/NPC/Ranger_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Ranger_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Rancher.png
+GameModes/Hoenn/Content/Textures/NPC/Psychic_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Psychic_Female.png
+GameModes/Hoenn/Content/Textures/NPC/ProfessorBirch.png
+GameModes/Hoenn/Content/Textures/NPC/PokeManiac.png
+GameModes/Hoenn/Content/Textures/NPC/PokeKid.png
+GameModes/Hoenn/Content/Textures/NPC/PokeFan_Male.png
+GameModes/Hoenn/Content/Textures/NPC/PokeFan_Female.png
+GameModes/Hoenn/Content/Textures/NPC/PinkShirtGirl.png
+GameModes/Hoenn/Content/Textures/NPC/PigTailGirl.png
+GameModes/Hoenn/Content/Textures/NPC/Picnicker.png
+GameModes/Hoenn/Content/Textures/NPC/ParasolLady.png
+GameModes/Hoenn/Content/Textures/NPC/OldWoman.png
+GameModes/Hoenn/Content/Textures/NPC/OldMan.png
+GameModes/Hoenn/Content/Textures/NPC/officer.png
+GameModes/Hoenn/Content/Textures/NPC/OfficeLady.png
+GameModes/Hoenn/Content/Textures/NPC/Nurse2.png
+GameModes/Hoenn/Content/Textures/NPC/Nurse1.png
+GameModes/Hoenn/Content/Textures/NPC/Norman.png
+GameModes/Hoenn/Content/Textures/NPC/NinjaBoy.png
+GameModes/Hoenn/Content/Textures/NPC/MrStone.png
+GameModes/Hoenn/Content/Textures/NPC/Mom.png
+GameModes/Hoenn/Content/Textures/NPC/Medium.png
+GameModes/Hoenn/Content/Textures/NPC/May.png
+GameModes/Hoenn/Content/Textures/NPC/Maxie.png
+GameModes/Hoenn/Content/Textures/NPC/Man3.png
+GameModes/Hoenn/Content/Textures/NPC/Man2.png
+GameModes/Hoenn/Content/Textures/NPC/Man1.png
+GameModes/Hoenn/Content/Textures/NPC/MagmaGrunt_Male.png
+GameModes/Hoenn/Content/Textures/NPC/MagmaGrunt_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Lyra.png
+GameModes/Hoenn/Content/Textures/NPC/Looker.png
+GameModes/Hoenn/Content/Textures/NPC/Liza.png
+GameModes/Hoenn/Content/Textures/NPC/LittlerootKid.png
+GameModes/Hoenn/Content/Textures/NPC/LittleGirl.png
+GameModes/Hoenn/Content/Textures/NPC/LittleBoy2.png
+GameModes/Hoenn/Content/Textures/NPC/LittleBoy1.png
+GameModes/Hoenn/Content/Textures/NPC/Lass.png
+GameModes/Hoenn/Content/Textures/NPC/Lady.png
+GameModes/Hoenn/Content/Textures/NPC/Kiri.png
+GameModes/Hoenn/Content/Textures/NPC/Juggler.png
+GameModes/Hoenn/Content/Textures/NPC/Joy_Bow.png
+GameModes/Hoenn/Content/Textures/NPC/Joy.png
+GameModes/Hoenn/Content/Textures/NPC/Jogger.png
+GameModes/Hoenn/Content/Textures/NPC/Jasmine.png
+GameModes/Hoenn/Content/Textures/NPC/Janitor.png
+GameModes/Hoenn/Content/Textures/NPC/Hipster.png
+GameModes/Hoenn/Content/Textures/NPC/hiker.png
+GameModes/Hoenn/Content/Textures/NPC/HexManiac.png
+GameModes/Hoenn/Content/Textures/NPC/GymGuy.png
+GameModes/Hoenn/Content/Textures/NPC/Guitarist.png
+GameModes/Hoenn/Content/Textures/NPC/Green.png
+GameModes/Hoenn/Content/Textures/NPC/Girl2.png
+GameModes/Hoenn/Content/Textures/NPC/Girl1.png
+GameModes/Hoenn/Content/Textures/NPC/Giddy.png
+GameModes/Hoenn/Content/Textures/NPC/gentleman.png
+GameModes/Hoenn/Content/Textures/NPC/Gambler.png
+GameModes/Hoenn/Content/Textures/NPC/Flannery.png
+GameModes/Hoenn/Content/Textures/NPC/fisherman.png
+GameModes/Hoenn/Content/Textures/NPC/firebreather.png
+GameModes/Hoenn/Content/Textures/NPC/fatguy.png
+GameModes/Hoenn/Content/Textures/NPC/Expert_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Expert_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Ethan.png
+GameModes/Hoenn/Content/Textures/NPC/Doctor.png
+GameModes/Hoenn/Content/Textures/NPC/Dock.png
+GameModes/Hoenn/Content/Textures/NPC/DevonEmployee.png
+GameModes/Hoenn/Content/Textures/NPC/Cyclist_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Cyclist_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Cowgirl.png
+GameModes/Hoenn/Content/Textures/NPC/CoolTrainer_Male.png
+GameModes/Hoenn/Content/Textures/NPC/CoolTrainer_Female.png
+GameModes/Hoenn/Content/Textures/NPC/ContestJudge.png
+GameModes/Hoenn/Content/Textures/NPC/ConstructionWorker.png
+GameModes/Hoenn/Content/Textures/NPC/Collector.png
+GameModes/Hoenn/Content/Textures/NPC/Clerk_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Clerk_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Chef.png
+GameModes/Hoenn/Content/Textures/NPC/captain.png
+GameModes/Hoenn/Content/Textures/NPC/camper.png
+GameModes/Hoenn/Content/Textures/NPC/Cameraman.png
+GameModes/Hoenn/Content/Textures/NPC/burglar.png
+GameModes/Hoenn/Content/Textures/NPC/BugManiac.png
+GameModes/Hoenn/Content/Textures/NPC/bugcatcher.png
+GameModes/Hoenn/Content/Textures/NPC/Brendan.png
+GameModes/Hoenn/Content/Textures/NPC/Breeder_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Breeder_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Brawly.png
+GameModes/Hoenn/Content/Textures/NPC/Boy3.png
+GameModes/Hoenn/Content/Textures/NPC/Boy2.png
+GameModes/Hoenn/Content/Textures/NPC/Boy1.png
+GameModes/Hoenn/Content/Textures/NPC/Bouncer.png
+GameModes/Hoenn/Content/Textures/NPC/boarder.png
+GameModes/Hoenn/Content/Textures/NPC/BlueShirtGuy.png
+GameModes/Hoenn/Content/Textures/NPC/BlackBelt.png
+GameModes/Hoenn/Content/Textures/NPC/BirdKeeper.png
+GameModes/Hoenn/Content/Textures/NPC/biker.png
+GameModes/Hoenn/Content/Textures/NPC/Beauty.png
+GameModes/Hoenn/Content/Textures/NPC/BattleGirl.png
+GameModes/Hoenn/Content/Textures/NPC/Bard.png
+GameModes/Hoenn/Content/Textures/NPC/Backpacker_Male.png
+GameModes/Hoenn/Content/Textures/NPC/Backpacker_Female.png
+GameModes/Hoenn/Content/Textures/NPC/Artist.png
+GameModes/Hoenn/Content/Textures/NPC/AromaLady.png
+GameModes/Hoenn/Content/Textures/NPC/Archie.png
+GameModes/Hoenn/Content/Textures/NPC/AquaGrunt_Male.png
+GameModes/Hoenn/Content/Textures/NPC/AquaGrunt_Female.png
+GameModes/Hoenn/Content/Textures/NPC/AquaAdmin_Female.png
+GameModes/Hoenn/Content/Textures/IntroHoenn.png
+GameModes/Hoenn/Content/Textures/Interior.png
+GameModes/Hoenn/Content/Textures/InsideTruck.png
+GameModes/Hoenn/Content/Textures/Cities/Oldale.png
+GameModes/Hoenn/Content/Textures/Cities/Littleroot.png
+GameModes/Hoenn/Content/Textures/Battle/StatChange/statUp.png
+GameModes/Hoenn/Content/Textures/Battle/StatChange/statDown.png
+GameModes/Hoenn/Content/Textures/Battle/StatChange/Heal.png
+GameModes/Hoenn/Content/Textures/Apricorn.png
+GameModes/Hoenn/Content/Sounds/Warp_SlideDoor.wav
+GameModes/Hoenn/Content/Sounds/Warp_RegularDoor.wav
+GameModes/Hoenn/Content/Sounds/Warp_Exit.wav
+GameModes/Hoenn/Content/Sounds/Use_Repel.wav
+GameModes/Hoenn/Content/Sounds/Use_Item.wav
+GameModes/Hoenn/Content/Sounds/TRHQ_Alarm.wav
+GameModes/Hoenn/Content/Sounds/teleport.wav
+GameModes/Hoenn/Content/Sounds/Success_Small.wav
+GameModes/Hoenn/Content/Sounds/Success.wav
+GameModes/Hoenn/Content/Sounds/Shutter.wav
+GameModes/Hoenn/Content/Sounds/select.wav
+GameModes/Hoenn/Content/Sounds/Save.wav
+GameModes/Hoenn/Content/Sounds/Receive_PhoneNumber.wav
+GameModes/Hoenn/Content/Sounds/Receive_Item.wav
+GameModes/Hoenn/Content/Sounds/Receive_HM.wav
+GameModes/Hoenn/Content/Sounds/Receive_Berry.wav
+GameModes/Hoenn/Content/Sounds/Receive_Badge.wav
+GameModes/Hoenn/Content/Sounds/PokeBall_Set.wav
+GameModes/Hoenn/Content/Sounds/Poison_Walk.wav
+GameModes/Hoenn/Content/Sounds/pickup.wav
+GameModes/Hoenn/Content/Sounds/Phone/TurnOn.wav
+GameModes/Hoenn/Content/Sounds/Phone/TurnOff.wav
+GameModes/Hoenn/Content/Sounds/Phone/RingTone.wav
+GameModes/Hoenn/Content/Sounds/PC/TurnOn.wav
+GameModes/Hoenn/Content/Sounds/PC/TurnOff.wav
+GameModes/Hoenn/Content/Sounds/PC/LogOn.wav
+GameModes/Hoenn/Content/Sounds/Notice.wav
+GameModes/Hoenn/Content/Sounds/MovingTruck_OpenDoor.wav
+GameModes/Hoenn/Content/Sounds/MovingTruck_Drive.wav
+GameModes/Hoenn/Content/Sounds/Move_Deleted.wav
+GameModes/Hoenn/Content/Sounds/menu_open.wav
+GameModes/Hoenn/Content/Sounds/MagnetTrain.wav
+GameModes/Hoenn/Content/Sounds/LevelUp.wav
+GameModes/Hoenn/Content/Sounds/jump_ledge.wav
+GameModes/Hoenn/Content/Sounds/jump_from_truck.wav
+GameModes/Hoenn/Content/Sounds/itemfinder.wav
+GameModes/Hoenn/Content/Sounds/ice_crack.wav
+GameModes/Hoenn/Content/Sounds/ice_break.wav
+GameModes/Hoenn/Content/Sounds/Heal_Party.wav
+GameModes/Hoenn/Content/Sounds/GameCorner_Win.wav
+GameModes/Hoenn/Content/Sounds/GameCorner_Lose.wav
+GameModes/Hoenn/Content/Sounds/GameCorner_GreatSuccess.wav
+GameModes/Hoenn/Content/Sounds/FieldMove_Strength.wav
+GameModes/Hoenn/Content/Sounds/FieldMove_RockSmash.wav
+GameModes/Hoenn/Content/Sounds/FieldMove_Fly.wav
+GameModes/Hoenn/Content/Sounds/FieldMove_Flash.wav
+GameModes/Hoenn/Content/Sounds/FieldMove_Cut.wav
+GameModes/Hoenn/Content/Sounds/Evolved.wav
+GameModes/Hoenn/Content/Sounds/Enter.wav
+GameModes/Hoenn/Content/Sounds/Emote_Exclamation.wav
+GameModes/Hoenn/Content/Sounds/Elevator_Stop.wav
+GameModes/Hoenn/Content/Sounds/Elevator_Move.wav
+GameModes/Hoenn/Content/Sounds/egg_hatch.wav
+GameModes/Hoenn/Content/Sounds/destroy.wav
+GameModes/Hoenn/Content/Sounds/Cries/99.wav
+GameModes/Hoenn/Content/Sounds/Cries/98.wav
+GameModes/Hoenn/Content/Sounds/Cries/97.wav
+GameModes/Hoenn/Content/Sounds/Cries/96.wav
+GameModes/Hoenn/Content/Sounds/Cries/95.wav
+GameModes/Hoenn/Content/Sounds/Cries/94.wav
+GameModes/Hoenn/Content/Sounds/Cries/93.wav
+GameModes/Hoenn/Content/Sounds/Cries/92.wav
+GameModes/Hoenn/Content/Sounds/Cries/91.wav
+GameModes/Hoenn/Content/Sounds/Cries/90.wav
+GameModes/Hoenn/Content/Sounds/Cries/9.wav
+GameModes/Hoenn/Content/Sounds/Cries/89.wav
+GameModes/Hoenn/Content/Sounds/Cries/88.wav
+GameModes/Hoenn/Content/Sounds/Cries/87.wav
+GameModes/Hoenn/Content/Sounds/Cries/86.wav
+GameModes/Hoenn/Content/Sounds/Cries/85.wav
+GameModes/Hoenn/Content/Sounds/Cries/84.wav
+GameModes/Hoenn/Content/Sounds/Cries/83.wav
+GameModes/Hoenn/Content/Sounds/Cries/82.wav
+GameModes/Hoenn/Content/Sounds/Cries/81.wav
+GameModes/Hoenn/Content/Sounds/Cries/80.wav
+GameModes/Hoenn/Content/Sounds/Cries/8.wav
+GameModes/Hoenn/Content/Sounds/Cries/79.wav
+GameModes/Hoenn/Content/Sounds/Cries/78.wav
+GameModes/Hoenn/Content/Sounds/Cries/77.wav
+GameModes/Hoenn/Content/Sounds/Cries/76.wav
+GameModes/Hoenn/Content/Sounds/Cries/75.wav
+GameModes/Hoenn/Content/Sounds/Cries/74.wav
+GameModes/Hoenn/Content/Sounds/Cries/73.wav
+GameModes/Hoenn/Content/Sounds/Cries/721.wav
+GameModes/Hoenn/Content/Sounds/Cries/720.wav
+GameModes/Hoenn/Content/Sounds/Cries/72.wav
+GameModes/Hoenn/Content/Sounds/Cries/719.wav
+GameModes/Hoenn/Content/Sounds/Cries/718.wav
+GameModes/Hoenn/Content/Sounds/Cries/717.wav
+GameModes/Hoenn/Content/Sounds/Cries/716.wav
+GameModes/Hoenn/Content/Sounds/Cries/715.wav
+GameModes/Hoenn/Content/Sounds/Cries/714.wav
+GameModes/Hoenn/Content/Sounds/Cries/713.wav
+GameModes/Hoenn/Content/Sounds/Cries/712.wav
+GameModes/Hoenn/Content/Sounds/Cries/711_super.wav
+GameModes/Hoenn/Content/Sounds/Cries/711.wav
+GameModes/Hoenn/Content/Sounds/Cries/710_super.wav
+GameModes/Hoenn/Content/Sounds/Cries/710.wav
+GameModes/Hoenn/Content/Sounds/Cries/71.wav
+GameModes/Hoenn/Content/Sounds/Cries/709.wav
+GameModes/Hoenn/Content/Sounds/Cries/708.wav
+GameModes/Hoenn/Content/Sounds/Cries/707.wav
+GameModes/Hoenn/Content/Sounds/Cries/706.wav
+GameModes/Hoenn/Content/Sounds/Cries/705.wav
+GameModes/Hoenn/Content/Sounds/Cries/704.wav
+GameModes/Hoenn/Content/Sounds/Cries/703.wav
+GameModes/Hoenn/Content/Sounds/Cries/702.wav
+GameModes/Hoenn/Content/Sounds/Cries/701.wav
+GameModes/Hoenn/Content/Sounds/Cries/700.wav
+GameModes/Hoenn/Content/Sounds/Cries/70.wav
+GameModes/Hoenn/Content/Sounds/Cries/7.wav
+GameModes/Hoenn/Content/Sounds/Cries/699.wav
+GameModes/Hoenn/Content/Sounds/Cries/698.wav
+GameModes/Hoenn/Content/Sounds/Cries/697.wav
+GameModes/Hoenn/Content/Sounds/Cries/696.wav
+GameModes/Hoenn/Content/Sounds/Cries/695.wav
+GameModes/Hoenn/Content/Sounds/Cries/694.wav
+GameModes/Hoenn/Content/Sounds/Cries/693.wav
+GameModes/Hoenn/Content/Sounds/Cries/692.wav
+GameModes/Hoenn/Content/Sounds/Cries/691.wav
+GameModes/Hoenn/Content/Sounds/Cries/690.wav
+GameModes/Hoenn/Content/Sounds/Cries/69.wav
+GameModes/Hoenn/Content/Sounds/Cries/689.wav
+GameModes/Hoenn/Content/Sounds/Cries/688.wav
+GameModes/Hoenn/Content/Sounds/Cries/687.wav
+GameModes/Hoenn/Content/Sounds/Cries/686.wav
+GameModes/Hoenn/Content/Sounds/Cries/685.wav
+GameModes/Hoenn/Content/Sounds/Cries/684.wav
+GameModes/Hoenn/Content/Sounds/Cries/683.wav
+GameModes/Hoenn/Content/Sounds/Cries/682.wav
+GameModes/Hoenn/Content/Sounds/Cries/681.wav
+GameModes/Hoenn/Content/Sounds/Cries/680.wav
+GameModes/Hoenn/Content/Sounds/Cries/68.wav
+GameModes/Hoenn/Content/Sounds/Cries/679.wav
+GameModes/Hoenn/Content/Sounds/Cries/678.wav
+GameModes/Hoenn/Content/Sounds/Cries/677.wav
+GameModes/Hoenn/Content/Sounds/Cries/676.wav
+GameModes/Hoenn/Content/Sounds/Cries/675.wav
+GameModes/Hoenn/Content/Sounds/Cries/674.wav
+GameModes/Hoenn/Content/Sounds/Cries/673.wav
+GameModes/Hoenn/Content/Sounds/Cries/672.wav
+GameModes/Hoenn/Content/Sounds/Cries/671.wav
+GameModes/Hoenn/Content/Sounds/Cries/670.wav
+GameModes/Hoenn/Content/Sounds/Cries/67.wav
+GameModes/Hoenn/Content/Sounds/Cries/669.wav
+GameModes/Hoenn/Content/Sounds/Cries/668.wav
+GameModes/Hoenn/Content/Sounds/Cries/667.wav
+GameModes/Hoenn/Content/Sounds/Cries/666.wav
+GameModes/Hoenn/Content/Sounds/Cries/665.wav
+GameModes/Hoenn/Content/Sounds/Cries/664.wav
+GameModes/Hoenn/Content/Sounds/Cries/663.wav
+GameModes/Hoenn/Content/Sounds/Cries/662.wav
+GameModes/Hoenn/Content/Sounds/Cries/661.wav
+GameModes/Hoenn/Content/Sounds/Cries/660.wav
+GameModes/Hoenn/Content/Sounds/Cries/66.wav
+GameModes/Hoenn/Content/Sounds/Cries/659.wav
+GameModes/Hoenn/Content/Sounds/Cries/658.wav
+GameModes/Hoenn/Content/Sounds/Cries/657.wav
+GameModes/Hoenn/Content/Sounds/Cries/656.wav
+GameModes/Hoenn/Content/Sounds/Cries/655.wav
+GameModes/Hoenn/Content/Sounds/Cries/654.wav
+GameModes/Hoenn/Content/Sounds/Cries/653.wav
+GameModes/Hoenn/Content/Sounds/Cries/652.wav
+GameModes/Hoenn/Content/Sounds/Cries/651.wav
+GameModes/Hoenn/Content/Sounds/Cries/650.wav
+GameModes/Hoenn/Content/Sounds/Cries/65.wav
+GameModes/Hoenn/Content/Sounds/Cries/649.wav
+GameModes/Hoenn/Content/Sounds/Cries/648.wav
+GameModes/Hoenn/Content/Sounds/Cries/647.wav
+GameModes/Hoenn/Content/Sounds/Cries/646.wav
+GameModes/Hoenn/Content/Sounds/Cries/645.wav
+GameModes/Hoenn/Content/Sounds/Cries/644.wav
+GameModes/Hoenn/Content/Sounds/Cries/643.wav
+GameModes/Hoenn/Content/Sounds/Cries/642.wav
+GameModes/Hoenn/Content/Sounds/Cries/641.wav
+GameModes/Hoenn/Content/Sounds/Cries/640.wav
+GameModes/Hoenn/Content/Sounds/Cries/64.wav
+GameModes/Hoenn/Content/Sounds/Cries/639.wav
+GameModes/Hoenn/Content/Sounds/Cries/638.wav
+GameModes/Hoenn/Content/Sounds/Cries/637.wav
+GameModes/Hoenn/Content/Sounds/Cries/636.wav
+GameModes/Hoenn/Content/Sounds/Cries/635.wav
+GameModes/Hoenn/Content/Sounds/Cries/634.wav
+GameModes/Hoenn/Content/Sounds/Cries/633.wav
+GameModes/Hoenn/Content/Sounds/Cries/632.wav
+GameModes/Hoenn/Content/Sounds/Cries/631.wav
+GameModes/Hoenn/Content/Sounds/Cries/630.wav
+GameModes/Hoenn/Content/Sounds/Cries/63.wav
+GameModes/Hoenn/Content/Sounds/Cries/629.wav
+GameModes/Hoenn/Content/Sounds/Cries/628.wav
+GameModes/Hoenn/Content/Sounds/Cries/627.wav
+GameModes/Hoenn/Content/Sounds/Cries/626.wav
+GameModes/Hoenn/Content/Sounds/Cries/625.wav
+GameModes/Hoenn/Content/Sounds/Cries/624.wav
+GameModes/Hoenn/Content/Sounds/Cries/623.wav
+GameModes/Hoenn/Content/Sounds/Cries/622.wav
+GameModes/Hoenn/Content/Sounds/Cries/621.wav
+GameModes/Hoenn/Content/Sounds/Cries/620.wav
+GameModes/Hoenn/Content/Sounds/Cries/62.wav
+GameModes/Hoenn/Content/Sounds/Cries/619.wav
+GameModes/Hoenn/Content/Sounds/Cries/618.wav
+GameModes/Hoenn/Content/Sounds/Cries/617.wav
+GameModes/Hoenn/Content/Sounds/Cries/616.wav
+GameModes/Hoenn/Content/Sounds/Cries/615.wav
+GameModes/Hoenn/Content/Sounds/Cries/614.wav
+GameModes/Hoenn/Content/Sounds/Cries/613.wav
+GameModes/Hoenn/Content/Sounds/Cries/612.wav
+GameModes/Hoenn/Content/Sounds/Cries/611.wav
+GameModes/Hoenn/Content/Sounds/Cries/610.wav
+GameModes/Hoenn/Content/Sounds/Cries/61.wav
+GameModes/Hoenn/Content/Sounds/Cries/609.wav
+GameModes/Hoenn/Content/Sounds/Cries/608.wav
+GameModes/Hoenn/Content/Sounds/Cries/607.wav
+GameModes/Hoenn/Content/Sounds/Cries/606.wav
+GameModes/Hoenn/Content/Sounds/Cries/605.wav
+GameModes/Hoenn/Content/Sounds/Cries/604.wav
+GameModes/Hoenn/Content/Sounds/Cries/603.wav
+GameModes/Hoenn/Content/Sounds/Cries/602.wav
+GameModes/Hoenn/Content/Sounds/Cries/601.wav
+GameModes/Hoenn/Content/Sounds/Cries/600.wav
+GameModes/Hoenn/Content/Sounds/Cries/60.wav
+GameModes/Hoenn/Content/Sounds/Cries/6.wav
+GameModes/Hoenn/Content/Sounds/Cries/599.wav
+GameModes/Hoenn/Content/Sounds/Cries/598.wav
+GameModes/Hoenn/Content/Sounds/Cries/597.wav
+GameModes/Hoenn/Content/Sounds/Cries/596.wav
+GameModes/Hoenn/Content/Sounds/Cries/595.wav
+GameModes/Hoenn/Content/Sounds/Cries/594.wav
+GameModes/Hoenn/Content/Sounds/Cries/593.wav
+GameModes/Hoenn/Content/Sounds/Cries/592.wav
+GameModes/Hoenn/Content/Sounds/Cries/591.wav
+GameModes/Hoenn/Content/Sounds/Cries/590.wav
+GameModes/Hoenn/Content/Sounds/Cries/59.wav
+GameModes/Hoenn/Content/Sounds/Cries/589.wav
+GameModes/Hoenn/Content/Sounds/Cries/588.wav
+GameModes/Hoenn/Content/Sounds/Cries/587.wav
+GameModes/Hoenn/Content/Sounds/Cries/586.wav
+GameModes/Hoenn/Content/Sounds/Cries/585.wav
+GameModes/Hoenn/Content/Sounds/Cries/584.wav
+GameModes/Hoenn/Content/Sounds/Cries/583.wav
+GameModes/Hoenn/Content/Sounds/Cries/582.wav
+GameModes/Hoenn/Content/Sounds/Cries/581.wav
+GameModes/Hoenn/Content/Sounds/Cries/580.wav
+GameModes/Hoenn/Content/Sounds/Cries/58.wav
+GameModes/Hoenn/Content/Sounds/Cries/579.wav
+GameModes/Hoenn/Content/Sounds/Cries/578.wav
+GameModes/Hoenn/Content/Sounds/Cries/577.wav
+GameModes/Hoenn/Content/Sounds/Cries/576.wav
+GameModes/Hoenn/Content/Sounds/Cries/575.wav
+GameModes/Hoenn/Content/Sounds/Cries/574.wav
+GameModes/Hoenn/Content/Sounds/Cries/573.wav
+GameModes/Hoenn/Content/Sounds/Cries/572.wav
+GameModes/Hoenn/Content/Sounds/Cries/571.wav
+GameModes/Hoenn/Content/Sounds/Cries/570.wav
+GameModes/Hoenn/Content/Sounds/Cries/57.wav
+GameModes/Hoenn/Content/Sounds/Cries/569.wav
+GameModes/Hoenn/Content/Sounds/Cries/568.wav
+GameModes/Hoenn/Content/Sounds/Cries/567.wav
+GameModes/Hoenn/Content/Sounds/Cries/566.wav
+GameModes/Hoenn/Content/Sounds/Cries/565.wav
+GameModes/Hoenn/Content/Sounds/Cries/564.wav
+GameModes/Hoenn/Content/Sounds/Cries/563.wav
+GameModes/Hoenn/Content/Sounds/Cries/562.wav
+GameModes/Hoenn/Content/Sounds/Cries/561.wav
+GameModes/Hoenn/Content/Sounds/Cries/560.wav
+GameModes/Hoenn/Content/Sounds/Cries/56.wav
+GameModes/Hoenn/Content/Sounds/Cries/559.wav
+GameModes/Hoenn/Content/Sounds/Cries/558.wav
+GameModes/Hoenn/Content/Sounds/Cries/557.wav
+GameModes/Hoenn/Content/Sounds/Cries/556.wav
+GameModes/Hoenn/Content/Sounds/Cries/555.wav
+GameModes/Hoenn/Content/Sounds/Cries/554.wav
+GameModes/Hoenn/Content/Sounds/Cries/553.wav
+GameModes/Hoenn/Content/Sounds/Cries/552.wav
+GameModes/Hoenn/Content/Sounds/Cries/551.wav
+GameModes/Hoenn/Content/Sounds/Cries/550.wav
+GameModes/Hoenn/Content/Sounds/Cries/55.wav
+GameModes/Hoenn/Content/Sounds/Cries/549.wav
+GameModes/Hoenn/Content/Sounds/Cries/548.wav
+GameModes/Hoenn/Content/Sounds/Cries/547.wav
+GameModes/Hoenn/Content/Sounds/Cries/546.wav
+GameModes/Hoenn/Content/Sounds/Cries/545.wav
+GameModes/Hoenn/Content/Sounds/Cries/544.wav
+GameModes/Hoenn/Content/Sounds/Cries/543.wav
+GameModes/Hoenn/Content/Sounds/Cries/542.wav
+GameModes/Hoenn/Content/Sounds/Cries/541.wav
+GameModes/Hoenn/Content/Sounds/Cries/540.wav
+GameModes/Hoenn/Content/Sounds/Cries/54.wav
+GameModes/Hoenn/Content/Sounds/Cries/539.wav
+GameModes/Hoenn/Content/Sounds/Cries/538.wav
+GameModes/Hoenn/Content/Sounds/Cries/537.wav
+GameModes/Hoenn/Content/Sounds/Cries/536.wav
+GameModes/Hoenn/Content/Sounds/Cries/535.wav
+GameModes/Hoenn/Content/Sounds/Cries/534.wav
+GameModes/Hoenn/Content/Sounds/Cries/533.wav
+GameModes/Hoenn/Content/Sounds/Cries/532.wav
+GameModes/Hoenn/Content/Sounds/Cries/531.wav
+GameModes/Hoenn/Content/Sounds/Cries/530.wav
+GameModes/Hoenn/Content/Sounds/Cries/53.wav
+GameModes/Hoenn/Content/Sounds/Cries/529.wav
+GameModes/Hoenn/Content/Sounds/Cries/528.wav
+GameModes/Hoenn/Content/Sounds/Cries/527.wav
+GameModes/Hoenn/Content/Sounds/Cries/526.wav
+GameModes/Hoenn/Content/Sounds/Cries/525.wav
+GameModes/Hoenn/Content/Sounds/Cries/524.wav
+GameModes/Hoenn/Content/Sounds/Cries/523.wav
+GameModes/Hoenn/Content/Sounds/Cries/522.wav
+GameModes/Hoenn/Content/Sounds/Cries/521.wav
+GameModes/Hoenn/Content/Sounds/Cries/520.wav
+GameModes/Hoenn/Content/Sounds/Cries/52.wav
+GameModes/Hoenn/Content/Sounds/Cries/519.wav
+GameModes/Hoenn/Content/Sounds/Cries/518.wav
+GameModes/Hoenn/Content/Sounds/Cries/517.wav
+GameModes/Hoenn/Content/Sounds/Cries/516.wav
+GameModes/Hoenn/Content/Sounds/Cries/515.wav
+GameModes/Hoenn/Content/Sounds/Cries/514.wav
+GameModes/Hoenn/Content/Sounds/Cries/513.wav
+GameModes/Hoenn/Content/Sounds/Cries/512.wav
+GameModes/Hoenn/Content/Sounds/Cries/511.wav
+GameModes/Hoenn/Content/Sounds/Cries/510.wav
+GameModes/Hoenn/Content/Sounds/Cries/51.wav
+GameModes/Hoenn/Content/Sounds/Cries/509.wav
+GameModes/Hoenn/Content/Sounds/Cries/508.wav
+GameModes/Hoenn/Content/Sounds/Cries/507.wav
+GameModes/Hoenn/Content/Sounds/Cries/506.wav
+GameModes/Hoenn/Content/Sounds/Cries/505.wav
+GameModes/Hoenn/Content/Sounds/Cries/504.wav
+GameModes/Hoenn/Content/Sounds/Cries/503.wav
+GameModes/Hoenn/Content/Sounds/Cries/502.wav
+GameModes/Hoenn/Content/Sounds/Cries/501.wav
+GameModes/Hoenn/Content/Sounds/Cries/500.wav
+GameModes/Hoenn/Content/Sounds/Cries/50.wav
+GameModes/Hoenn/Content/Sounds/Cries/5.wav
+GameModes/Hoenn/Content/Sounds/Cries/499.wav
+GameModes/Hoenn/Content/Sounds/Cries/498.wav
+GameModes/Hoenn/Content/Sounds/Cries/497.wav
+GameModes/Hoenn/Content/Sounds/Cries/496.wav
+GameModes/Hoenn/Content/Sounds/Cries/495.wav
+GameModes/Hoenn/Content/Sounds/Cries/494.wav
+GameModes/Hoenn/Content/Sounds/Cries/493.wav
+GameModes/Hoenn/Content/Sounds/Cries/492_sky.wav
+GameModes/Hoenn/Content/Sounds/Cries/492.wav
+GameModes/Hoenn/Content/Sounds/Cries/491.wav
+GameModes/Hoenn/Content/Sounds/Cries/490.wav
+GameModes/Hoenn/Content/Sounds/Cries/49.wav
+GameModes/Hoenn/Content/Sounds/Cries/489.wav
+GameModes/Hoenn/Content/Sounds/Cries/488.wav
+GameModes/Hoenn/Content/Sounds/Cries/487.wav
+GameModes/Hoenn/Content/Sounds/Cries/486.wav
+GameModes/Hoenn/Content/Sounds/Cries/485.wav
+GameModes/Hoenn/Content/Sounds/Cries/484.wav
+GameModes/Hoenn/Content/Sounds/Cries/483.wav
+GameModes/Hoenn/Content/Sounds/Cries/482.wav
+GameModes/Hoenn/Content/Sounds/Cries/481.wav
+GameModes/Hoenn/Content/Sounds/Cries/480.wav
+GameModes/Hoenn/Content/Sounds/Cries/48.wav
+GameModes/Hoenn/Content/Sounds/Cries/479.wav
+GameModes/Hoenn/Content/Sounds/Cries/478.wav
+GameModes/Hoenn/Content/Sounds/Cries/477.wav
+GameModes/Hoenn/Content/Sounds/Cries/476.wav
+GameModes/Hoenn/Content/Sounds/Cries/475.wav
+GameModes/Hoenn/Content/Sounds/Cries/474.wav
+GameModes/Hoenn/Content/Sounds/Cries/473.wav
+GameModes/Hoenn/Content/Sounds/Cries/472.wav
+GameModes/Hoenn/Content/Sounds/Cries/471.wav
+GameModes/Hoenn/Content/Sounds/Cries/470.wav
+GameModes/Hoenn/Content/Sounds/Cries/47.wav
+GameModes/Hoenn/Content/Sounds/Cries/469.wav
+GameModes/Hoenn/Content/Sounds/Cries/468.wav
+GameModes/Hoenn/Content/Sounds/Cries/467.wav
+GameModes/Hoenn/Content/Sounds/Cries/466.wav
+GameModes/Hoenn/Content/Sounds/Cries/465.wav
+GameModes/Hoenn/Content/Sounds/Cries/464.wav
+GameModes/Hoenn/Content/Sounds/Cries/463.wav
+GameModes/Hoenn/Content/Sounds/Cries/462.wav
+GameModes/Hoenn/Content/Sounds/Cries/461.wav
+GameModes/Hoenn/Content/Sounds/Cries/460.wav
+GameModes/Hoenn/Content/Sounds/Cries/46.wav
+GameModes/Hoenn/Content/Sounds/Cries/459.wav
+GameModes/Hoenn/Content/Sounds/Cries/458.wav
+GameModes/Hoenn/Content/Sounds/Cries/457.wav
+GameModes/Hoenn/Content/Sounds/Cries/456.wav
+GameModes/Hoenn/Content/Sounds/Cries/455.wav
+GameModes/Hoenn/Content/Sounds/Cries/454.wav
+GameModes/Hoenn/Content/Sounds/Cries/453.wav
+GameModes/Hoenn/Content/Sounds/Cries/452.wav
+GameModes/Hoenn/Content/Sounds/Cries/451.wav
+GameModes/Hoenn/Content/Sounds/Cries/450.wav
+GameModes/Hoenn/Content/Sounds/Cries/45.wav
+GameModes/Hoenn/Content/Sounds/Cries/449.wav
+GameModes/Hoenn/Content/Sounds/Cries/448.wav
+GameModes/Hoenn/Content/Sounds/Cries/447.wav
+GameModes/Hoenn/Content/Sounds/Cries/446.wav
+GameModes/Hoenn/Content/Sounds/Cries/445.wav
+GameModes/Hoenn/Content/Sounds/Cries/444.wav
+GameModes/Hoenn/Content/Sounds/Cries/443.wav
+GameModes/Hoenn/Content/Sounds/Cries/442.wav
+GameModes/Hoenn/Content/Sounds/Cries/441.wav
+GameModes/Hoenn/Content/Sounds/Cries/440.wav
+GameModes/Hoenn/Content/Sounds/Cries/44.wav
+GameModes/Hoenn/Content/Sounds/Cries/439.wav
+GameModes/Hoenn/Content/Sounds/Cries/438.wav
+GameModes/Hoenn/Content/Sounds/Cries/437.wav
+GameModes/Hoenn/Content/Sounds/Cries/436.wav
+GameModes/Hoenn/Content/Sounds/Cries/435.wav
+GameModes/Hoenn/Content/Sounds/Cries/434.wav
+GameModes/Hoenn/Content/Sounds/Cries/433.wav
+GameModes/Hoenn/Content/Sounds/Cries/432.wav
+GameModes/Hoenn/Content/Sounds/Cries/431.wav
+GameModes/Hoenn/Content/Sounds/Cries/430.wav
+GameModes/Hoenn/Content/Sounds/Cries/43.wav
+GameModes/Hoenn/Content/Sounds/Cries/429.wav
+GameModes/Hoenn/Content/Sounds/Cries/428.wav
+GameModes/Hoenn/Content/Sounds/Cries/427.wav
+GameModes/Hoenn/Content/Sounds/Cries/426.wav
+GameModes/Hoenn/Content/Sounds/Cries/425.wav
+GameModes/Hoenn/Content/Sounds/Cries/424.wav
+GameModes/Hoenn/Content/Sounds/Cries/423.wav
+GameModes/Hoenn/Content/Sounds/Cries/422.wav
+GameModes/Hoenn/Content/Sounds/Cries/421.wav
+GameModes/Hoenn/Content/Sounds/Cries/420.wav
+GameModes/Hoenn/Content/Sounds/Cries/42.wav
+GameModes/Hoenn/Content/Sounds/Cries/419.wav
+GameModes/Hoenn/Content/Sounds/Cries/418.wav
+GameModes/Hoenn/Content/Sounds/Cries/417.wav
+GameModes/Hoenn/Content/Sounds/Cries/416.wav
+GameModes/Hoenn/Content/Sounds/Cries/415.wav
+GameModes/Hoenn/Content/Sounds/Cries/414.wav
+GameModes/Hoenn/Content/Sounds/Cries/413.wav
+GameModes/Hoenn/Content/Sounds/Cries/412.wav
+GameModes/Hoenn/Content/Sounds/Cries/411.wav
+GameModes/Hoenn/Content/Sounds/Cries/410.wav
+GameModes/Hoenn/Content/Sounds/Cries/41.wav
+GameModes/Hoenn/Content/Sounds/Cries/409.wav
+GameModes/Hoenn/Content/Sounds/Cries/408.wav
+GameModes/Hoenn/Content/Sounds/Cries/407.wav
+GameModes/Hoenn/Content/Sounds/Cries/406.wav
+GameModes/Hoenn/Content/Sounds/Cries/405.wav
+GameModes/Hoenn/Content/Sounds/Cries/404.wav
+GameModes/Hoenn/Content/Sounds/Cries/403.wav
+GameModes/Hoenn/Content/Sounds/Cries/402.wav
+GameModes/Hoenn/Content/Sounds/Cries/401.wav
+GameModes/Hoenn/Content/Sounds/Cries/400.wav
+GameModes/Hoenn/Content/Sounds/Cries/40.wav
+GameModes/Hoenn/Content/Sounds/Cries/4.wav
+GameModes/Hoenn/Content/Sounds/Cries/399.wav
+GameModes/Hoenn/Content/Sounds/Cries/398.wav
+GameModes/Hoenn/Content/Sounds/Cries/397.wav
+GameModes/Hoenn/Content/Sounds/Cries/396.wav
+GameModes/Hoenn/Content/Sounds/Cries/395.wav
+GameModes/Hoenn/Content/Sounds/Cries/394.wav
+GameModes/Hoenn/Content/Sounds/Cries/393.wav
+GameModes/Hoenn/Content/Sounds/Cries/392.wav
+GameModes/Hoenn/Content/Sounds/Cries/391.wav
+GameModes/Hoenn/Content/Sounds/Cries/390.wav
+GameModes/Hoenn/Content/Sounds/Cries/39.wav
+GameModes/Hoenn/Content/Sounds/Cries/389.wav
+GameModes/Hoenn/Content/Sounds/Cries/388.wav
+GameModes/Hoenn/Content/Sounds/Cries/387.wav
+GameModes/Hoenn/Content/Sounds/Cries/386.wav
+GameModes/Hoenn/Content/Sounds/Cries/385.wav
+GameModes/Hoenn/Content/Sounds/Cries/384.wav
+GameModes/Hoenn/Content/Sounds/Cries/383.wav
+GameModes/Hoenn/Content/Sounds/Cries/382.wav
+GameModes/Hoenn/Content/Sounds/Cries/381.wav
+GameModes/Hoenn/Content/Sounds/Cries/380.wav
+GameModes/Hoenn/Content/Sounds/Cries/38.wav
+GameModes/Hoenn/Content/Sounds/Cries/379.wav
+GameModes/Hoenn/Content/Sounds/Cries/378.wav
+GameModes/Hoenn/Content/Sounds/Cries/377.wav
+GameModes/Hoenn/Content/Sounds/Cries/376.wav
+GameModes/Hoenn/Content/Sounds/Cries/375.wav
+GameModes/Hoenn/Content/Sounds/Cries/374.wav
+GameModes/Hoenn/Content/Sounds/Cries/373.wav
+GameModes/Hoenn/Content/Sounds/Cries/372.wav
+GameModes/Hoenn/Content/Sounds/Cries/371.wav
+GameModes/Hoenn/Content/Sounds/Cries/370.wav
+GameModes/Hoenn/Content/Sounds/Cries/37.wav
+GameModes/Hoenn/Content/Sounds/Cries/369.wav
+GameModes/Hoenn/Content/Sounds/Cries/368.wav
+GameModes/Hoenn/Content/Sounds/Cries/367.wav
+GameModes/Hoenn/Content/Sounds/Cries/366.wav
+GameModes/Hoenn/Content/Sounds/Cries/365.wav
+GameModes/Hoenn/Content/Sounds/Cries/364.wav
+GameModes/Hoenn/Content/Sounds/Cries/363.wav
+GameModes/Hoenn/Content/Sounds/Cries/362.wav
+GameModes/Hoenn/Content/Sounds/Cries/361.wav
+GameModes/Hoenn/Content/Sounds/Cries/360.wav
+GameModes/Hoenn/Content/Sounds/Cries/36.wav
+GameModes/Hoenn/Content/Sounds/Cries/359.wav
+GameModes/Hoenn/Content/Sounds/Cries/358.wav
+GameModes/Hoenn/Content/Sounds/Cries/357.wav
+GameModes/Hoenn/Content/Sounds/Cries/356.wav
+GameModes/Hoenn/Content/Sounds/Cries/355.wav
+GameModes/Hoenn/Content/Sounds/Cries/354.wav
+GameModes/Hoenn/Content/Sounds/Cries/353.wav
+GameModes/Hoenn/Content/Sounds/Cries/352.wav
+GameModes/Hoenn/Content/Sounds/Cries/351.wav
+GameModes/Hoenn/Content/Sounds/Cries/350.wav
+GameModes/Hoenn/Content/Sounds/Cries/35.wav
+GameModes/Hoenn/Content/Sounds/Cries/349.wav
+GameModes/Hoenn/Content/Sounds/Cries/348.wav
+GameModes/Hoenn/Content/Sounds/Cries/347.wav
+GameModes/Hoenn/Content/Sounds/Cries/346.wav
+GameModes/Hoenn/Content/Sounds/Cries/345.wav
+GameModes/Hoenn/Content/Sounds/Cries/344.wav
+GameModes/Hoenn/Content/Sounds/Cries/343.wav
+GameModes/Hoenn/Content/Sounds/Cries/342.wav
+GameModes/Hoenn/Content/Sounds/Cries/341.wav
+GameModes/Hoenn/Content/Sounds/Cries/340.wav
+GameModes/Hoenn/Content/Sounds/Cries/34.wav
+GameModes/Hoenn/Content/Sounds/Cries/339.wav
+GameModes/Hoenn/Content/Sounds/Cries/338.wav
+GameModes/Hoenn/Content/Sounds/Cries/337.wav
+GameModes/Hoenn/Content/Sounds/Cries/336.wav
+GameModes/Hoenn/Content/Sounds/Cries/335.wav
+GameModes/Hoenn/Content/Sounds/Cries/334.wav
+GameModes/Hoenn/Content/Sounds/Cries/333.wav
+GameModes/Hoenn/Content/Sounds/Cries/332.wav
+GameModes/Hoenn/Content/Sounds/Cries/331.wav
+GameModes/Hoenn/Content/Sounds/Cries/330.wav
+GameModes/Hoenn/Content/Sounds/Cries/33.wav
+GameModes/Hoenn/Content/Sounds/Cries/329.wav
+GameModes/Hoenn/Content/Sounds/Cries/328.wav
+GameModes/Hoenn/Content/Sounds/Cries/327.wav
+GameModes/Hoenn/Content/Sounds/Cries/326.wav
+GameModes/Hoenn/Content/Sounds/Cries/325.wav
+GameModes/Hoenn/Content/Sounds/Cries/324.wav
+GameModes/Hoenn/Content/Sounds/Cries/323.wav
+GameModes/Hoenn/Content/Sounds/Cries/322.wav
+GameModes/Hoenn/Content/Sounds/Cries/321.wav
+GameModes/Hoenn/Content/Sounds/Cries/320.wav
+GameModes/Hoenn/Content/Sounds/Cries/32.wav
+GameModes/Hoenn/Content/Sounds/Cries/319.wav
+GameModes/Hoenn/Content/Sounds/Cries/318.wav
+GameModes/Hoenn/Content/Sounds/Cries/317.wav
+GameModes/Hoenn/Content/Sounds/Cries/316.wav
+GameModes/Hoenn/Content/Sounds/Cries/315.wav
+GameModes/Hoenn/Content/Sounds/Cries/314.wav
+GameModes/Hoenn/Content/Sounds/Cries/313.wav
+GameModes/Hoenn/Content/Sounds/Cries/312.wav
+GameModes/Hoenn/Content/Sounds/Cries/311.wav
+GameModes/Hoenn/Content/Sounds/Cries/310.wav
+GameModes/Hoenn/Content/Sounds/Cries/31.wav
+GameModes/Hoenn/Content/Sounds/Cries/309.wav
+GameModes/Hoenn/Content/Sounds/Cries/308.wav
+GameModes/Hoenn/Content/Sounds/Cries/307.wav
+GameModes/Hoenn/Content/Sounds/Cries/306.wav
+GameModes/Hoenn/Content/Sounds/Cries/305.wav
+GameModes/Hoenn/Content/Sounds/Cries/304.wav
+GameModes/Hoenn/Content/Sounds/Cries/303.wav
+GameModes/Hoenn/Content/Sounds/Cries/302.wav
+GameModes/Hoenn/Content/Sounds/Cries/301.wav
+GameModes/Hoenn/Content/Sounds/Cries/300.wav
+GameModes/Hoenn/Content/Sounds/Cries/30.wav
+GameModes/Hoenn/Content/Sounds/Cries/3.wav
+GameModes/Hoenn/Content/Sounds/Cries/299.wav
+GameModes/Hoenn/Content/Sounds/Cries/298.wav
+GameModes/Hoenn/Content/Sounds/Cries/297.wav
+GameModes/Hoenn/Content/Sounds/Cries/296.wav
+GameModes/Hoenn/Content/Sounds/Cries/295.wav
+GameModes/Hoenn/Content/Sounds/Cries/294.wav
+GameModes/Hoenn/Content/Sounds/Cries/293.wav
+GameModes/Hoenn/Content/Sounds/Cries/292.wav
+GameModes/Hoenn/Content/Sounds/Cries/291.wav
+GameModes/Hoenn/Content/Sounds/Cries/290.wav
+GameModes/Hoenn/Content/Sounds/Cries/29.wav
+GameModes/Hoenn/Content/Sounds/Cries/289.wav
+GameModes/Hoenn/Content/Sounds/Cries/288.wav
+GameModes/Hoenn/Content/Sounds/Cries/287.wav
+GameModes/Hoenn/Content/Sounds/Cries/286.wav
+GameModes/Hoenn/Content/Sounds/Cries/285.wav
+GameModes/Hoenn/Content/Sounds/Cries/284.wav
+GameModes/Hoenn/Content/Sounds/Cries/283.wav
+GameModes/Hoenn/Content/Sounds/Cries/282.wav
+GameModes/Hoenn/Content/Sounds/Cries/281.wav
+GameModes/Hoenn/Content/Sounds/Cries/280.wav
+GameModes/Hoenn/Content/Sounds/Cries/28.wav
+GameModes/Hoenn/Content/Sounds/Cries/279.wav
+GameModes/Hoenn/Content/Sounds/Cries/278.wav
+GameModes/Hoenn/Content/Sounds/Cries/277.wav
+GameModes/Hoenn/Content/Sounds/Cries/276.wav
+GameModes/Hoenn/Content/Sounds/Cries/275.wav
+GameModes/Hoenn/Content/Sounds/Cries/274.wav
+GameModes/Hoenn/Content/Sounds/Cries/273.wav
+GameModes/Hoenn/Content/Sounds/Cries/272.wav
+GameModes/Hoenn/Content/Sounds/Cries/271.wav
+GameModes/Hoenn/Content/Sounds/Cries/270.wav
+GameModes/Hoenn/Content/Sounds/Cries/27.wav
+GameModes/Hoenn/Content/Sounds/Cries/269.wav
+GameModes/Hoenn/Content/Sounds/Cries/268.wav
+GameModes/Hoenn/Content/Sounds/Cries/267.wav
+GameModes/Hoenn/Content/Sounds/Cries/266.wav
+GameModes/Hoenn/Content/Sounds/Cries/265.wav
+GameModes/Hoenn/Content/Sounds/Cries/264.wav
+GameModes/Hoenn/Content/Sounds/Cries/263.wav
+GameModes/Hoenn/Content/Sounds/Cries/262.wav
+GameModes/Hoenn/Content/Sounds/Cries/261.wav
+GameModes/Hoenn/Content/Sounds/Cries/260.wav
+GameModes/Hoenn/Content/Sounds/Cries/26.wav
+GameModes/Hoenn/Content/Sounds/Cries/259.wav
+GameModes/Hoenn/Content/Sounds/Cries/258.wav
+GameModes/Hoenn/Content/Sounds/Cries/257.wav
+GameModes/Hoenn/Content/Sounds/Cries/256.wav
+GameModes/Hoenn/Content/Sounds/Cries/255.wav
+GameModes/Hoenn/Content/Sounds/Cries/254.wav
+GameModes/Hoenn/Content/Sounds/Cries/253.wav
+GameModes/Hoenn/Content/Sounds/Cries/252.wav
+GameModes/Hoenn/Content/Sounds/Cries/251.wav
+GameModes/Hoenn/Content/Sounds/Cries/250.wav
+GameModes/Hoenn/Content/Sounds/Cries/25.wav
+GameModes/Hoenn/Content/Sounds/Cries/249.wav
+GameModes/Hoenn/Content/Sounds/Cries/248.wav
+GameModes/Hoenn/Content/Sounds/Cries/247.wav
+GameModes/Hoenn/Content/Sounds/Cries/246.wav
+GameModes/Hoenn/Content/Sounds/Cries/245.wav
+GameModes/Hoenn/Content/Sounds/Cries/244.wav
+GameModes/Hoenn/Content/Sounds/Cries/243.wav
+GameModes/Hoenn/Content/Sounds/Cries/242.wav
+GameModes/Hoenn/Content/Sounds/Cries/241.wav
+GameModes/Hoenn/Content/Sounds/Cries/240.wav
+GameModes/Hoenn/Content/Sounds/Cries/24.wav
+GameModes/Hoenn/Content/Sounds/Cries/239.wav
+GameModes/Hoenn/Content/Sounds/Cries/238.wav
+GameModes/Hoenn/Content/Sounds/Cries/237.wav
+GameModes/Hoenn/Content/Sounds/Cries/236.wav
+GameModes/Hoenn/Content/Sounds/Cries/235.wav
+GameModes/Hoenn/Content/Sounds/Cries/234.wav
+GameModes/Hoenn/Content/Sounds/Cries/233.wav
+GameModes/Hoenn/Content/Sounds/Cries/232.wav
+GameModes/Hoenn/Content/Sounds/Cries/231.wav
+GameModes/Hoenn/Content/Sounds/Cries/230.wav
+GameModes/Hoenn/Content/Sounds/Cries/23.wav
+GameModes/Hoenn/Content/Sounds/Cries/229.wav
+GameModes/Hoenn/Content/Sounds/Cries/228.wav
+GameModes/Hoenn/Content/Sounds/Cries/227.wav
+GameModes/Hoenn/Content/Sounds/Cries/226.wav
+GameModes/Hoenn/Content/Sounds/Cries/225.wav
+GameModes/Hoenn/Content/Sounds/Cries/224.wav
+GameModes/Hoenn/Content/Sounds/Cries/223.wav
+GameModes/Hoenn/Content/Sounds/Cries/222.wav
+GameModes/Hoenn/Content/Sounds/Cries/221.wav
+GameModes/Hoenn/Content/Sounds/Cries/220.wav
+GameModes/Hoenn/Content/Sounds/Cries/22.wav
+GameModes/Hoenn/Content/Sounds/Cries/219.wav
+GameModes/Hoenn/Content/Sounds/Cries/218.wav
+GameModes/Hoenn/Content/Sounds/Cries/217.wav
+GameModes/Hoenn/Content/Sounds/Cries/216.wav
+GameModes/Hoenn/Content/Sounds/Cries/215.wav
+GameModes/Hoenn/Content/Sounds/Cries/214.wav
+GameModes/Hoenn/Content/Sounds/Cries/213.wav
+GameModes/Hoenn/Content/Sounds/Cries/212.wav
+GameModes/Hoenn/Content/Sounds/Cries/211.wav
+GameModes/Hoenn/Content/Sounds/Cries/210.wav
+GameModes/Hoenn/Content/Sounds/Cries/21.wav
+GameModes/Hoenn/Content/Sounds/Cries/209.wav
+GameModes/Hoenn/Content/Sounds/Cries/208.wav
+GameModes/Hoenn/Content/Sounds/Cries/207.wav
+GameModes/Hoenn/Content/Sounds/Cries/206.wav
+GameModes/Hoenn/Content/Sounds/Cries/205.wav
+GameModes/Hoenn/Content/Sounds/Cries/204.wav
+GameModes/Hoenn/Content/Sounds/Cries/203.wav
+GameModes/Hoenn/Content/Sounds/Cries/202.wav
+GameModes/Hoenn/Content/Sounds/Cries/201.wav
+GameModes/Hoenn/Content/Sounds/Cries/200.wav
+GameModes/Hoenn/Content/Sounds/Cries/20.wav
+GameModes/Hoenn/Content/Sounds/Cries/2.wav
+GameModes/Hoenn/Content/Sounds/Cries/199.wav
+GameModes/Hoenn/Content/Sounds/Cries/198.wav
+GameModes/Hoenn/Content/Sounds/Cries/197.wav
+GameModes/Hoenn/Content/Sounds/Cries/196.wav
+GameModes/Hoenn/Content/Sounds/Cries/195.wav
+GameModes/Hoenn/Content/Sounds/Cries/194.wav
+GameModes/Hoenn/Content/Sounds/Cries/193.wav
+GameModes/Hoenn/Content/Sounds/Cries/192.wav
+GameModes/Hoenn/Content/Sounds/Cries/191.wav
+GameModes/Hoenn/Content/Sounds/Cries/190.wav
+GameModes/Hoenn/Content/Sounds/Cries/19.wav
+GameModes/Hoenn/Content/Sounds/Cries/189.wav
+GameModes/Hoenn/Content/Sounds/Cries/188.wav
+GameModes/Hoenn/Content/Sounds/Cries/187.wav
+GameModes/Hoenn/Content/Sounds/Cries/186.wav
+GameModes/Hoenn/Content/Sounds/Cries/185.wav
+GameModes/Hoenn/Content/Sounds/Cries/184.wav
+GameModes/Hoenn/Content/Sounds/Cries/183.wav
+GameModes/Hoenn/Content/Sounds/Cries/182.wav
+GameModes/Hoenn/Content/Sounds/Cries/181.wav
+GameModes/Hoenn/Content/Sounds/Cries/180.wav
+GameModes/Hoenn/Content/Sounds/Cries/18.wav
+GameModes/Hoenn/Content/Sounds/Cries/179.wav
+GameModes/Hoenn/Content/Sounds/Cries/178.wav
+GameModes/Hoenn/Content/Sounds/Cries/177.wav
+GameModes/Hoenn/Content/Sounds/Cries/176.wav
+GameModes/Hoenn/Content/Sounds/Cries/175.wav
+GameModes/Hoenn/Content/Sounds/Cries/174.wav
+GameModes/Hoenn/Content/Sounds/Cries/173.wav
+GameModes/Hoenn/Content/Sounds/Cries/172.wav
+GameModes/Hoenn/Content/Sounds/Cries/171.wav
+GameModes/Hoenn/Content/Sounds/Cries/170.wav
+GameModes/Hoenn/Content/Sounds/Cries/17.wav
+GameModes/Hoenn/Content/Sounds/Cries/169.wav
+GameModes/Hoenn/Content/Sounds/Cries/168.wav
+GameModes/Hoenn/Content/Sounds/Cries/167.wav
+GameModes/Hoenn/Content/Sounds/Cries/166.wav
+GameModes/Hoenn/Content/Sounds/Cries/165.wav
+GameModes/Hoenn/Content/Sounds/Cries/164.wav
+GameModes/Hoenn/Content/Sounds/Cries/163.wav
+GameModes/Hoenn/Content/Sounds/Cries/162.wav
+GameModes/Hoenn/Content/Sounds/Cries/161.wav
+GameModes/Hoenn/Content/Sounds/Cries/160.wav
+GameModes/Hoenn/Content/Sounds/Cries/16.wav
+GameModes/Hoenn/Content/Sounds/Cries/159.wav
+GameModes/Hoenn/Content/Sounds/Cries/158.wav
+GameModes/Hoenn/Content/Sounds/Cries/157.wav
+GameModes/Hoenn/Content/Sounds/Cries/156.wav
+GameModes/Hoenn/Content/Sounds/Cries/155.wav
+GameModes/Hoenn/Content/Sounds/Cries/154.wav
+GameModes/Hoenn/Content/Sounds/Cries/153.wav
+GameModes/Hoenn/Content/Sounds/Cries/152.wav
+GameModes/Hoenn/Content/Sounds/Cries/151.wav
+GameModes/Hoenn/Content/Sounds/Cries/150.wav
+GameModes/Hoenn/Content/Sounds/Cries/15.wav
+GameModes/Hoenn/Content/Sounds/Cries/149.wav
+GameModes/Hoenn/Content/Sounds/Cries/148.wav
+GameModes/Hoenn/Content/Sounds/Cries/147.wav
+GameModes/Hoenn/Content/Sounds/Cries/146.wav
+GameModes/Hoenn/Content/Sounds/Cries/145.wav
+GameModes/Hoenn/Content/Sounds/Cries/144.wav
+GameModes/Hoenn/Content/Sounds/Cries/143.wav
+GameModes/Hoenn/Content/Sounds/Cries/142.wav
+GameModes/Hoenn/Content/Sounds/Cries/141.wav
+GameModes/Hoenn/Content/Sounds/Cries/140.wav
+GameModes/Hoenn/Content/Sounds/Cries/14.wav
+GameModes/Hoenn/Content/Sounds/Cries/139.wav
+GameModes/Hoenn/Content/Sounds/Cries/138.wav
+GameModes/Hoenn/Content/Sounds/Cries/137.wav
+GameModes/Hoenn/Content/Sounds/Cries/136.wav
+GameModes/Hoenn/Content/Sounds/Cries/135.wav
+GameModes/Hoenn/Content/Sounds/Cries/134.wav
+GameModes/Hoenn/Content/Sounds/Cries/133.wav
+GameModes/Hoenn/Content/Sounds/Cries/132.wav
+GameModes/Hoenn/Content/Sounds/Cries/131.wav
+GameModes/Hoenn/Content/Sounds/Cries/130.wav
+GameModes/Hoenn/Content/Sounds/Cries/13.wav
+GameModes/Hoenn/Content/Sounds/Cries/129.wav
+GameModes/Hoenn/Content/Sounds/Cries/128.wav
+GameModes/Hoenn/Content/Sounds/Cries/127.wav
+GameModes/Hoenn/Content/Sounds/Cries/126.wav
+GameModes/Hoenn/Content/Sounds/Cries/125.wav
+GameModes/Hoenn/Content/Sounds/Cries/124.wav
+GameModes/Hoenn/Content/Sounds/Cries/123.wav
+GameModes/Hoenn/Content/Sounds/Cries/122.wav
+GameModes/Hoenn/Content/Sounds/Cries/121.wav
+GameModes/Hoenn/Content/Sounds/Cries/120.wav
+GameModes/Hoenn/Content/Sounds/Cries/12.wav
+GameModes/Hoenn/Content/Sounds/Cries/119.wav
+GameModes/Hoenn/Content/Sounds/Cries/118.wav
+GameModes/Hoenn/Content/Sounds/Cries/117.wav
+GameModes/Hoenn/Content/Sounds/Cries/116.wav
+GameModes/Hoenn/Content/Sounds/Cries/115.wav
+GameModes/Hoenn/Content/Sounds/Cries/114.wav
+GameModes/Hoenn/Content/Sounds/Cries/113.wav
+GameModes/Hoenn/Content/Sounds/Cries/112.wav
+GameModes/Hoenn/Content/Sounds/Cries/111.wav
+GameModes/Hoenn/Content/Sounds/Cries/110.wav
+GameModes/Hoenn/Content/Sounds/Cries/11.wav
+GameModes/Hoenn/Content/Sounds/Cries/109.wav
+GameModes/Hoenn/Content/Sounds/Cries/108.wav
+GameModes/Hoenn/Content/Sounds/Cries/107.wav
+GameModes/Hoenn/Content/Sounds/Cries/106.wav
+GameModes/Hoenn/Content/Sounds/Cries/105.wav
+GameModes/Hoenn/Content/Sounds/Cries/104.wav
+GameModes/Hoenn/Content/Sounds/Cries/103.wav
+GameModes/Hoenn/Content/Sounds/Cries/102.wav
+GameModes/Hoenn/Content/Sounds/Cries/101.wav
+GameModes/Hoenn/Content/Sounds/Cries/100.wav
+GameModes/Hoenn/Content/Sounds/Cries/10.wav
+GameModes/Hoenn/Content/Sounds/Cries/1.wav
+GameModes/Hoenn/Content/Sounds/Contest/rankplace.wav
+GameModes/Hoenn/Content/Sounds/CableCar_Stop.wav
+GameModes/Hoenn/Content/Sounds/CableCar_Move.wav
+GameModes/Hoenn/Content/Sounds/buy.wav
+GameModes/Hoenn/Content/Sounds/bump.wav
+GameModes/Hoenn/Content/Sounds/bicycle.wav
+GameModes/Hoenn/Content/Sounds/Battle/shiny.wav
+GameModes/Hoenn/Content/Sounds/Battle/running.wav
+GameModes/Hoenn/Content/Sounds/Battle/Pokeball/throw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Pokeball/shake.wav
+GameModes/Hoenn/Content/Sounds/Battle/Pokeball/open.wav
+GameModes/Hoenn/Content/Sounds/Battle/Pokeball/catch.wav
+GameModes/Hoenn/Content/Sounds/Battle/LowHP.wav
+GameModes/Hoenn/Content/Sounds/Battle/Heal.wav
+GameModes/Hoenn/Content/Sounds/Battle/Exp_Max.wav
+GameModes/Hoenn/Content/Sounds/Battle/Exp_Fill.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Stat_Raise.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Stat_Lower.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Poisoned.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Paralyzed.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Frozen.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Confused.wav
+GameModes/Hoenn/Content/Sounds/Battle/Effects/Burned.wav
+GameModes/Hoenn/Content/Sounds/Battle/Damage/SuperEffective.wav
+GameModes/Hoenn/Content/Sounds/Battle/Damage/NotVeryEffective.wav
+GameModes/Hoenn/Content/Sounds/Battle/Damage/Effective.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Zap Cannon.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Yawn.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Wrap.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Wrap turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Withdraw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Wish.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Wish part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Wish part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Wing Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Will O Wisp.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Whirlwind.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Whirlpool.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Whirlpool turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Weather Ball.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Waterfall.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Waterfall part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Waterfall part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Water Spout.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Water Spout part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Water Spout part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Water Sport.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Water Pulse.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Water Gun.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Volt Tackle.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Volt Tackle part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Volt Tackle part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Vital Throw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Vine Whip.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Vice Grip.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Uproar.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Twister.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Twineedle 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Twineedle 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Triple Kick 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Triple Kick 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Trick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Tri Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Transform.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Toxic.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Torment.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Tickle.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Tickle part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Tickle part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunderbolt.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunderbolt part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunderbolt part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Wave.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Wave part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Wave part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Shock.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Shock part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Shock part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thunder part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thrash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Thief.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Teleport.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Teeter Dance.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Taunt.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Take Down.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Tail Whip.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Tail Glow.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Synthesis.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Synthesis part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Synthesis part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Swords Dance.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Swift.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sweet Scent.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sweet Kiss.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sweet Kiss part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sweet Kiss part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Swallow.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Swagger.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Surf.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Supersonic.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Supersonic part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Supersonic part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Superpower.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Super Fang.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Super Fang part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Super Fang part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sunny Day.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Substitute.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Submission.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stun Spore.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stun Spore part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stun Spore part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Struggle.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/String Shot.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Strength.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stomp.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stockpile.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Steel Wing.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Status Sleep.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Status Poisoned.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Status Paralyzed.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Status Frozen.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Status Confused.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Status Burned.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stat Rise Up.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Stat Fall Down.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spore.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spore part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spore part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Splash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spite.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spit Up.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spikes.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spike Cannon 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spike Cannon 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spider Web.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Spark.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sonic Boom.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Solar Beam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Solar Beam part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Solar Beam part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Soft Boiled.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Soft Boiled part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Soft Boiled part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Snore.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Snatch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Smokescreen.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Smokescreen part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Smokescreen part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Smog.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Smelling Salts.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sludge.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sludge Bomb.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sludge Bomb part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sludge Bomb part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sleep Talk.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sleep Powder.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sleep Powder part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sleep Powder part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Slash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Slam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Slack Off.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sky Uppercut.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sky Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sky Attack part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sky Attack part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Skull Bash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Skull Bash part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Skull Bash part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Skill Swap.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sketch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sing.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Silver Wind.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Signal Beam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Shock Wave.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sheer Cold.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sharpen.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Shadow Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Shadow Ball.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Self Destruct.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Seismic Toss.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Seismic Toss part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Seismic Toss part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Secret Power.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Screech.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Scratch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Scary Face.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sandstorm.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sand Tomb.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sand Tomb turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sand Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Safeguard.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sacred Fire.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sacred Fire part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Sacred Fire part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rollout.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rollout part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rollout part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rolling Kick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Role Play.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rock Tomb.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rock Throw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rock Smash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rock Slide.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rock Blast 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rock Blast 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Roar.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Reversal.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Revenge.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Return.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Return part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Return part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rest.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Refresh.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Reflect.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Recycle.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Recycle part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Recycle part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Recover.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Recover part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Recover part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Razor Wind.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Razor Leaf.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Razor Leaf part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Razor Leaf part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rapid Spin.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rain Dance.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Rage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Quick Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Pursuit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psywave.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psycho Boost.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psychic.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psych Up.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psych Up part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psych Up part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Psybeam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Protect.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Present part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Present part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Present heal.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Present damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Powder Snow.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Powder Snow part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Powder Snow part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Pound.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Tail.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Sting.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Powder.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Powder part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Powder part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Gas.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Gas part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Gas part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Poison Fang.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Pin Missile 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Pin Missile 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Petal Dance.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Petal Dance part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Petal Dance part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Perish Song.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Peck.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Pay Day.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Pain Split.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Overheat.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Outrage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Odor Sleuth.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Octazooka.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Nightmare.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Night Shade.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Needle Arm.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Muddy Water.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mud Sport.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mud Slap.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mud Shot.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Morning Sun.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Morning Sun part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Morning Sun part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Moonlight.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Moonlight part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Moonlight part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mist.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mist Ball.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mirror Coat.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Minimize.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mind Reader.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mimic.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Milk Drink.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Milk Drink part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Milk Drink part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Metronome.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Meteor Mash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Meteor Mash part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Meteor Mash part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Metal Sound.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Metal Claw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Metal Claw part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Metal Claw part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Memento.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Megahorn.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mega Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mega Kick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mega Drain.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mega Drain part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mega Drain part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Meditate.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mean Look.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Magnitude.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Magical Leaf.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Magical Leaf part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Magical Leaf part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Magic Coat.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Mach Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Luster Purge.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Low Kick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Lovely Kiss.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Lock On.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Light Screen.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Lick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leer.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leech Seed.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leech Seed turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leech Life.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leech Life part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leech Life part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Leaf Blade.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Knock Off.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Kinesis.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Karate Chop.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Jump Kick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Iron Tail.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Iron Tail part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Iron Tail part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Iron Defense.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ingrain.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ingrain turn heal.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Recall Switch Pokeball.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Recall Switch Flee Run.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Held Item Activate.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Health Low.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Health Low Loop.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Heal HP Restore.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/In-Battle Faint No Health.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Imprison.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Icy Wind.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Icy Wind part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Icy Wind part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Icicle Spear 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Icicle Spear 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ice Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ice Beam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ice Beam part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ice Beam part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ice Ball.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hypnosis.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hyper Voice.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hyper Fang.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hyper Beam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hydro Pump.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hydro Cannon.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Howl.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Horn Drill.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Horn Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hit Weak Not Very Effective.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hit Super Effective.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hit Normal Damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/High Jump Kick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hidden Power.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Helping Hand.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Heat Wave.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Heal Bell.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Heal Bell part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Heal Bell part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Headbutt.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Haze.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Harden.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Harden part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Harden part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hail.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Hail turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Gust.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Guillotine.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Grudge.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Grudge part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Grudge part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Growth.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Growl.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Grass Whistle.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Glare.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Glare part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Glare part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Giga Drain.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Giga Drain part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Giga Drain part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Future Sight.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Future Sight turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fury Swipes 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fury Swipes 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fury Cutter.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fury Attack 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fury Attack 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Frustration.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Frenzy Plant.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Foresight.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Follow Me.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Focus Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Focus Energy.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fly.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fly part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fly part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flatter.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flash.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flamethrower.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flame Wheel.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flame Wheel part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flame Wheel part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Flail.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fissure.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fire Spin.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fire Spin turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fire Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fire Blast.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Feint Attack.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Feather Dance.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/False Swipe.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fake Tears.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Fake Out.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Facade.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Extreme Speed.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Extrasensory.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Explosion.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Eruption.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Eruption part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Eruption part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Endure.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Endeavor.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Encore.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ember.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Egg Bomb.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Earthquake.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dynamic Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Drill Peck.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dream Eater.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dream Eater part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dream Eater part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dragon Rage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dragon Rage part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dragon Rage part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dragon Dance.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dragon Claw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dragon Breath.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Double Team.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Double Slap 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Double Slap 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Double Kick 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Double Kick 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Double Edge.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Doom Desire.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dizzy Punch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dive.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dive part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dive part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Disable.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dig.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dig part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Dig part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Detect.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Destiny Bond.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Destiny Bond part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Destiny Bond part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Defense Curl.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Cut.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Curse.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Crush Claw.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Crunch.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Cross Chop.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Crabhammer.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Covet.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Covet part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Covet part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Counter.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Cotton Spore.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Cosmic Power.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Conversion.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Conversion 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Constrict.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Confusion.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Confuse Ray.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Confuse Ray part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Confuse Ray part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Comet Punch 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Comet Punch 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Clamp.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Charm.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Charge.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Camouflage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Calm Mind.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bullet Seed 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bullet Seed 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bulk Up.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bubble.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bubble part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bubble part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bubble Beam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bubble Beam part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bubble Beam part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Brick Break.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bounce.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bonemerang 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bonemerang 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bone Rush 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bone Rush 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bone Club.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Body Slam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Block.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Blizzard.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Blizzard part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Blizzard part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Blaze Kick.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Blast Burn.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bite.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bind.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bind turn damage.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Bide.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Belly Drum.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Beat Up.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Baton Pass.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Barrier.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Barrage 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Barrage 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Aurora Beam.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Attract.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Attract part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Attract part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Astonish.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Assist.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Aromatherapy.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Aromatherapy part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Aromatherapy part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Arm Thrust 2hits.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Arm Thrust 1hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Ancient Power.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Amnesia.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Air Cutter.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Agility.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Aeroblast.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Aerial Ace.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Acid.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Acid Armor.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Absorb.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Absorb part 2.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/wav/Absorb part 1.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Thunderbolt.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Tackle.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Pound.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/PoisonSting_Start.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/PoisonSting_Hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Fly_Start.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Fly_Hit.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Ember_Start.wav
+GameModes/Hoenn/Content/Sounds/Battle/Attacks/Ember_Hit.wav
+GameModes/Hoenn/Content/Songs/wind.ogg
+GameModes/Hoenn/Content/Songs/wild_defeat.ogg
+GameModes/Hoenn/Content/Songs/ViridianForest.ogg
+GameModes/Hoenn/Content/Songs/violet.ogg
+GameModes/Hoenn/Content/Songs/vermilion.ogg
+GameModes/Hoenn/Content/Songs/unown_broadcast.ogg
+GameModes/Hoenn/Content/Songs/trainerschool.ogg
+GameModes/Hoenn/Content/Songs/trainer_encounter.ogg
+GameModes/Hoenn/Content/Songs/trainer_defeat.ogg
+GameModes/Hoenn/Content/Songs/title.ogg
+GameModes/Hoenn/Content/Songs/tintower.ogg
+GameModes/Hoenn/Content/Songs/tao_legend_battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/tao_legend_battle.ogg
+GameModes/Hoenn/Content/Songs/surf.ogg
+GameModes/Hoenn/Content/Songs/suicune_battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/suicune_battle.ogg
+GameModes/Hoenn/Content/Songs/ssaqua.ogg
+GameModes/Hoenn/Content/Songs/SproutTower.ogg
+GameModes/Hoenn/Content/Songs/SpaceLegend_Battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/SpaceLegend_Battle.ogg
+GameModes/Hoenn/Content/Songs/sovietmarch.ogg
+GameModes/Hoenn/Content/Songs/Silence.ogg
+GameModes/Hoenn/Content/Songs/show_me_around.ogg
+GameModes/Hoenn/Content/Songs/safarigate.ogg
+GameModes/Hoenn/Content/Songs/safari.ogg
+GameModes/Hoenn/Content/Songs/ruinsofalph.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic9.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic8.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic7.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic6.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic5.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic4.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic3.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic2.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic11.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic10.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic1.ogg
+GameModes/Hoenn/Content/Songs/RouteMusic0.ogg
+GameModes/Hoenn/Content/Songs/RocketHideout.ogg
+GameModes/Hoenn/Content/Songs/rocket_broadcast.ogg
+GameModes/Hoenn/Content/Songs/raikou_battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/raikou_battle.ogg
+GameModes/Hoenn/Content/Songs/pvp.ogg
+GameModes/Hoenn/Content/Songs/PokemonMarch.ogg
+GameModes/Hoenn/Content/Songs/PokemonLullaby.ogg
+GameModes/Hoenn/Content/Songs/pokeflute.ogg
+GameModes/Hoenn/Content/Songs/Petalburg.ogg
+GameModes/Hoenn/Content/Songs/pallet.ogg
+GameModes/Hoenn/Content/Songs/Oldale.ogg
+GameModes/Hoenn/Content/Songs/oakslab.ogg
+GameModes/Hoenn/Content/Songs/oak_encounter.ogg
+GameModes/Hoenn/Content/Songs/newbark.ogg
+GameModes/Hoenn/Content/Songs/nationalpark.ogg
+GameModes/Hoenn/Content/Songs/MtMoonSquare.ogg
+GameModes/Hoenn/Content/Songs/MillennialStarTower.ogg
+GameModes/Hoenn/Content/Songs/mary_encounter.ogg
+GameModes/Hoenn/Content/Songs/mart.ogg
+GameModes/Hoenn/Content/Songs/lugia_battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/lugia_battle.ogg
+GameModes/Hoenn/Content/Songs/Looker_encounter.ogg
+GameModes/Hoenn/Content/Songs/lobby.ogg
+GameModes/Hoenn/Content/Songs/littleroot.ogg
+GameModes/Hoenn/Content/Songs/lighthouse.ogg
+GameModes/Hoenn/Content/Songs/leader_defeat.ogg
+GameModes/Hoenn/Content/Songs/lavender.ogg
+GameModes/Hoenn/Content/Songs/kimono.ogg
+GameModes/Hoenn/Content/Songs/kanto_wild_startbattle.ogg
+GameModes/Hoenn/Content/Songs/kanto_wild.ogg
+GameModes/Hoenn/Content/Songs/kanto_victoryroad.ogg
+GameModes/Hoenn/Content/Songs/kanto_trainer_startbattle.ogg
+GameModes/Hoenn/Content/Songs/kanto_trainer.ogg
+GameModes/Hoenn/Content/Songs/Kanto_Surf.ogg
+GameModes/Hoenn/Content/Songs/kanto_leader_startbattle.ogg
+GameModes/Hoenn/Content/Songs/kanto_leader.ogg
+GameModes/Hoenn/Content/Songs/Kanto_Gym.ogg
+GameModes/Hoenn/Content/Songs/Kanto_Bike.ogg
+GameModes/Hoenn/Content/Songs/johto_wild_startbattle.ogg
+GameModes/Hoenn/Content/Songs/johto_wild.ogg
+GameModes/Hoenn/Content/Songs/johto_trainer_startbattle.ogg
+GameModes/Hoenn/Content/Songs/Johto_Trainer_Encounter.ogg
+GameModes/Hoenn/Content/Songs/johto_trainer.ogg
+GameModes/Hoenn/Content/Songs/Johto_Surf.ogg
+GameModes/Hoenn/Content/Songs/johto_rocket_startbattle.ogg
+GameModes/Hoenn/Content/Songs/johto_rocket_encounter.ogg
+GameModes/Hoenn/Content/Songs/johto_rocket.ogg
+GameModes/Hoenn/Content/Songs/johto_rival_startbattle.ogg
+GameModes/Hoenn/Content/Songs/johto_rival_encounter.ogg
+GameModes/Hoenn/Content/Songs/johto_rival.ogg
+GameModes/Hoenn/Content/Songs/Johto_PokeMart.ogg
+GameModes/Hoenn/Content/Songs/Johto_PokeCenter.ogg
+GameModes/Hoenn/Content/Songs/johto_leader_startbattle.ogg
+GameModes/Hoenn/Content/Songs/johto_leader.ogg
+GameModes/Hoenn/Content/Songs/Johto_Gym.ogg
+GameModes/Hoenn/Content/Songs/johto_elite_startbattle.ogg
+GameModes/Hoenn/Content/Songs/johto_elite.ogg
+GameModes/Hoenn/Content/Songs/Johto_champion_startbattle.ogg
+GameModes/Hoenn/Content/Songs/johto_champion.ogg
+GameModes/Hoenn/Content/Songs/Johto_Bike.ogg
+GameModes/Hoenn/Content/Songs/intro/violet.ogg
+GameModes/Hoenn/Content/Songs/intro/vermilion.ogg
+GameModes/Hoenn/Content/Songs/intro/trainerschool.ogg
+GameModes/Hoenn/Content/Songs/intro/trainer_encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/tao_legend_battle.ogg
+GameModes/Hoenn/Content/Songs/intro/suicune_battle.ogg
+GameModes/Hoenn/Content/Songs/intro/ssaqua.ogg
+GameModes/Hoenn/Content/Songs/intro/SproutTower.ogg
+GameModes/Hoenn/Content/Songs/intro/SpaceLegend_battle.ogg
+GameModes/Hoenn/Content/Songs/intro/show_me_around.ogg
+GameModes/Hoenn/Content/Songs/intro/safari.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic8.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic7.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic6.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic5.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic4.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic3.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic2.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic11.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic1.ogg
+GameModes/Hoenn/Content/Songs/intro/RouteMusic0.ogg
+GameModes/Hoenn/Content/Songs/intro/ride.ogg
+GameModes/Hoenn/Content/Songs/intro/raikou_battle.ogg
+GameModes/Hoenn/Content/Songs/intro/pvp.ogg
+GameModes/Hoenn/Content/Songs/intro/pokemon_march.ogg
+GameModes/Hoenn/Content/Songs/intro/pokemon_lullaby.ogg
+GameModes/Hoenn/Content/Songs/intro/pokeflute.ogg
+GameModes/Hoenn/Content/Songs/intro/Petalburg.ogg
+GameModes/Hoenn/Content/Songs/intro/Oldale.ogg
+GameModes/Hoenn/Content/Songs/intro/oakslab.ogg
+GameModes/Hoenn/Content/Songs/intro/oak_encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/newbark.ogg
+GameModes/Hoenn/Content/Songs/intro/MillennialStarTower.ogg
+GameModes/Hoenn/Content/Songs/intro/mary_encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/mart.ogg
+GameModes/Hoenn/Content/Songs/intro/lugia_battle.ogg
+GameModes/Hoenn/Content/Songs/intro/lobby.ogg
+GameModes/Hoenn/Content/Songs/intro/littleroot.ogg
+GameModes/Hoenn/Content/Songs/intro/leader_defeat.ogg
+GameModes/Hoenn/Content/Songs/intro/lavender.ogg
+GameModes/Hoenn/Content/Songs/intro/kanto_trainer.ogg
+GameModes/Hoenn/Content/Songs/intro/Kanto_Surf.ogg
+GameModes/Hoenn/Content/Songs/intro/kanto_leader.ogg
+GameModes/Hoenn/Content/Songs/intro/Kanto_Gym.ogg
+GameModes/Hoenn/Content/Songs/intro/Kanto_Bike.ogg
+GameModes/Hoenn/Content/Songs/intro/johto_wild.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_Trainer_Encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_Surf.ogg
+GameModes/Hoenn/Content/Songs/intro/johto_rival_encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_Rival.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_PokeMart.ogg
+GameModes/Hoenn/Content/Songs/intro/johto_leader.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_Gym.ogg
+GameModes/Hoenn/Content/Songs/intro/johto_elite.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_Champion.ogg
+GameModes/Hoenn/Content/Songs/intro/Johto_Bike.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Wild.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Trainer.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Rival.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Reporter_Encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_PokeMart.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_PokeCenter.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Leader.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Gym.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Elite.ogg
+GameModes/Hoenn/Content/Songs/intro/Hoenn_Bike.ogg
+GameModes/Hoenn/Content/Songs/intro/ho-oh_battle.ogg
+GameModes/Hoenn/Content/Songs/intro/HelpMe.ogg
+GameModes/Hoenn/Content/Songs/intro/HallofFame.ogg
+GameModes/Hoenn/Content/Songs/intro/gts.ogg
+GameModes/Hoenn/Content/Songs/intro/Goldenrod.ogg
+GameModes/Hoenn/Content/Songs/intro/gamecorner.ogg
+GameModes/Hoenn/Content/Songs/intro/evolution.ogg
+GameModes/Hoenn/Content/Songs/intro/Eusine_Encounter.ogg
+GameModes/Hoenn/Content/Songs/intro/elmslab.ogg
+GameModes/Hoenn/Content/Songs/intro/Elite_Defeat.ogg
+GameModes/Hoenn/Content/Songs/intro/Ecruteak.ogg
+GameModes/Hoenn/Content/Songs/intro/DragonsDen.ogg
+GameModes/Hoenn/Content/Songs/intro/DarkCave.ogg
+GameModes/Hoenn/Content/Songs/intro/Cinnabar.ogg
+GameModes/Hoenn/Content/Songs/intro/cherrygrove.ogg
+GameModes/Hoenn/Content/Songs/intro/champion_defeat.ogg
+GameModes/Hoenn/Content/Songs/intro/CeruleanCave.ogg
+GameModes/Hoenn/Content/Songs/intro/cerulean.ogg
+GameModes/Hoenn/Content/Songs/intro/celadon.ogg
+GameModes/Hoenn/Content/Songs/intro/burnedtower.ogg
+GameModes/Hoenn/Content/Songs/intro/bugcontest.ogg
+GameModes/Hoenn/Content/Songs/intro/BirchsLab.ogg
+GameModes/Hoenn/Content/Songs/intro/BattleTower.ogg
+GameModes/Hoenn/Content/Songs/intro/BattleFrontier.ogg
+GameModes/Hoenn/Content/Songs/intro/battlefactory.ogg
+GameModes/Hoenn/Content/Songs/intro/azalea.ogg
+GameModes/Hoenn/Content/Songs/intro/AncientRuins.ogg
+GameModes/Hoenn/Content/Songs/IndigoPlateau.ogg
+GameModes/Hoenn/Content/Songs/IlexForest.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Wild_StartBattle.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Wild.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Trainer_StartBattle.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Trainer.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Rival_StartBattle.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Rival.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Reporter_Encounter.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_PokeMart.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_PokeCenter.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Leader_StartBattle.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Leader.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Gym.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Elite.ogg
+GameModes/Hoenn/Content/Songs/Hoenn_Bike.ogg
+GameModes/Hoenn/Content/Songs/Ho-oh_Battle_StartBattle.ogg
+GameModes/Hoenn/Content/Songs/ho-oh_battle.ogg
+GameModes/Hoenn/Content/Songs/HelpMe.ogg
+GameModes/Hoenn/Content/Songs/HallofFame.ogg
+GameModes/Hoenn/Content/Songs/gts.ogg
+GameModes/Hoenn/Content/Songs/Goldenrod.ogg
+GameModes/Hoenn/Content/Songs/gameintro.ogg
+GameModes/Hoenn/Content/Songs/gamecorner.ogg
+GameModes/Hoenn/Content/Songs/evolution.ogg
+GameModes/Hoenn/Content/Songs/eusine_encounter.ogg
+GameModes/Hoenn/Content/Songs/entei_battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/entei_battle.ogg
+GameModes/Hoenn/Content/Songs/elmslab.ogg
+GameModes/Hoenn/Content/Songs/Elite_Defeat.ogg
+GameModes/Hoenn/Content/Songs/ecruteak.ogg
+GameModes/Hoenn/Content/Songs/dragonsden.ogg
+GameModes/Hoenn/Content/Songs/diglettscave.ogg
+GameModes/Hoenn/Content/Songs/DarkCave.ogg
+GameModes/Hoenn/Content/Songs/cinnabar.ogg
+GameModes/Hoenn/Content/Songs/cherrygrove.ogg
+GameModes/Hoenn/Content/Songs/champion_defeat.ogg
+GameModes/Hoenn/Content/Songs/CeruleanCave.ogg
+GameModes/Hoenn/Content/Songs/cerulean.ogg
+GameModes/Hoenn/Content/Songs/celadon.ogg
+GameModes/Hoenn/Content/Songs/burnedtower.ogg
+GameModes/Hoenn/Content/Songs/bugcontest.ogg
+GameModes/Hoenn/Content/Songs/brain_battle_startbattle.ogg
+GameModes/Hoenn/Content/Songs/brain_battle.ogg
+GameModes/Hoenn/Content/Songs/BirchsLab.ogg
+GameModes/Hoenn/Content/Songs/battletower.ogg
+GameModes/Hoenn/Content/Songs/BattleFrontier.ogg
+GameModes/Hoenn/Content/Songs/battlefactory.ogg
+GameModes/Hoenn/Content/Songs/azalea.ogg
+GameModes/Hoenn/Content/Songs/AncientRuins.ogg
+GameModes/Hoenn/Content/SkyDomeResource/UnderwaterGround.png
+GameModes/Hoenn/Content/SkyDomeResource/Underwater.png
+GameModes/Hoenn/Content/SkyDomeResource/sun.png
+GameModes/Hoenn/Content/SkyDomeResource/Stars.png
+GameModes/Hoenn/Content/SkyDomeResource/Sky_Night.png
+GameModes/Hoenn/Content/SkyDomeResource/Sky_Morning.png
+GameModes/Hoenn/Content/SkyDomeResource/Sky_Evening.png
+GameModes/Hoenn/Content/SkyDomeResource/Sky_Day.png
+GameModes/Hoenn/Content/SkyDomeResource/moon.png
+GameModes/Hoenn/Content/SkyDomeResource/LightingColors.png
+GameModes/Hoenn/Content/SkyDomeResource/Inside.png
+GameModes/Hoenn/Content/SkyDomeResource/Forest.png
+GameModes/Hoenn/Content/SkyDomeResource/FogColors.png
+GameModes/Hoenn/Content/SkyDomeResource/Dark.png
+GameModes/Hoenn/Content/SkyDomeResource/Clouds_Weather.png
+GameModes/Hoenn/Content/SkyDomeResource/Clouds_Night.png
+GameModes/Hoenn/Content/SkyDomeResource/Clouds_Morning.png
+GameModes/Hoenn/Content/SkyDomeResource/Clouds_Evening.png
+GameModes/Hoenn/Content/SkyDomeResource/Clouds_Day.png
+GameModes/Hoenn/Content/SkyDomeResource/Cave.png
+GameModes/Hoenn/Content/SkyDomeResource/AuroraBorealis.png
+GameModes/Hoenn/Content/Localization/Tokens_en.dat
+GameModes/Hoenn/Content/GUI/Overworld/TextBox.png
+GameModes/Hoenn/Content/GUI/Overworld/Sign.png
+GameModes/Hoenn/Content/GUI/Overworld/ChooseBox.png
+GameModes/Hoenn/Content/GUI/Menus/Types.png
+GameModes/Hoenn/Content/GUI/Menus/SummaryStatus.png
+GameModes/Hoenn/Content/GUI/Menus/SaveBook.png
+GameModes/Hoenn/Content/GUI/Menus/PokemonInfo.png
+GameModes/Hoenn/Content/GUI/Menus/pokegear.png
+GameModes/Hoenn/Content/GUI/Menus/pokedexhabitat.png
+GameModes/Hoenn/Content/GUI/Menus/Options.png
+GameModes/Hoenn/Content/GUI/Menus/Menu.png
+GameModes/Hoenn/Content/GUI/Menus/MainMenu.png
+GameModes/Hoenn/Content/GUI/Menus/Inventory.png
+GameModes/Hoenn/Content/GUI/Menus/InterfaceColors.png
+GameModes/Hoenn/Content/GUI/Menus/GTS.png
+GameModes/Hoenn/Content/GUI/Menus/BagPack.png
+GameModes/Hoenn/Content/GUI/Map/hoenn_map.png
+GameModes/Hoenn/Content/GUI/Evolution/Light.png
+GameModes/Hoenn/Content/GUI/Evolution/EvolutionSpark.png
+GameModes/Hoenn/Content/GUI/Battle/Interface.png
+GameModes/Hoenn/Content/Fonts/BMP/Unown.xnb
+GameModes/Hoenn/Content/Fonts/BMP/MainFontWhite.xnb
+GameModes/Hoenn/Content/Fonts/BMP/MainFontColor.xnb
+GameModes/Hoenn/Content/Fonts/BMP/MainFontBlack.xnb
+GameModes/Hoenn/Content/Fonts/BMP/GameJolt.xnb
+GameModes/Hoenn/Content/Fonts/BMP/Braille.xnb
+GameModes/Hoenn/Content/Data/System/WildEncounters/hoenn/routes/101.poke
+GameModes/Hoenn/Content/Data/smashrockitems.dat
+GameModes/Hoenn/Content/Data/Scripts/worldmap/hoenn.dat
+GameModes/Hoenn/Content/Data/Scripts/Shelf.dat
+GameModes/Hoenn/Content/Data/Scripts/PokeCenter_script.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/Contacts.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/035.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/034.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/033.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/032.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/031.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/030.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/029.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/028.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/027.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/026.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/025.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/024.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/023.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/022.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/021.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/020.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/019.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/018.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/017.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/016.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/015.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/014.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/013.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/012.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/011.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/010.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/009.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/007.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/006.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/005.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/004.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/003.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/001.dat
+GameModes/Hoenn/Content/Data/Scripts/phone/000.dat
+GameModes/Hoenn/Content/Data/Scripts/newgame/intro.dat
+GameModes/Hoenn/Content/Data/Scripts/NameRater.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/FarawayIsland/WarpOut.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/FarawayIsland/WarpIn.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/FarawayIsland/Mewtwonite_Y.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/FarawayIsland/Mew.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/FarawayIsland/DockHand.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/FarawayIsland/AncestorEmblemCheck.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse2f/YourHouse2f_MapScript.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse2f/tv.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse2f/notebook.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse2f/MoveMom.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse2f/gamecube.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse2f/clock.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse1f/YourHouse1f_MapScript.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse1f/TV.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse1f/Mom.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse1f/Machoke_Walking.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse1f/Machoke_TV.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/YourHouse1f/InFrontOfDoor.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/MovingTruck_MapScript.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/MovingTruck_Box.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/Main_RouteRight.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/Main_RouteLeft.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/Main_MapScript.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/Main_LittleBoy.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsLab/Assistant.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse2f/WentUpstairs.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse2f/RivalsPokeBall.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse2f/Rival.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse2f/BirchsHouse2f_Mapscript.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse1f/tv.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse1f/MsBirch.dat
+GameModes/Hoenn/Content/Data/Scripts/Hoenn/Cities/Littleroot/BirchsHouse1f/BirchsHouse1f_Mapscript.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/warpto.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/visiblelists/3.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/visiblelists/2.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/visiblelists/1.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/pokemon.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/main.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/item.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/hiddenlists/2.dat
+GameModes/Hoenn/Content/Data/Scripts/hiddengrotto/hiddenlists/1.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/YourRoom/tv.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/YourRoom/note.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/YourRoom/donators.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/YourRoom/bookshelf.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/townmap.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/LivingRoom/tv.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/LivingRoom/stove.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/LivingRoom/sink.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/LivingRoom/fridge.dat
+GameModes/Hoenn/Content/Data/Scripts/Furniture/clock.dat
+GameModes/Hoenn/Content/Data/Scripts/empty_trash.dat
+GameModes/Hoenn/Content/Data/Scripts/computer_choose.dat
+GameModes/Hoenn/Content/Data/Scripts/computer.dat
+GameModes/Hoenn/Content/Data/Scripts/BikeGate.dat
+GameModes/Hoenn/Content/Data/pokedex.dat
+GameModes/Hoenn/Content/Data/Moves/example.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/torchlight.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/West.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/w.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/South.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/s.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/North.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/n.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/East.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood_underwater/e.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/West.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/w.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/South.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/s.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/North.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/n.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/East.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/wood/e.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/West.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/w.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/South.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/s.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/North.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/n.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/East.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/stairs/metal/e.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/PokeMart_Exterior.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/PokeCenter_Interior.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/PokeCenter_Exterior.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/interior/Monitor_West.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/interior/Monitor_South.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/interior/Monitor_North.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/interior/Monitor_East.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/HealingMachine.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/cyclingroad/lamp_west.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/cyclingroad/lamp_east.dat
+GameModes/Hoenn/Content/Data/Maps/Structures/buildings/Chimney.dat
+GameModes/Hoenn/Content/Data/Maps/restplaces.dat
+GameModes/Hoenn/Content/Data/Maps/NewGameIntro.dat
+GameModes/Hoenn/Content/Data/Maps/MainMenu/mainmenu0.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Routes/101.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/FarawayIsland/Main.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/FarawayIsland/InnerPart.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Oldale/PokeMart.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Oldale/PokeCenter.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Oldale/Main.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/YourHouse2f.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/YourHouse1f.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/OutsideTruck.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/Main.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/InsideTruck.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/BirchsLab.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/BirchsHouse2f.dat
+GameModes/Hoenn/Content/Data/Maps/Hoenn/Cities/Littleroot/BirchsHouse1f.dat
+GameModes/Hoenn/Content/Data/Maps/BattleMaps/PvP.dat
+GameModes/Hoenn/Content/Data/Maps/BattleMaps/Hoenn/Routes/101.dat
+GameModes/Hoenn/Content/Data/Maps/BattleMaps/Hoenn/FarawayIsland/InnerPart.dat
+GameModes/Hoenn/Content/Data/Maps/BattleMaps/Battle1.dat
+GameModes/Hoenn/Content/Data/Maps/BattleMaps/Battle0.dat
+GameModes/Hoenn/Content/Data/interactions.dat
+GameModes/Hoenn/Content/Data/channels.dat
+GameModes/Hoenn/Content/Data/badges.dat

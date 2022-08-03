@@ -1,13 +1,13 @@
 version=2
-:if:<Register.Registered(TunnelAlt)>=false
+:if:<Register.Registered(Tunnel_Alt)>=false
+	@Screen.SetFade(255)
 	@Camera.ActivateThirdPerson
 	@Camera.Update
-	@Screen.SetFade(255)
 	@Text.Show( ~HURRY has)
 	@Level.Wait(15)
-	@Screen.SetFade(153)
-	@Register.Change(Tunnel,153)
-	@Register.Register(TunnelAlt,int,0)
+	@Screen.SetFade(160)
+	@Register.Change(Tunnel,160)
+	@Register.Register(Tunnel_Alt,int,0)
 	@Camera.SetYaw(0)
 	@Environment.SetRenderDistance(0)
 	@Player.SetSkin(Gold_Backwards)
@@ -31,5 +31,7 @@ version=2
 	
 	@Pokemon.Add(1008,10,...,5,...,0)
 	@Pokemon.SetNickName(5,Unown)
+:else
+	@Screen.SetFade(<Register.Value(Tunnel)>)
 :endif
 :end

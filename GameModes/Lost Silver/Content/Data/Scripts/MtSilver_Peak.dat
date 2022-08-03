@@ -10,14 +10,14 @@ version=2
 	@NPC.Warp(0,2,0,2)
 	@Level.Update
 	@Level.Wait(10)
-	@Screen.FadeIn(15)
+	@Screen.FadeIn(10)
 	@Level.Wait(40)
-	@Screen.FadeOut(15)
+	@Screen.FadeOut(10)
 	@Level.Wait(10)
 	@NPC.Warp(0,2,-4,2)
 	@Level.Update
 	@Level.Wait(10)
-	@Screen.FadeIn(15)
+	@Screen.FadeIn(10)
 	@Level.Wait(10)
 	@Camera.ActivateThirdPerson
 	@Pokemon.Clear

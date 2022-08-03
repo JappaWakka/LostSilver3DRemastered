@@ -3,10 +3,9 @@ Version=2
 @Camera.SetPosition(0,0.9,3)
 @Level.Wait(30)
 @Player.WearSkin(FlyBird)
-@Player.TurnTo(3)
-@Player.Move(2)
 @Camera.Fix
-@Player.SetMovement(3,2,0)
+@Player.SetSpeed(0.75)
+@Player.SetMovement(-3,2,0)
 @Player.Move(3)
 @Screen.FadeOut(10)
 @Camera.DeFix
