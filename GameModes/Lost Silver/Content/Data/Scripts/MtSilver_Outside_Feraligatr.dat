@@ -8,7 +8,6 @@ Version=2
 @Pokemon.Clear
 @Pokemon.Add(1000,5,...,5,...,0)
 @Pokemon.SetNickName(0,   )
-@Pokemon.RemoveItem(0)
 @Pokemon.ClearAttacks(0)
 @Pokemon.AddAttack(0,1004)
 @Pokemon.SetStat(0,cHP,20)
@@ -39,7 +38,6 @@ Version=2
 
 @Pokemon.Add(1000,5,...,5,...,0)
 @Pokemon.SetNickName(4,   )
-@Pokemon.RemoveItem(4)
 @Pokemon.ClearAttacks(4)
 @Pokemon.AddAttack(4,43)
 @Pokemon.AddAttack(4,148)

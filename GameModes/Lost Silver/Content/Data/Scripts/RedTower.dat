@@ -40,7 +40,6 @@ version=2
 @Pokemon.Add(1032,100,...,1,...,0)
 @Pokemon.SetNickName(5,Celebi)
 @Pokemon.SetShiny(5,1)
-@Pokemon.RemoveItem(5)
 @Pokemon.ClearAttacks(5)
 @Pokemon.AddAttack(5,1003)
 

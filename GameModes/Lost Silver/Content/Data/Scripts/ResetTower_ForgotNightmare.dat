@@ -26,7 +26,6 @@ Version=2
 	@Register.Change(ResetTower,1)
 :endif
 
-@Pokemon.RemoveItem(5)
 @Pokemon.SetStat(5,MaxHP,20)
 @Pokemon.SetStat(5,cHP,1)
 :end

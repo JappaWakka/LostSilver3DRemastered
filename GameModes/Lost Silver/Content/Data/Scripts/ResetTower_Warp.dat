@@ -42,5 +42,6 @@ Version=2
 @NPC.Unregister(MtSilver_Outside.dat|1|remove|1)
 @NPC.Unregister(MtSilver_Outside.dat|0|remove|1)
 @NPC.Unregister(MtSilver_Outside.dat|2|remove|1)
+@NPC.Unregister(ResetTower.dat|8|remove|1)
 @Register.Register(Hidden_Done)
 :end

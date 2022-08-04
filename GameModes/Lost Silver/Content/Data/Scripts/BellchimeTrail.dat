@@ -21,7 +21,6 @@ Version=2
 
 @Pokemon.Add(1000,5,...,5,...,0)
 @Pokemon.SetNickName(5,   )
-@Pokemon.RemoveItem(5)
 @Pokemon.ClearAttacks(5)
 @Pokemon.AddAttack(5,43)
 @Pokemon.AddAttack(5,148)

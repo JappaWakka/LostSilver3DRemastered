@@ -10,7 +10,6 @@ Version=2
 @Pokemon.SetStat(0,HP,314)
 @Pokemon.SetStat(0,cHP,314)
 @Pokemon.SetStat(0,Speed,1)
-@Pokemon.RemoveItem(0)
 @Environment.SetRenderDistance(0)
 @Battle.Trainer(Red)
 @Environment.SetRenderDistance(4)

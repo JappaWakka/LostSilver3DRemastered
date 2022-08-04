@@ -2,7 +2,6 @@ Version=2
 :if:<Register.Registered(EggHatched)>=false
 	@Pokemon.Hatch(4,0,   came~out of its egg!)
 	@Pokemon.SetNickName(4,   )
-	@Pokemon.RemoveItem(4)
 	@Pokemon.ClearAttacks(4)
 	@Pokemon.AddAttack(4,43)
 	@Pokemon.AddAttack(4,148)
