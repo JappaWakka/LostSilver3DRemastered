@@ -3,6 +3,7 @@ version=2
 	@Screen.SetFade(255)
 	@Camera.ActivateThirdPerson
 	@Camera.Update
+	@Player.Turn(2)
 	@Text.Show( ~HURRY has)
 	@Level.Wait(15)
 	@Screen.SetFade(160)

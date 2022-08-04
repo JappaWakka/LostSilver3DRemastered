@@ -3,6 +3,7 @@ Version=2
 @Player.SetSkin(Gold_Regular)
 
 :if:<Register.Registered(Tunnel)>=false
+	@Camera.SetToPlayerFacing
 	@Player.StopMovement
 	@Screen.SetFade(255)
 	@Environment.SetRenderDistance(0)
