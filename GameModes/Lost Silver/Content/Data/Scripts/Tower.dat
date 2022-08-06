@@ -30,11 +30,8 @@ Version=2
 @Pokemon.SetNickName(4,Unown)
 @Pokemon.SetAdditionalValue(4,4)
 
-@Pokemon.Add(1000,5,...,5,...,0)
-@Pokemon.SetNickName(5,Hurry)
-@Pokemon.ClearAttacks(5)
-@Pokemon.AddAttack(5,43)
-@Pokemon.AddAttack(5,148)
-@Pokemon.SetStat(5,cHP,1)
+@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[Hurry]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[]}{"Attack4"[]}{"HP"[1]})
 @Pokemon.SetStat(5,MaxHP,20)
+@Pokemon.SetStat(5,cHP,1)
+
 :end

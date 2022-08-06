@@ -15,13 +15,11 @@ Version=2
 @Pokemon.Add(1029,20,...,5,...,0)
 @Pokemon.SetNickName(3,Unown)
 
-@Pokemon.Add(1000,5,...,5,...,0)
-@Pokemon.SetNickName(4,   )
-@Pokemon.ClearAttacks(4)
-@Pokemon.AddAttack(4,43)
-@Pokemon.AddAttack(4,148)
-@Pokemon.AddAttack(4,171)
 :if:<Register.Registered(RemoveThrash)>=false
-	@Pokemon.AddAttack(4,37)
+	@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
+:else
+	@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[20]})
 :endif
+@Pokemon.SetStat(4,maxHP,20)
+@Pokemon.SetStat(4,cHP,20)
 :end

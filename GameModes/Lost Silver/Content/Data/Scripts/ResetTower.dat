@@ -32,7 +32,7 @@ Version=2
 	@Pokemon.Add(1028,5,...,5,...,0)
 	@Pokemon.SetNickName(4,Unown)
 
-	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[20]})
+	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[1]})
 :endif
 :if:<Register.Value(ResetTower)>=1
 	@Pokemon.Add(1016,5,...,5,...,0)
@@ -49,7 +49,7 @@ Version=2
 	
 	@Pokemon.Add(1028,5,...,5,...,0)
 	@Pokemon.SetNickName(4,Unown)
-	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,14]}{"Attack4"[]}{"HP"[20]})
+	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,14]}{"Attack4"[]}{"HP"[1]})
 :endif
 :if:<Register.Value(ResetTower)>=2
 	@Pokemon.Add(1016,5,...,5,...,0)
@@ -66,7 +66,7 @@ Version=2
 	
 	@Pokemon.Add(1009,5,...,5,...,0)
 	@Pokemon.SetNickName(4,Unown)
-	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,14]}{"Attack4"[]}{"HP"[20]})
+	@Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,14]}{"Attack4"[]}{"HP"[1]})
 :endif
 
 @Pokemon.SetStat(5,MaxHP,20)

@@ -1,12 +1,14 @@
 Version=2
 :if:<Register.Registered(EggHatched)>=false
-	@Pokemon.Hatch(4,0,   came~out of its egg!)
+	@Pokemon.Hatch(4,0,    came~out of its egg!)
 	@Pokemon.SetNickName(4,   )
 	@Pokemon.ClearAttacks(4)
 	@Pokemon.AddAttack(4,43)
 	@Pokemon.AddAttack(4,148)
 	@Pokemon.AddAttack(4,171)
 	@Pokemon.AddAttack(4,37)
+	@Pokemon.SetStat(4,maxHP,20)
+	@Pokemon.SetStat(4,cHP,20)
 	@Register.Register(EggHatched)
 :endif
 :end
