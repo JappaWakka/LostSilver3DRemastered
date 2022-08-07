@@ -8,10 +8,6 @@ version=2
 	:end
 :endif
 :if:<Register.Value(spin_steps)>=2
-	@Register.Change(spin_steps,3)
-	:end
-:endif
-:if:<Register.Value(spin_steps)>=3
 	:if:<player.position>=5,0,4
 		@Camera.DeactivateThirdPerson
 		:if:<player.facing>=3
