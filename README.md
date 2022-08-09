@@ -1,4 +1,4 @@
-# Lost Silver 3D
+# Lost Silver 3D Remastered
 Remaster and continuation of the GameMode for Pokémon 3D by Nilllzz based on the famous Pokémon Lost Silver creepypasta and the fangames by Reidd Maxwell
 
 ![Graveyard](https://user-images.githubusercontent.com/31563291/183700217-0260080e-a421-402b-bf0e-63f3d84551b1.png)
