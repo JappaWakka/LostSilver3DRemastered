@@ -1,13 +1,13 @@
 version=2
-:if:<Register.Value(spin_steps)>=0
-	@Register.Change(spin_steps,1)
+:if:<Register.Value(Spin_Steps)>=0
+	@Register.Change(Spin_Steps,1)
 	:end
 :endif
-:if:<Register.Value(spin_steps)>=1
-	@Register.Change(spin_steps,2)
+:if:<Register.Value(Spin_Steps)>=1
+	@Register.Change(Spin_Steps,2)
 	:end
 :endif
-:if:<Register.Value(spin_steps)>=2
+:if:<Register.Value(Spin_Steps)>=2
 	:if:<player.position>=5,0,4
 		@Camera.DeactivateThirdPerson
 		:if:<player.facing>=3

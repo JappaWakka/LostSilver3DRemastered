@@ -9,8 +9,8 @@ Version=2
 	@Text.Show(Hurry has fainted!)
 	@Register.Register(Grave)
 :endif
-:if:<Register.Registered(spin_steps)>=false
-	@Register.Register(spin_steps,int,0)
+:if:<Register.Registered(Spin_Steps)>=false
+	@Register.Register(Spin_Steps,int,0)
 :endif
 @Screen.SetFade(0)
 @Music.Play(Grave)
