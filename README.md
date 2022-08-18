@@ -1,5 +1,6 @@
 # Lost Silver 3D Remastered
 Remaster and continuation of the classic GameMode for Pokémon 3D 0.59.1, based on the famous Pokémon Lost Silver creepypasta and the fangames by Reidd Maxwell
+
 Credits:
 * Nilllzz - creator of the classic GameMode, originally for v0.28 (https://forum.pokemon3d.net/resources/21/)
 * JappaWakka - Lead Developer of the remastered and expanded GameMode
