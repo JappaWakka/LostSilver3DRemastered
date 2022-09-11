@@ -2,7 +2,7 @@ Version=2
 @Environment.SetRenderDistance(0)
 :if:<Register.Registered(Grave)>=false
 	@Screen.SetFade(255)
-	@Camera.DeactivateThirdPerson
+	@Camera.ActivateThirdPerson
 	@Camera.Update
 	@Player.SetSkin(Gold_Sad)
 	@Level.Wait(200)
