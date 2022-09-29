@@ -3,15 +3,15 @@ Version=2
 @Camera.Update
 @NPC.Turn(1,0)
 @Pokemon.Cry(1003)
-@Text.Show((...Where?))
+@Text.Show((...WHERE?))
 
 @Pokemon.Clear
 @Pokemon.Add(0,{"Pokemon"[1000]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[2006]}{"ItemData"[]}{"NickName"[   ]}{"Level"[5]}{"OT"[18713]}{"Ability"[66]}{"Status"[]}{"Nature"[12]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[1004,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[2,5,23,30,28,1]}{"AdditionalData"[]}{"IDValue"[DK36fpgVNFg]})
 @Pokemon.SetNickName(0,   )
 @Pokemon.ClearAttacks(0)
 @Pokemon.AddAttack(0,1004)
-@Pokemon.SetStat(0,cHP,20)
 @Pokemon.SetStat(0,MaxHP,20)
+@Pokemon.SetStat(0,cHP,10)
 
 @Battle.SetVar(CustomBattleMusic,FeraligatrBattle)
 @Screen.FadeOut(10)
@@ -35,6 +35,11 @@ Version=2
 
 @Pokemon.Add(1029,20,...,5,...,0)
 @Pokemon.SetNickName(3,Unown)
+
+@Pokemon.SetAbility(0,26)
+@Pokemon.SetAbility(1,26)
+@Pokemon.SetAbility(2,26)
+@Pokemon.SetAbility(3,26)
 
 @Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[1]})
 @Pokemon.SetStat(4,MaxHP,20)

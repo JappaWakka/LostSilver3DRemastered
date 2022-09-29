@@ -40,6 +40,13 @@ Version=2
 @Pokemon.SetNickName(5,Unown)
 @Pokemon.SetAdditionalValue(5,3)
 
+@Pokemon.SetAbility(0,26)
+@Pokemon.SetAbility(1,26)
+@Pokemon.SetAbility(2,26)
+@Pokemon.SetAbility(3,26)
+@Pokemon.SetAbility(4,26)
+@Pokemon.SetAbility(5,26)
+
 @Player.AddBadge(17)
 @Player.AddBadge(18)
 @Player.AddBadge(19)

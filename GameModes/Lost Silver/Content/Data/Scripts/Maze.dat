@@ -1,6 +1,6 @@
 version=2
 @Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_Backwards_Dark4)
+@Player.SetSkin(Gold_Backwards_Glitch)
 
 @Screen.SetFade(200)
 @Pokemon.Clear
@@ -22,5 +22,12 @@ version=2
 
 @Pokemon.Add(1009,15,...,5,...,0)
 @Pokemon.SetNickName(5,Unown)
+
+@Pokemon.SetAbility(0,26)
+@Pokemon.SetAbility(1,26)
+@Pokemon.SetAbility(2,26)
+@Pokemon.SetAbility(3,26)
+@Pokemon.SetAbility(4,26)
+@Pokemon.SetAbility(5,26)
 
 :end

@@ -1,4 +1,17 @@
 Version=2
+
+@Screen.SetFade(255)
+@Level.Wait(20)
+@Text.Show(A blinding Flash~lights the area!)
+@Screen.FadeIn(5)
+@Camera.Update
+
+:if:<Register.Registered(MtSilver1F)>=false
+	@Sound.Play(Cyndaquil)
+	@Text.Show(    is thrashing~about!)
+	@Register.Register(MtSilver1F)
+:endif
+
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_NoEyes)
 @Pokemon.Clear
@@ -15,11 +28,22 @@ Version=2
 @Pokemon.Add(1029,20,...,5,...,0)
 @Pokemon.SetNickName(3,Unown)
 
+@Pokemon.SetAbility(0,26)
+@Pokemon.SetAbility(1,26)
+@Pokemon.SetAbility(2,26)
+@Pokemon.SetAbility(3,26)
+
 :if:<Register.Registered(RemoveThrash)>=false
 	@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
+	@Pokemon.SetStat(4,maxHP,20)
+	@Pokemon.SetStat(4,cHP,20)
 :else
 	@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[20]})
+	@Pokemon.SetStat(4,maxHP,20)
+	:if:<Register.Registered(FeraligatrBattle)>=true
+		@Pokemon.SetStat(4,cHP,1)
+	:else
+		@Pokemon.SetStat(4,cHP,10)
+	:endif
 :endif
-@Pokemon.SetStat(4,maxHP,20)
-@Pokemon.SetStat(4,cHP,20)
 :end

@@ -18,6 +18,7 @@ Version=2
 @Register.Unregister(PleaseHalf)
 @Register.Unregister(PleaseDead)
 @Register.Unregister(EggHatched)
+@Register.Unregister(MtSilver1F)
 @Register.Unregister(RemoveThrash)
 @Register.Unregister(FeraligatrBattle)
 @Register.Unregister(SilverEven)

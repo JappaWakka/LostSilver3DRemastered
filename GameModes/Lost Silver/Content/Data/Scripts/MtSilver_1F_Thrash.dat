@@ -1,8 +1,8 @@
 Version=2
 :if:<Register.Registered(RemoveThrash)>=false
-	@Sound.Play(Cyndaquil)
-	@Text.Show(    is thrashing~about!)
+	@Text.Show(    has forgotten Thrash!)
 	@Pokemon.RemoveAttack(4,3)
 	@Register.Register(RemoveThrash)
+	@Pokemon.SetStat(4,cHP,10)
 :endif
 :end

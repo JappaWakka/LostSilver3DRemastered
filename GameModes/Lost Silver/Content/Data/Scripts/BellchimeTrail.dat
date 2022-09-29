@@ -19,6 +19,12 @@ Version=2
 @Pokemon.Add(1028,5,...,5,...,0)
 @Pokemon.SetNickName(4,Unown)
 
+@Pokemon.SetAbility(0,26)
+@Pokemon.SetAbility(1,26)
+@Pokemon.SetAbility(2,26)
+@Pokemon.SetAbility(3,26)
+@Pokemon.SetAbility(4,26)
+
 @Pokemon.Add(5,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[1]})
 @Pokemon.SetStat(5,MaxHP,20)
 @Pokemon.SetStat(5,cHP,1)

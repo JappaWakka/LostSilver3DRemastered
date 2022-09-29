@@ -11,7 +11,8 @@ version=2
 	@Level.Update
 	@Level.Wait(10)
 	@Screen.FadeIn(10)
-	@Level.Wait(40)
+	@Text.Show(...*...)
+	@Level.Wait(20)
 	@Screen.FadeOut(10)
 	@Level.Wait(10)
 	@NPC.Warp(0,2,-4,2)
@@ -33,6 +34,11 @@ version=2
 	
 	@Pokemon.Add(1028,20,...,5,...,0)
 	@Pokemon.SetNickName(3,Unown)
+
+	@Pokemon.SetAbility(0,26)
+	@Pokemon.SetAbility(1,26)
+	@Pokemon.SetAbility(2,26)
+	@Pokemon.SetAbility(3,26)
 	
 	@Pokemon.Add(4,{"Pokemon"[1001]}{"Experience"[762160]}{"Gender"[1]}{"NickName"[Please!]}{"Level"[90]}{"OT"[18713]}{"Status"[PRZ]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[172,25,25]}{"Attack2"[9,15,15]}{"Attack3"[216,20,20]}{"Attack4"[43,40,40]}{"HP"[99]})
 	@Pokemon.SetStat(4,cHP,99)

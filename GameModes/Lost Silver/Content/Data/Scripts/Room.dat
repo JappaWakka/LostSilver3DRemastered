@@ -46,4 +46,11 @@ version=2
 @Pokemon.SetAdditionalValue(5,4)
 @Pokemon.SetShiny(5,1)
 
+@Pokemon.SetAbility(0,26)
+@Pokemon.SetAbility(1,26)
+@Pokemon.SetAbility(2,26)
+@Pokemon.SetAbility(3,26)
+@Pokemon.SetAbility(4,26)
+@Pokemon.SetAbility(5,26)
+
 :end
