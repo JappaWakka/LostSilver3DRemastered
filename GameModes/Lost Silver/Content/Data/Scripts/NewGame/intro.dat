@@ -3,9 +3,10 @@
 @Camera.Update
 @Text.Show(Please use the save game~included with this GameMode.)
 @Environment.SetRenderDistance(0)
-@player.setskin(Dead)
-@player.setname(UseSaveGame)
-@player.setot(18713)
-@system.endnewgame(UseSaveGame.dat,0,0.1,0,0)
+@Player.SetSkin(Dead)
+@Player.SetName(UseSaveGame)
+@Player.SetOT(18713)
+@Player.PreventMovement
+@system.EndNewGame(UseSaveGame.dat,0,0.1,0,0)
 
 :end
