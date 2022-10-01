@@ -11,7 +11,7 @@ version=2
 	@Level.Update
 	@Level.Wait(10)
 	@Screen.FadeIn(10)
-	@Text.Show(...*...)
+	@Text.Show(...~...)
 	@Level.Wait(20)
 	@Screen.FadeOut(10)
 	@Level.Wait(10)

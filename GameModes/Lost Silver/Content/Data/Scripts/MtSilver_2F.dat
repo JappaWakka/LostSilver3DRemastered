@@ -2,6 +2,8 @@ Version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_NoEyes)
 :if:<Register.Registered(EggHatched)>=false
+	@Level.Update
+	@Player.StopMovement
 	@Pokemon.Clear
 	
 	@Pokemon.Add(1008,20,...,5,...,0)
