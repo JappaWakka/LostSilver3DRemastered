@@ -1,9 +1,7 @@
 Version=2
 @Text.Show(TURN BACK NOW.)
 @Level.Wait(1)
-@Options.Show(Yes,No,[TEXT=FALSE])
-:when:No
-	@Level.Wait(10)
+:if:<Register.Registered(Hidden_Done)>=False
 	@Options.Show(Yes,No,[TEXT=FALSE])
 	:when:No
 		@Level.Wait(10)
@@ -12,13 +10,27 @@ Version=2
 			@Level.Wait(10)
 			@Options.Show(Yes,No,[TEXT=FALSE])
 			:when:No
-				@Screen.SetFade(255)
-				@Sound.Play(Door)
-				@Player.Warp(Tunnel_Alt.dat,5,0.1,99,0)
-				:end
+				@Level.Wait(10)
+				@Options.Show(Yes,No,[TEXT=FALSE])
+				:when:No
+					@Screen.SetFade(255)
+					@Sound.Play(Door)
+					@Player.Warp(Tunnel_Alt.dat,5,0.1,99,0)
+					:end
+				:endwhen
 			:endwhen
 		:endwhen
 	:endwhen
-:endwhen
-@Player.Warp(grave.dat,5,0.1,4,0)
+	@Player.Warp(grave.dat,5,0.1,4,0)
+:else
+	:while:<Register.Registered(RepeatQuestion)>=false
+		@Options.Show(Yes,No,[TEXT=FALSE])
+		:when:No
+			@Level.Wait(10)
+		:when:Yes
+			:exitwhile
+		:endwhen
+	:endwhile
+	@Player.Warp(grave.dat,5,0.1,4,0)
+:endif
 :end
