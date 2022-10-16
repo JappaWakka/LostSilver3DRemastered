@@ -489,6 +489,7 @@ Hills:
 {"EntityField"{ENT[{"Size"{intArr[1,11]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[39,1,-2]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[48,16,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,11]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[38,0,-2]}}{"TexturePath"{str[Goldenrod_Purple]}}{"Textures"{recArr[[64,32,16,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[2]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
 
+NPCs
 {"NPC"{NPC[{"Position"{sngArr[18,0,26]}}{"TextureID"{str[ProfessorElm_White]}}{"ID"{int[2]}}{"Name"{str[Prof. Elm]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\ProfElm]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 {"NPC"{NPC[{"Position"{sngArr[21,0,24]}}{"TextureID"{str[LeaderFalkner_White]}}{"ID"{int[4]}}{"Name"{str[Falkner]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Falkner]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 {"NPC"{NPC[{"Position"{sngArr[18,0,22]}}{"TextureID"{str[LeaderJasmine_White]}}{"ID"{int[10]}}{"Name"{str[Jasmine]}}{"Action"{int[1]}}{"AdditionalValue"{str[Goldenrod_Purple_NPCs\Jasmine]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
