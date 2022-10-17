@@ -870,9 +870,11 @@ pokemon_name_Chikorita,Chikorita
 pokemon_name_Bayleef,Bayleef
 pokemon_name_Meganium,Meganium
 pokemon_name_Cyndaquil,Cyndaquil
+pokemon_name_CyndaquilLost,Cyndaquil
 pokemon_name_CyndaquilNoEyes,Cyndaquil
 pokemon_name_Quilava,Quilava
 pokemon_name_Typhlosion,Typhlosion
+pokemon_name_TyphlosionLost,Typhlosion
 pokemon_name_TyphlosionNoEyes,Typhlosion
 pokemon_name_TyphlosionNoLegs,Typhlosion
 pokemon_name_Totodile,Totodile
@@ -971,6 +973,7 @@ pokemon_name_Tyranitar,Tyranitar
 pokemon_name_Lugia,Lugia
 pokemon_name_Ho-Oh,Ho-Oh
 pokemon_name_Celebi,Celebi
+pokemon_name_CelebiLost,Celebi
 pokemon_name_CelebiHalf,Celebi
 pokemon_name_CelebiHalfScreech,Celebi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Version=2
+@Screen.SetFade(255)
+@Camera.ActivateThirdPerson
+@Camera.Update
+@Level.Wait(30)
+@Text.Show(GO BACK)
+:if:<player.position>=3,0,5
+	@Player.Warp(LostForest.dat,8,0.1,84,2)
+:else
+	@Player.Warp(LostForest.dat,8,0.1,84,1)
+:endif
+@Level.Update
+@Screen.SetFade(0)
+@Camera.Update
+:end
