@@ -1,5 +1,5 @@
-{"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Goldenrod_Slow]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[0]}}{"DayTime"{int[3]}}{"Weather"{int[1]}}{"MapScript"{str[Goldenrod_Alive]}}]}}
+{"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Goldenrod]}}{"CurrentRegion"{str[Lost]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[0]}}{"DayTime"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[Goldenrod_Alive]}}]}}
 
 Floors:
 Dirt
@@ -43,14 +43,14 @@ Train Track
 {"Floor"{ENT[{"Size"{intArr[26,1]}}{"Position"{intArr[14,0,13]}}{"TexturePath"{str[Goldenrod_Alive]}}{"Texture"{rec[80,96,16,16]}}]}}
 
 Flowers:
-{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[28.425,-0.25,2.5]}}{"TexturePath"{str[Flowers_Alive]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Alive]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
-{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[27.875,-0.25,3]}}{"TexturePath"{str[Flowers_Alive]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Alive]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[28.425,-0.25,2.5]}}{"TexturePath"{str[Flowers_Night]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Night]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[27.875,-0.25,3]}}{"TexturePath"{str[Flowers_Night]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Night]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
 
-{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[32.425,-0.25,2.5]}}{"TexturePath"{str[Flowers_Alive]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Alive]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
-{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[31.875,-0.25,3]}}{"TexturePath"{str[Flowers_Alive]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Alive]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[32.425,-0.25,2.5]}}{"TexturePath"{str[Flowers_Night]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Night]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[31.875,-0.25,3]}}{"TexturePath"{str[Flowers_Night]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Night]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
 
-{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[30.425,-0.25,3.5]}}{"TexturePath"{str[Flowers_Alive]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Alive]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
-{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[29.875,-0.25,4]}}{"TexturePath"{str[Flowers_Alive]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Alive]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[30.425,-0.25,3.5]}}{"TexturePath"{str[Flowers_Night]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Night]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[2,1]}}{"Scale"{sngArr[0.5,0.5,0.5]}}{"EntityID"{str[AnimatedBlock]}}{"Position"{sngArr[29.875,-0.25,4]}}{"TexturePath"{str[Flowers_Night]}}{"Textures"{recArr[[0,0,8,8]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[3]}}{"Action"{int[21]}}{"AdditionalValue"{str[Flowers_Night]}}{"AnimationData"{intArr2D[[0,0,8,8,1,2,5,0,0]]}}{"Rotation"{int[0]}}]}}
 
 
 Fences:

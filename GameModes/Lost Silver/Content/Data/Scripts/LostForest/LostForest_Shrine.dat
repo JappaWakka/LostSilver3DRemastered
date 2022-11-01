@@ -1,0 +1,32 @@
+Version=2
+:if:<Register.Registered(LostShrine)>=False
+	@Player.PreventMovement
+	@Sound.Play(Celebi)
+	@Text.Show(Celebi is ready.)
+	@Register.Register(LostShrine,int,1)
+	:end
+:endif
+
+:select:<Register.Value(LostShrine)>
+:when:1
+	@Player.PreventMovement
+	@Sound.Play(Celebi_Louder)
+	@Text.Show(Celebi wants to~go now.)
+	@Register.Change(LostShrine,2)
+	:end
+:when:2
+	@Player.PreventMovement
+	@Sound.Play(Celebi_Loudest)
+	@Screen.SetFade(255)
+	@Camera.Update
+	@Text.Show(Celebi wants to~end this.)
+	@Player.TurnTo(0)
+	@Camera.SetPitch(0)
+	@Level.Wait(15)
+	@Player.Warp(Goldenrod_Alive.dat,19,0.1,31)
+	@Level.Update
+	@Player.AllowMovement
+	@Screen.SetFade(0)
+	:end
+:endwhen
+:end
