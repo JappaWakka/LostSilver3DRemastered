@@ -2,6 +2,7 @@ Version=2
 :if:<Register.Registered(LostShrine)>=False
 	@Player.PreventMovement
 	@Sound.Play(Celebi)
+	@Level.Wait(15)
 	@Text.Show(Celebi is ready.)
 	@Register.Register(LostShrine,int,1)
 	:end
@@ -11,14 +12,17 @@ Version=2
 :when:1
 	@Player.PreventMovement
 	@Sound.Play(Celebi_Louder)
+	@Level.Wait(15)
 	@Text.Show(Celebi wants to~go now.)
 	@Register.Change(LostShrine,2)
 	:end
 :when:2
 	@Player.PreventMovement
 	@Sound.Play(Celebi_Loudest)
+	@Music.Stop
 	@Screen.SetFade(255)
 	@Camera.Update
+	@Level.Wait(15)
 	@Text.Show(Celebi wants to~end this.)
 	@Player.TurnTo(0)
 	@Camera.SetPitch(0)
