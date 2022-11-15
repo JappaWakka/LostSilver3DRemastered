@@ -67,11 +67,11 @@ North
 
 NPCs:
 Grayscale People
-{"NPC"{NPC[{"Position"{sngArr[8,0,-94]}}{"TextureID"{str[BaldingMan]}}{"ID"{int[1]}}{"Name"{str[BaldingMan]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnLeft]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[8,0,-94]}}{"TextureID"{str[PokeFan_Male]}}{"ID"{int[1]}}{"Name"{str[PokeFan_Male]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnLeft]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 {"NPC"{NPC[{"Position"{sngArr[8,0,-95]}}{"TextureID"{str[AdultWoman]}}{"ID"{int[1]}}{"Name"{str[AdultWoman]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnLeft]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 {"NPC"{NPC[{"Position"{sngArr[8,0,-96]}}{"TextureID"{str[SchoolBoy]}}{"ID"{int[1]}}{"Name"{str[SchoolBoy]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnLeft]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 
-{"NPC"{NPC[{"Position"{sngArr[1,0,-95]}}{"TextureID"{str[BaldingMan]}}{"ID"{int[2]}}{"Name"{str[BaldingMan]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnRight]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[1,0,-95]}}{"TextureID"{str[PokeFan_Male]}}{"ID"{int[2]}}{"Name"{str[PokeFan_Male]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnRight]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 {"NPC"{NPC[{"Position"{sngArr[1,0,-96]}}{"TextureID"{str[AdultWoman]}}{"ID"{int[2]}}{"Name"{str[AdultWoman]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnRight]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
 
 {"NPC"{NPC[{"Position"{sngArr[1,0,-99]}}{"TextureID"{str[PokeFan_Female]}}{"ID"{int[2]}}{"Name"{str[PokeFan_Female]}}{"Action"{int[1]}}{"AdditionalValue"{str[RedTower_TurnRight]}}{"Rotation"{int[3]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
