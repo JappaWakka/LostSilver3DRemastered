@@ -18,7 +18,7 @@ Version=2
 	@Pokemon.Add(1029,20,...,5,...,0)
 	@Pokemon.SetNickName(3,Unown)
 	
-	@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[1]}{"NickName"[   ]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
+	@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[1]}{"NickName"[   ]}{"Level"[5]}{"OT"[46579]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
 	@Pokemon.Hatch(4,0,    came~out of its egg!)
 	@Pokemon.SetNickName(4,   )
 	@Pokemon.ClearAttacks(4)
@@ -45,11 +45,11 @@ Version=2
 	@Pokemon.SetNickName(3,Unown)
 	
 	:if:<Register.Registered(RemoveThrash)>=false
-		@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
+		@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[46579]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
 		@Pokemon.SetStat(4,maxHP,20)
 		@Pokemon.SetStat(4,cHP,20)
 	:else
-		@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[20]})
+		@Pokemon.Add(4,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"NickName"[   ]}{"Ability"[66]}{"Level"[5]}{"OT"[46579]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[]}{"HP"[20]})
 		@Pokemon.SetStat(4,maxHP,20)
 		:if:<Register.Registered(FeraligatrBattle)>=true
 			@Pokemon.SetStat(4,cHP,1)

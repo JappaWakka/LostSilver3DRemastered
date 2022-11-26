@@ -3,14 +3,12 @@ Version=2
 :if:<Register.Registered(Grave)>=false
 	@Screen.SetFade(255)
 	@Camera.ActivateThirdPerson
+	@Player.TurnTo(2)
 	@Camera.Update
 	@Player.SetSkin(Gold_Sad)
 	@Level.Wait(200)
 	@Text.Show(Hurry has fainted!)
 	@Register.Register(Grave)
-:endif
-:if:<Register.Registered(Spin_Steps)>=false
-	@Register.Register(Spin_Steps,int,0)
 :endif
 @Screen.SetFade(0)
 @Music.Play(Grave)

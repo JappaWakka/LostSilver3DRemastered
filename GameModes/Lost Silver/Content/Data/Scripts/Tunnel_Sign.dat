@@ -31,6 +31,7 @@ Version=2
 			:exitwhile
 		:endwhen
 	:endwhile
-	@Player.Warp(grave.dat,5,0.1,4,0)
+	@Player.Warp(grave.dat,4,0.1,5,0)
+	@Level.Update
 :endif
 :end

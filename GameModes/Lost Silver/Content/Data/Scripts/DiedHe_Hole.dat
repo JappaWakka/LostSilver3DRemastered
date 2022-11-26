@@ -11,10 +11,13 @@ Version=2
 @Player.ResetMovement
 @Level.Wait(30)
 @Screen.FadeOut(10)
-@Player.Warp(MtSilver_Peak.dat,2,0.1,3,2)
-@Player.SetSkin(Gold_NoEyes)
+@Player.Warp(RuinsOfAlph_Outside.dat,9,0.1,5,0)
+@Player.TurnTo(2)
+@Player.SetSkin(Gold_DiedHe)
 @Camera.Defix
 @Camera.Update
 @Level.Update
+@Player.SetSpeed(1)
+@Player.Move(1)
 
 :end

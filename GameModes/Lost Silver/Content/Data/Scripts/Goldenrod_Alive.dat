@@ -4,15 +4,15 @@ Version=2
 
 @Pokemon.Clear
 
-@pokemon.add(0,{"Pokemon"[998]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[18713]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[Ilex Forest]}{"CatchTrainer"[Gold]}{"CatchBall"[115]}{"CatchMethod"[Obtained at]}{"Friendship"[100]}{"isShiny"[0]}{"Attack1"[248,10,10]}{"Attack2"[361,10,10]}{"Attack3"[437,5,5]}{"Attack4"[195,5,5]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[1I0yRs9asmU]})
+@pokemon.add(0,{"Pokemon"[998]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[Ilex Forest]}{"CatchTrainer"[Gold]}{"CatchBall"[115]}{"CatchMethod"[Obtained at]}{"Friendship"[100]}{"isShiny"[0]}{"Attack1"[248,10,10]}{"Attack2"[361,10,10]}{"Attack3"[437,5,5]}{"Attack4"[195,5,5]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[1I0yRs9asmU]})
 @Pokemon.SetStat(0,maxHP,317)
 @Pokemon.SetStat(0,cHP,317)
 
-@Pokemon.Add(1,{"Pokemon"[999]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[1]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Typhlosion]}{"Level"[90]}{"OT"[18713]}{"Ability"[66]}{"Status"[]}{"Nature"[10]}{"CatchLocation"[at New Bark Town]}{"CatchTrainer"[Gold]}{"CatchBall"[5]}{"CatchMethod"[As a gift from Prof. Elm]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[172,25,25]}{"Attack2"[9,15,15]}{"Attack3"[216,20,20]}{"Attack4"[43,30,30]}{"HP"[267]}{"EVs"[0,0,0,0,0,0]}{"IVs"[18,2,0,20,24,12]}{"AdditionalData"[]}{"IDValue"[JoTZzrKVff6]})
+@Pokemon.Add(1,{"Pokemon"[999]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[1]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Typhlosion]}{"Level"[90]}{"OT"[46579]}{"Ability"[66]}{"Status"[]}{"Nature"[10]}{"CatchLocation"[at New Bark Town]}{"CatchTrainer"[Gold]}{"CatchBall"[5]}{"CatchMethod"[As a gift from Prof. Elm]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[172,25,25]}{"Attack2"[9,15,15]}{"Attack3"[216,20,20]}{"Attack4"[43,30,30]}{"HP"[267]}{"EVs"[0,0,0,0,0,0]}{"IVs"[18,2,0,20,24,12]}{"AdditionalData"[]}{"IDValue"[JoTZzrKVff6]})
 @Pokemon.SetStat(1,maxHP,267)
 @Pokemon.SetStat(1,cHP,267)
 
-@Pokemon.Add(2,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[1]}{"NickName"[Cyndaquil]}{"Level"[5]}{"OT"[18713]}{"Status"[]}{"CatchLocation"[Daycare]}{"CatchTrainer"[Gold]}{"CatchBall"[5]}{"CatchMethod"[Received from the]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
+@Pokemon.Add(2,{"Pokemon"[1000]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[1]}{"NickName"[Cyndaquil]}{"Level"[5]}{"OT"[46579]}{"Status"[]}{"CatchLocation"[Daycare]}{"CatchTrainer"[Gold]}{"CatchBall"[5]}{"CatchMethod"[Received from the]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]})
 @Pokemon.SetNickName(2,Egg)
 @Pokemon.SetStat(2,maxHP,20)
 @Pokemon.SetStat(2,cHP,20)

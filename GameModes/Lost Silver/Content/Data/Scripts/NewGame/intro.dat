@@ -5,7 +5,7 @@
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Dead)
 @Player.SetName(UseSaveGame)
-@Player.SetOT(18713)
+@Player.SetOT(46579)
 @Player.PreventMovement
 @system.EndNewGame(UseSaveGame.dat,0,0.1,0,0)
 
