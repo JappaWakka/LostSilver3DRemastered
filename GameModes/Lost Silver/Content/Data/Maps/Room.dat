@@ -1,4 +1,4 @@
-{"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[nomusic]}}{"CurrentRegion"{str[Lost]}}]}}
+{"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[silence]}}{"CurrentRegion"{str[Lost]}}]}}
 {"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[room]}}]}}
 
 Floor:

@@ -1,9 +1,9 @@
 Version=2
 @Screen.ShowPokemon(1025,0,1)
-@Screen.FadeOut(10)
+@Screen.FadeOut(25)
 @NPC.Register(Goldenrod_Dead.dat|8|remove|1)
 @Register.Change(Goldenrod_Dead,<Register.Value(Goldenrod_Dead)>+1)
 @NPC.Remove(8)
-@Screen.FadeIn(10)
+@Screen.FadeIn(25)
 @Script.Start(Goldenrod_Dead_Fly)
 :end

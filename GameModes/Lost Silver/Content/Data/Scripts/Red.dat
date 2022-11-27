@@ -1,22 +1,30 @@
 Version=2
-
 @Pokemon.Clear
-
-@Pokemon.Add(0,{"Pokemon"[1033]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[1]}{"CatchMethod"[...]}{"Friendship"[100]}{"isShiny"[1]}{"Attack1"[1003,5,5]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[8WMg2jfSozA]})
+:if:<Register.Registered(Burned)>=true
+	@Pokemon.Add(0,{"Pokemon"[1033]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[]}{"ItemData"[]}{"NickName"[Away]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[1]}{"CatchMethod"[...]}{"Friendship"[100]}{"isShiny"[1]}{"Attack1"[1003,5,5]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[8WMg2jfSozA]})
+:else
+	@Pokemon.Add(0,{"Pokemon"[1033]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[1]}{"CatchMethod"[...]}{"Friendship"[100]}{"isShiny"[1]}{"Attack1"[1003,5,5]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[8WMg2jfSozA]})
+:endif
 @Pokemon.SetStat(0,HP,314)
 @Pokemon.SetStat(0,cHP,314)
 @Pokemon.SetStat(0,Speed,1)
+@Music.SetMusicLoop(RedBattle)
 @Environment.SetRenderDistance(4)
+@Screen.FadeOutColor(245,245,245)
+@Screen.FadeOut(25)
 @Battle.Trainer(Red)
+@Camera.SetToPlayerFacing
+@Camera.DeactivateThirdPerson
 @Environment.SetRenderDistance(0)
 @Player.Warp(Battle_RedTower.dat)
-@Camera.DeactivateThirdPerson
+@Level.Update
+@Screen.SetFade(0)
+@Screen.FadeOutColor(0,0,0)
 @Camera.Update
-@Level.Wait(35)
 @NPC.Turn(0,2)
 @Level.Wait(35)
 @Sound.Play(FieldMove_Cut)
 @NPC.WearSkin(0,Red_Beheaded)
-@Level.Wait(15)
+@Level.Wait(20)
 @Player.Warp(room.dat,1,0.1,3,0)
 :end

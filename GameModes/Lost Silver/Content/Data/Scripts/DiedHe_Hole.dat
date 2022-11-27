@@ -10,7 +10,7 @@ Version=2
 @Player.WearSkin(Dead)
 @Player.ResetMovement
 @Level.Wait(30)
-@Screen.FadeOut(10)
+@Screen.FadeOut(25)
 @Player.Warp(RuinsOfAlph_Outside.dat,9,0.1,5,0)
 @Player.TurnTo(2)
 @Player.SetSkin(Gold_DiedHe)
