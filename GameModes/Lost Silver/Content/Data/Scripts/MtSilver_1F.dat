@@ -1,5 +1,5 @@
 Version=2
-
+@Player.StopMovement
 @Screen.SetFade(255)
 @Camera.Update
 @Level.Update

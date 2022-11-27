@@ -1,5 +1,6 @@
 Version=2
 :if:<Register.Registered(PleaseHalf)>=false
+	@Sound.Play(Typhlosion_Half)
 	@Text.Show(      ~PLEASE! has)
 	@Pokemon.Clear
 	

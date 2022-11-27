@@ -4,18 +4,19 @@ Version=2
 :if:<Register.Registered(Hidden_Done)>=False
 	@Options.Show(Yes,No,[TEXT=FALSE])
 	:when:No
-		@Level.Wait(10)
+		@Level.Wait(25)
 		@Options.Show(Yes,No,[TEXT=FALSE])
 		:when:No
-			@Level.Wait(10)
+			@Level.Wait(25)
 			@Options.Show(Yes,No,[TEXT=FALSE])
 			:when:No
-				@Level.Wait(10)
+				@Level.Wait(25)
 				@Options.Show(Yes,No,[TEXT=FALSE])
 				:when:No
 					@Screen.SetFade(255)
 					@Sound.Play(Door)
 					@Player.Warp(Tunnel_Alt.dat,5,0.1,99,0)
+					@Level.Update
 					:end
 				:endwhen
 			:endwhen
@@ -26,7 +27,7 @@ Version=2
 	:while:<Register.Registered(RepeatQuestion)>=false
 		@Options.Show(Yes,No,[TEXT=FALSE])
 		:when:No
-			@Level.Wait(10)
+			@Level.Wait(25)
 		:when:Yes
 			:exitwhile
 		:endwhen

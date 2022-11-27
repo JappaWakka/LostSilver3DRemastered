@@ -1,5 +1,6 @@
 Version=2
 :if:<Register.Registered(PleaseDead)>=false
+	@Sound.Play(Typhlosion_Dead)
 	@Text.Show(      ~PLEASE! has p)
 	@Pokemon.Clear
 	
