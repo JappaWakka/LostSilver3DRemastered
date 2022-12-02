@@ -1,5 +1,5 @@
 Version=2
-@Environment.SetRenderDistance(0)
+#@Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Regular)
 	
 :if:<Register.Registered(LostForest)>=false
