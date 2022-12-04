@@ -420,6 +420,7 @@ battle_main_trainer_defeat_2, and~
 battle_main_trainer_defeat_3,~were defeated!
 battle_main_trainer_defeat_4, got 
 battle_main_trainer_defeat_5,~PokéDollars for winning!
+battle_main_cannot_switch,I can't.
 ---
 attackTurn:
 battle_attack_poison_damage,~was hurt by poison!
@@ -976,6 +977,11 @@ pokemon_name_Celebi,Celebi
 pokemon_name_CelebiLost,Celebi
 pokemon_name_CelebiHalf,Celebi
 pokemon_name_CelebiHalfScreech,Celebi
+----
+Items:
+
+item_name_115,[][]
+item_desc_115,???
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Story translation:
 ---
