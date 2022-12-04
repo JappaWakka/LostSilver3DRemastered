@@ -1,0 +1,12 @@
+Version=2
+@Sound.Play(enter)
+@Screen.FadeOut(25)
+@Camera.Update
+@Player.Warp(LostForest.dat,66,2.1,8,2)
+@Level.Update
+@Screen.FadeIn(25)
+@Camera.Update
+@Level.Wait(15)
+@Player.Move(1)
+@Level.Update
+:end
