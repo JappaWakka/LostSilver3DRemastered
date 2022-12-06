@@ -1,5 +1,6 @@
 version=2
 @Environment.SetRenderDistance(0)
+@Camera.SetToPlayerFacing
 @Camera.DeactivateThirdPerson
 @Text.Show(Good bye forever ....)
 @Level.Wait(25)

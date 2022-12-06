@@ -1,25 +1,26 @@
 Version=2
+@Camera.SetToPlayerFacing
 @Camera.DeactivateThirdPerson
 @Camera.Update
 @NPC.Turn(1,0)
 @Pokemon.Cry(1003)
 @Text.Show((...WHERE?))
-
 @Pokemon.Clear
 @Pokemon.Add(0,{"Pokemon"[1000]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[2006]}{"ItemData"[]}{"NickName"[   ]}{"Level"[5]}{"OT"[46579]}{"Ability"[66]}{"Status"[]}{"Nature"[12]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[1004,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[2,5,23,30,28,1]}{"AdditionalData"[]}{"IDValue"[DK36fpgVNFg]})
 @Pokemon.SetNickName(0,   )
 @Pokemon.ClearAttacks(0)
 @Pokemon.AddAttack(0,1004)
 @Pokemon.SetStat(0,MaxHP,20)
-@Pokemon.SetStat(0,cHP,10)
+@Pokemon.SetStat(0,cHP,20)
 
 @Battle.SetVar(CustomBattleMusic,FeraligatrBattle)
+@Screen.FadeOutColor(245,245,245)
 @Screen.FadeOut(25)
 @Player.Warp(Battle_MtSilver_Outside.dat)
 @Level.Update
 @Camera.Update
 @Environment.SetRenderDistance(4)
-@Battle.Wild({"Pokemon"[1003]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[]}{"Level"[90]}{"OT"[46579]}{"Ability"[23]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[39,999,999]}{"Attack2"[39,999,999]}{"Attack3"[39,999,999]}{"Attack4"[39,999,999]}{"HP"[256]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[]}{"IDValue"[myDYzVeAXfg]},FeraligatrBattle_Intro)
+@Battle.Wild({"Pokemon"[1003]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[]}{"Level"[90]}{"OT"[46579]}{"Ability"[23]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[39,999,999]}{"Attack2"[39,999,999]}{"Attack3"[39,999,999]}{"Attack4"[39,999,999]}{"HP"[256]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[]}{"IDValue"[myDYzVeAXfg]},FeraligatrBattle_Intro,0)
 @Screen.FadeIn(25)
 @Battle.ResetVars
 @Pokemon.Clear
@@ -46,6 +47,7 @@ Version=2
 @Pokemon.SetStat(4,cHP,1)
 
 @Level.Wait(75)
+@Environment.SetEnvironmentType(0)
 @NPC.WearSkin(1,FeraligatrNightmare)
 @Sound.Play(Nightmare1)
 @Level.Wait(100)
@@ -62,8 +64,8 @@ Version=2
 @Sound.Play(Nightmare4)
 @Level.Wait(100)
 
-@Player.Warp(MtSilver_Outside.dat)
-@Level.Update
+@Music.Stop
+@Environment.SetEnvironmentType(5)
 @NPC.WearSkin(1,[POKEMON|N]1002)
 @NPC.Turn(1,0)
 @Pokemon.Cry(1002)
@@ -76,13 +78,18 @@ Version=2
 	@Camera.Update
 	@Level.Update
 :endwhile
+@Screen.SetFade(255)
+@Level.Wait(10)
+@Screen.FadeIn(15)
+@Camera.Update
 @NPC.Register(MtSilver_Outside.dat|1|remove|1)
-@Level.Update
-@Environment.SetRenderDistance(0)
-@NPC.Remove(0)
-@Level.Update
 @NPC.Register(MtSilver_Outside.dat|0|remove|1)
+@Environment.SetRenderDistance(0)
+@Level.Update
+@Player.Warp(MtSilver_Outside.dat)
+@Level.Update
 @NPC.Warp(2,~,0,~)
 @Level.Update
 @Register.Register(FeraligatrBattle)
+@Screen.FadeOutColor(0,0,0)
 :end
