@@ -1,10 +1,14 @@
 Version=2
 @Text.Show(If it's what you must do,~then I can't stop you.*Please be safe,~Gold.)
-@Screen.FadeOut(15)
+@Level.Wait(15)
+@Music.Stop
+@Sound.Play(Celebi)
+@Screen.SetFade(255)
 @Camera.Update
 @Player.TurnTo(3,1)
 @Player.Warp(BellchimeTrail_Alive.dat,6,0.1,7)
 @Level.Update
-@Screen.FadeIn(15)
+@Level.Wait(15)
+@Screen.SetFade(0)
 @Camera.Update
 :end
