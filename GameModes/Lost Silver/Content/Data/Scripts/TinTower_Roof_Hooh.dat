@@ -1,14 +1,9 @@
 Version=2
-@Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_Regular)
-	
-:if:<Register.Registered(LostForest)>=false
-	@Player.SetName(Gold)
-:endif
-:if:<Register.Registered(LostShrine)>=True
-	@Player.PreventMovement
-:endif
-
+@Camera.SetToPlayerFacing
+@Camera.DeactivateThirdPerson
+@Camera.Update
+@Pokemon.Cry(997)
+@Text.Show(Shaoooh!)
 @Pokemon.Clear
 
 @Pokemon.Add(0,{"Pokemon"[998]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[Ilex Forest]}{"CatchTrainer"[Gold]}{"CatchBall"[115]}{"CatchMethod"[Obtained at]}{"Friendship"[100]}{"isShiny"[0]}{"Attack1"[1005,10,10]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[1I0yRs9asmU]})
@@ -24,4 +19,27 @@ Version=2
 @Pokemon.SetStat(2,maxHP,20)
 @Pokemon.SetStat(2,cHP,20)
 
+@Battle.SetVar(CustomBattleMusic,Ho-ohBattle)
+@Level.Update
+@Screen.FadeOutColor(245,245,245)
+@Screen.FadeOut(25)
+@Camera.Update
+@Environment.SetRenderDistance(4)
+@Music.SetMusicLoop(Ho-ohBattle)
+@Battle.Wild({"Pokemon"[997]}{"OriginalNumber"[-1]}{"Experience"[1212874]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Ho-oh]}{"Level"[99]}{"OT"[18713]}{"Ability"[23]}{"Status"[]}{"Nature"[18]}{"Friendship"[0]}{"isShiny"[0]}{"Attack1"[1006,5,5]}{"Attack2"[1006,5,5]}{"Attack3"[1006,5,5]}{"Attack4"[1006,5,5]}{"HP"[336]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[]}{"IDValue"[7cz23Pkkimc]},Ho-ohBattle_Intro,0)
+@Screen.FadeOutColor(0,0,0)
+@Screen.SetFade(255)
+@Camera.Update
+@Battle.ResetVars
+@Environment.SetRenderDistance(0)
+@Camera.Update
+@Level.Wait(50)
+@Text.Show(Celebi was bu)
+@Level.Wait(15)
+@Player.Warp(RedTower.dat,3,0.1,7)
+@Level.Update
+@Screen.FadeIn(35)
+@Camera.Update
+@Register.Register(Burned_Done)
+@Screen.FadeOutColor(0,0,0)
 :end

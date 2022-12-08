@@ -14,4 +14,5 @@ Version=2
 @Register.Unregister(Tunnel_Alt,int)
 @Register.Unregister(Tunnel_Alt)
 @Register.Register(Hidden_Done)
+@Player.SetName(Gold)
 :end
