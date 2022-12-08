@@ -1,0 +1,6 @@
+Version=2
+:if:<Register.Registered(TinTower2fWarning)>=false
+@Text.Show(DON'T D...)
+@Register.Register(TinTower2fWarning)
+:endif
+:end

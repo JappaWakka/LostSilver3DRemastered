@@ -1,25 +1,29 @@
 Version=2
 :if:<Register.Value(Goldenrod_Dead)>=12
 	@Camera.ActivateThirdPerson
+	@Camera.SetPitch(-0.14)
 	@Camera.SetPosition(0,0.9,3)
 	@Level.Wait(30)
 	@Player.WearSkin(FlyBird)
 	@Camera.Fix
-	@Player.SetSpeed(0.75)
-	@Player.SetMovement(-3,2,0)
+	@Player.SetSpeed(1.5)
+	@Player.SetMovement(-1,1,0)
 	@Player.Move(3)
 	@Screen.FadeOut(15)
-	@Camera.DeFix
-	@Camera.Reset
-	@Player.TurnTo(0)
-	@Player.Warp(Goldenrod_Purple.dat,19,0.1,31)
-	@Camera.SetPitch(0)
-	@Player.WearSkin(Gold_NoEyes)
-	@Level.Update
-	@Screen.SetFade(255)
 	@Camera.Update
+	@Camera.DeFix
+	@Player.Warp(Goldenrod_Purple.dat,19,0.1,31)
+	@Level.Update
+	@Camera.Fix
 	@Screen.FadeIn(15)
 	@Camera.Update
+	@Player.Warp(16,3.1,31)
+	@Player.SetSpeed(1.5)
+	@Player.SetMovement(1,-1,0)
+	@Player.Move(3)
+	@Player.WearSkin(Gold_NoEyes)
+	@Camera.DeFix
+	@Level.Update
 	@Player.TurnTo(0)
 :endif
 

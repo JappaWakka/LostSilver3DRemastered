@@ -30,6 +30,7 @@ Version=2
 @Pokemon.SetStat(5,cHP,1)
 
 :if:<Register.Registered(BellchimeTrail)>=false
+	@Camera.SetToPlayerFacing
 	@Camera.DeactivateThirdPerson
 	@Level.Wait(50)
 	@NPC.Turn(0,3)

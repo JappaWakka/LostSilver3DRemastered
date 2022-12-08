@@ -1,5 +1,5 @@
 Version=2
-@Screen.ShowPokemon(1029,0,1)
+@Screen.ShowImage(Textures\Unown\Y)
 @Screen.FadeOut(15)
 @NPC.Register(Goldenrod_Dead.dat|3|remove|1)
 @Register.Change(Goldenrod_Dead,<Register.Value(Goldenrod_Dead)>+1)

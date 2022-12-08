@@ -1,4 +1,4 @@
 Version=2
 @NPC.Turn(10,3)
-@Screen.ShowPokemon(1019,0,1)
+@Screen.ShowImage(Textures\Unown\O)
 :end
