@@ -1,21 +1,18 @@
 version=2
-@Screen.FadeIn(64)
-@Camera.Update
 @Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_DiedHe)
-
-:if:<Register.Registered(DiedHe)>=false
-	@Camera.ActivateThirdPerson
-	@Player.AddBadge(25)
-	@Player.AddBadge(26)
-	@Player.AddBadge(27)
-	@Player.AddBadge(28)
-	@Player.AddBadge(29)
-	@Player.AddBadge(30)
-	@Player.AddBadge(31)
-	@Player.AddBadge(32)
-	@Register.Register(DiedHe)
-:endif
+@Player.StopMovement
+@Screen.FadeOut(25)
+@Camera.Update
+@Player.TurnTo(0)
+@Camera.Update
+@Sound.Play(Enter)
+@Player.Warp(RuinsOfAlph_PuzzleRoom1.dat,2,0.1,8,0)
+@Level.Update
+@Camera.Update
+@Player.MoveAsync(1)
+@Level.Update
+@Screen.FadeIn(25)
+@Camera.Update
 
 @Pokemon.Clear
 

@@ -1,0 +1,31 @@
+Version=2
+@Camera.SetToPlayerFacing
+@Camera.DeactivateThirdPerson
+@Camera.SetPitch(0)
+@Camera.Update
+
+@NPC.Turn(0,0)
+@Text.Show(I am no longer sure~what the Unown are~trying to tell me.)
+:if:<Player.Position(x)>>2
+	@NPC.Turn(0,3)
+:endif
+:if:<Player.Position(x)><2
+	@NPC.Turn(0,1)
+:endif
+:if:<Player.Position(x)>=2
+	@NPC.Turn(0,2)
+:endif
+@Text.Show(Huh?*Please turn back now.)
+
+@Screen.FadeOut(25)
+@Camera.Update
+@Level.Wait(40)
+@Player.TurnTo(2)
+@Camera.Update
+@Player.Warp(RuinsOfAlph_TurnBack.dat,4,0.1,2,0)
+@Level.Update
+@Text.Show(A blinding Flash~lights the area!)
+@Screen.FadeIn(25)
+@Camera.Update
+@Register.Register(TurnBack)
+:end

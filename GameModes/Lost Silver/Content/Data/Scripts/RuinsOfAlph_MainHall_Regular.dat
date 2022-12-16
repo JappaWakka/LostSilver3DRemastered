@@ -1,20 +1,10 @@
 version=2
-@Screen.FadeIn(64)
-@Camera.Update
 @Environment.SetRenderDistance(0)
-@Player.SetSkin(Gold_DiedHe)
 
-:if:<Register.Registered(DiedHe)>=false
-	@Camera.ActivateThirdPerson
-	@Player.AddBadge(25)
-	@Player.AddBadge(26)
-	@Player.AddBadge(27)
-	@Player.AddBadge(28)
-	@Player.AddBadge(29)
-	@Player.AddBadge(30)
-	@Player.AddBadge(31)
-	@Player.AddBadge(32)
-	@Register.Register(DiedHe)
+:if:<Register.Registered(TurnBack)>=true
+	@Player.SetSkin(Gold_Grayscale)
+:else
+	@Player.SetSkin(Gold_DiedHe)
 :endif
 
 @Pokemon.Clear
