@@ -6,7 +6,7 @@ Version=2
 @Pokemon.Cry(1003)
 @Text.Show((...WHERE?))
 @Pokemon.Clear
-@Pokemon.Add(0,{"Pokemon"[1000]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[2006]}{"ItemData"[]}{"NickName"[   ]}{"Level"[5]}{"OT"[46579]}{"Ability"[66]}{"Status"[]}{"Nature"[12]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[1004,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[2,5,23,30,28,1]}{"AdditionalData"[]}{"IDValue"[DK36fpgVNFg]})
+@Pokemon.Add(0,{"Pokemon"[1000]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[2006]}{"ItemData"[]}{"NickName"[   ]}{"Level"[5]}{"OT"[46579]}{"Ability"[66]}{"Status"[]}{"Nature"[12]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[1004,1,1]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[2,5,23,30,28,1]}{"AdditionalData"[]}{"IDValue"[DK36fpgVNFg]})
 @Pokemon.SetNickName(0,   )
 @Pokemon.ClearAttacks(0)
 @Pokemon.AddAttack(0,1004)

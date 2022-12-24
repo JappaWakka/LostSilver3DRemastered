@@ -1,0 +1,17 @@
+Version=2
+:select:<Register.Value(MainHall_Purple)>
+:when:1
+	@Screen.ShowImage(Textures\Unown\D)
+:when:3
+	@Screen.ShowImage(Textures\Unown\I)
+:when:5
+	@Screen.ShowImage(Textures\Unown\E)
+:endwhen
+@Screen.FadeOut(15)
+@NPC.Remove(0)
+@Entity.SetVisible(1,1)
+@Entity.SetCollision(2,0)
+@Level.Update
+@Register.Change(UnownInteract,1)
+@Screen.FadeIn(15)
+:end

@@ -1,29 +1,34 @@
 version=2
-:if:<Register.Registered(TurnBack)>=true
-	@Music.Play(RuinsOfAlph_Outside_Slow)
-	@Music.SetLoop(RuinsOfAlph_Outside_Slow)
-	@Player.SetSkin(Gold_Grayscale)
-:else
-	@Player.SetSkin(Gold_DiedHe)
-:endif
 @Environment.SetRenderDistance(0)
+@Player.StopMovement
+@Screen.FadeOut(25)
+@Camera.Update
+@Player.TurnTo(0)
+@Camera.Update
+@Sound.Play(Enter)
 
 @Pokemon.Clear
-
-:if:<Register.Registered(MainHall_Purple)>=false
-	@Register.Register(MainHall_Purple,int,0)
-:endif
 :select:<Register.Value(MainHall_Purple)>
-:when:0
-	@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[8WMg2jfSozA]})
-:when:1;2
+:when:1
 	@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[]}{"Attack4"[]}{"HP"[244]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
-:when:3;4
+	@Player.Warp(RuinsOfAlph_Outside.dat,14,0.1,30,0)
+:when:3
 	@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[244]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
-:when:5;6
+	@Player.Warp(RuinsOfAlph_UnionCave.dat,10,0.1,8,0)
+:when:5
 	@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[244]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
 	@Pokemon.Add(1,{"Pokemon"[1002]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Totodile]}{"Level"[5]}{"OT"[39241]}{"Ability"[67]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[Silver]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[33,35,35]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[21]}{"EVs"[0,0,0,0,0,0]}{"IVs"[30,6,26,24,2,10]}{"AdditionalData"[]}{"IDValue"[2M4T88i70Xz]})
+	@Player.Warp(RuinsOfAlph_UnionCave.dat,15,0.1,4,0)
+:when:7
+	@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[244]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
+	@Pokemon.Add(1,{"Pokemon"[1002]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Totodile]}{"Level"[5]}{"OT"[39241]}{"Ability"[67]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[Silver]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[33,35,35]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[21]}{"EVs"[0,0,0,0,0,0]}{"IVs"[30,6,26,24,2,10]}{"AdditionalData"[]}{"IDValue"[2M4T88i70Xz]})
+	@Player.Warp(WelcomeBack.dat,8,0.1,3,0)
 :endwhen
 @Pokemon.SetStat(0,MaxHP,244)
 @Pokemon.SetStat(0,cHP,244)
+@Camera.Update
+@Level.Update
+@Screen.FadeIn(25)
+@Camera.Update
+
 :end

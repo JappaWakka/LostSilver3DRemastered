@@ -10,7 +10,7 @@ Region|Lost
 IniMusic|RedBattle_Intro
 DefeatMusic|RedBattle
 BattleMusic|RedBattle
-Pokemon1|{"Pokemon"[1031]}{"Experience"[16581375]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"NickName"[PIKACHU]}{"Level"[255]}{"OT"[00001]}{"Ability"[9]}{"Status"[]}{"Nature"[23]}{"CatchLocation"[Pallet Town]}{"CatchTrainer"[Red]}{"CatchBall"[5]}{"CatchMethod"[Stolen]}{"Friendship"[0]}{"isShiny"[0]}{"Attack1"[1001,10,10]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"Stats"[299,299,311,171,301,269,523]}{"FPs"[0,0,0,0,0,0]}{"DVs"[16,10,5,29,14,23]}{"AdditionalData"[]}
+Pokemon1|{"Pokemon"[1031]}{"Experience"[16581375]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"NickName"[Pikachu]}{"Level"[255]}{"OT"[00001]}{"Ability"[9]}{"Status"[]}{"Nature"[23]}{"CatchLocation"[...]}{"CatchTrainer"[Red]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[0]}{"isShiny"[0]}{"Attack1"[1001,10,10]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"Stats"[299,299,311,171,301,269,523]}{"FPs"[0,0,0,0,0,0]}{"DVs"[16,10,5,29,14,23]}{"AdditionalData"[]}
 Pokemon2|
 Pokemon3|
 Pokemon4|

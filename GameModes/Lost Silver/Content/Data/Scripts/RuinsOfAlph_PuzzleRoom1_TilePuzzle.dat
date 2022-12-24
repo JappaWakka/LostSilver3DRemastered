@@ -1,0 +1,65 @@
+version=2
+@Text.Show(Gold moved the tiles~around...)
+:if:<Register.Registered(TurnBack)>=false
+	@Screen.ShowImage(Textures\RuinsOfAlph\Puzzle_BeforeTurnBack)
+:else
+	@Screen.ShowImage(Textures\RuinsOfAlph\Puzzle_L)
+:endif
+@Camera.ActivateThirdPerson
+@Camera.Reset
+@Level.Wait(25)
+@Camera.SetY(0.25)
+@Camera.Update
+@Level.Wait(3)
+@Camera.SetY(0.35)
+@Camera.Update
+@Level.Wait(3)
+@Camera.SetY(0.25)
+@Camera.Update
+@Level.Wait(3)
+@Camera.SetY(0.35)
+@Camera.Update
+@Level.Wait(3)
+@Camera.SetY(0.3)
+@Camera.Update
+@Camera.Fix
+@Level.Wait(25)
+@Entity.Remove(0)
+@Level.Wait(7)
+@Entity.ShowMessageBulb(1|2|0.6|2)
+@Player.SetMovement(0,-1,0)
+@Player.SetSpeed(2.5)
+@Player.Move(2)
+@Player.WearSkin(Dead)
+@Player.ResetMovement
+@Level.Wait(30)
+@Screen.FadeOut(35)
+:if:<Register.Registered(TurnBack)>=false
+	@Player.Warp(RuinsOfAlph_MainHall_Regular.dat,2,0.1,7,2)
+:else
+	@Player.Warp(RuinsOfAlph_MainHall_Purple.dat,2,0.1,7,2)
+	:if:<Register.Registered(UnownInteract)>=false
+		@Register.Register(UnownInteract,bool,0)
+	:else
+		@Register.Change(UnownInteract,0)
+	:endif
+:endif
+@Camera.Defix
+@Camera.Reset
+:if:<Camera.ThirdPerson>=true
+	@Camera.SetYaw(0)
+:endif
+@Camera.Update
+@Level.Update
+@Camera.Fix
+@Player.Warp(~,~+3,~)
+@Player.WearSkin(Gold_Grayscale)
+@Level.Update
+@Player.SetMovement(0,-1,0)
+@Player.SetSpeed(2.5)
+@Screen.FadeIn(35)
+@Player.Move(3)
+@Level.Update
+@Camera.Update
+@Camera.Defix
+:end

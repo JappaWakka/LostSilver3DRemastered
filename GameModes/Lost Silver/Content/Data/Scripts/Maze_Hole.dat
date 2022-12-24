@@ -5,7 +5,7 @@ Version=2
 @Camera.Fix
 @Level.Wait(45)
 @Player.SetMovement(0,-1,0)
-@Player.SetSpeed(2)
+@Player.SetSpeed(3)
 @Player.Move(2)
 @Player.WearSkin(Dead)
 @Player.ResetMovement
