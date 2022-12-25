@@ -1,10 +1,6 @@
 version=2
 @Text.Show(Gold moved the tiles~around...)
-:if:<Register.Registered(TurnBack)>=false
-	@Screen.ShowImage(Textures\RuinsOfAlph\Puzzle_BeforeTurnBack)
-:else
-	@Screen.ShowImage(Textures\RuinsOfAlph\Puzzle_L)
-:endif
+@Screen.ShowImage(Textures\RuinsOfAlph\Puzzle_S)
 @Camera.ActivateThirdPerson
 @Camera.Reset
 @Level.Wait(25)
@@ -34,16 +30,17 @@ version=2
 @Player.ResetMovement
 @Level.Wait(30)
 @Screen.FadeOut(35)
-:if:<Register.Registered(TurnBack)>=false
-	@Player.Warp(RuinsOfAlph_MainHall_Regular.dat,2,0.1,7,0)
-:else
-	@Player.Warp(RuinsOfAlph_MainHall_Purple.dat,2,0.1,7,0)
+@Player.Warp(RuinsOfAlph_MainHall_Purple.dat,15,0.1,17,0)
+
+:if:<Register.Value(MainHall_Purple)>=3
 	:if:<Register.Registered(UnownInteract)>=false
 		@Register.Register(UnownInteract,bool,0)
 	:else
 		@Register.Change(UnownInteract,0)
 	:endif
+	@Register.Change(MainHall_Purple,4)
 :endif
+
 @Camera.Defix
 @Camera.Reset
 @Camera.SetYaw(0)
