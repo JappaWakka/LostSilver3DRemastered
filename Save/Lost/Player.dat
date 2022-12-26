@@ -25,7 +25,7 @@ RepelSteps|0
 LastSavePlace|tower.dat
 LastSavePlacePosition|4,0.1,7
 Difficulty|0
-BattleStyle|0
+BattleStyle|1
 saveCreated|Indev 0.59
 LastPokemonPosition|999,999,999
 DaycareSteps|0

@@ -1,0 +1,32 @@
+version=2
+@Player.TurnTo(2,1)
+@Entity.ShowMessageBulb(1|9|0.6|6)
+@NPC.Move(1,1)
+@NPC.Turn(1,0)
+@NPC.Move(1,7)
+@Text.Show(Welcome back.)
+@Pokemon.Clear
+@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[255]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[726]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
+@Music.SetMusicLoop(RedBattle)
+@Environment.SetRenderDistance(4)
+@Screen.FadeOutColor(245,245,245)
+@Screen.FadeOut(25)
+@Battle.Trainer(Silver)
+@Camera.SetToPlayerFacing
+@Camera.DeactivateThirdPerson
+@Environment.SetRenderDistance(0)
+@NPC.Warp(2,~,~+3,~)
+@NPC.Remove(1)
+@Level.Update
+@Camera.Update
+@Screen.FadeIn(35)
+@Level.Wait(50)
+@Text.Show(... used ESCA)
+@Screen.FadeIn(25)
+@Camera.Update
+@Player.Warp(RedTower.dat,3,0.1,7)
+@Player.TurnTo(0)
+@Screen.FadeOut(25)
+@Camera.Update
+@Screen.FadeOutColor(0,0,0)
+:end

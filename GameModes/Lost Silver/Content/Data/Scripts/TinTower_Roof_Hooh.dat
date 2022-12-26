@@ -26,7 +26,9 @@ Version=2
 @Camera.Update
 @Environment.SetRenderDistance(4)
 @Music.SetMusicLoop(Ho-ohBattle)
+@Player.ShowBattleAnimations(1)
 @Battle.Wild({"Pokemon"[997]}{"OriginalNumber"[-1]}{"Experience"[1212874]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Ho-oh]}{"Level"[99]}{"OT"[18713]}{"Ability"[23]}{"Status"[]}{"Nature"[18]}{"Friendship"[0]}{"isShiny"[0]}{"Attack1"[1006,5,5]}{"Attack2"[1006,5,5]}{"Attack3"[1006,5,5]}{"Attack4"[1006,5,5]}{"HP"[336]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[]}{"IDValue"[7cz23Pkkimc]},Ho-ohBattle_Intro,0)
+@Player.ShowBattleAnimations(0)
 @Screen.FadeOutColor(0,0,0)
 @Screen.SetFade(255)
 @Camera.Update

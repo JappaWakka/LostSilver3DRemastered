@@ -2,10 +2,10 @@
 Name|Silver
 TrainerClass| 
 Money|0
-IntroMessage|...
-OutroMessage|... ... ...
-DefeatMessage|... ... ...
-TextureID|Red_Transparent
+IntroMessage|
+OutroMessage|
+DefeatMessage|
+TextureID|Silver_WithEyes
 Region|Lost
 IniMusic|RedBattle_Intro
 DefeatMusic|RedBattle

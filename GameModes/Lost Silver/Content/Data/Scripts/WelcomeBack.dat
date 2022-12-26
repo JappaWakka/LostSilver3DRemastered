@@ -1,0 +1,45 @@
+version=2
+:if:<Register.Registered(WelcomeBack)>=false
+	@Camera.ActivateThirdPerson
+	@Camera.Reset
+	@Level.Wait(25)
+	@Camera.SetY(0.25)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.35)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.25)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.35)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.3)
+	@Camera.Update
+	@Level.Wait(25)
+	@Camera.SetY(0.25)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.35)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.25)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.35)
+	@Camera.Update
+	@Level.Wait(3)
+	@Camera.SetY(0.3)
+	@Camera.Update
+	@Level.Wait(25)
+	@Player.Move(1)
+	@Text.Show(Elder: You are in-deed~skilled as a trainer.*As promised, here~is your HM.*But let me say this:~You should treat~your Pokémon better.*The way you battle~is far too harsh.*Pokémon are not~tools of war...)
+	@Pokemon.Clear
+	@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[244]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
+	@Pokemon.Add(1,{"Pokemon"[1002]}{"OriginalNumber"[-1]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Totodile]}{"Level"[5]}{"OT"[39241]}{"Ability"[67]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[Silver]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[33,35,35]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[21]}{"EVs"[0,0,0,0,0,0]}{"IVs"[30,6,26,24,2,10]}{"AdditionalData"[]}{"IDValue"[2M4T88i70Xz]})
+	@Register.Register(WelcomeBack)
+:endif
+@Pokemon.SetStat(0,MaxHP,244)
+@Pokemon.SetStat(0,cHP,244)
+:end

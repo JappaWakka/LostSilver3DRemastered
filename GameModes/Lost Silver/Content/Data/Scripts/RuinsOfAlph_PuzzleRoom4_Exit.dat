@@ -1,0 +1,17 @@
+version=2
+@Environment.SetRenderDistance(0)
+@Player.StopMovement
+@Screen.FadeOut(25)
+@Camera.Update
+@Player.TurnTo(2)
+@Camera.Update
+@Sound.Play(Enter)
+@Player.Warp(RuinsOfAlph_Outside.dat,4,0.1,17,0)
+@Level.Update
+@Camera.Update
+@Player.MoveAsync(1)
+@Level.Update
+@Screen.FadeIn(25)
+@Camera.Update
+
+:end
