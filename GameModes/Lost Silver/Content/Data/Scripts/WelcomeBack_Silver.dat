@@ -22,11 +22,12 @@ version=2
 @Screen.FadeIn(35)
 @Level.Wait(50)
 @Text.Show(... used ESCA)
-@Screen.FadeIn(25)
+@Screen.FadeOut(25)
 @Camera.Update
 @Player.Warp(RedTower.dat,3,0.1,7)
+@Level.Update
 @Player.TurnTo(0)
-@Screen.FadeOut(25)
+@Screen.FadeIn(25)
 @Camera.Update
 @Screen.FadeOutColor(0,0,0)
 :end
