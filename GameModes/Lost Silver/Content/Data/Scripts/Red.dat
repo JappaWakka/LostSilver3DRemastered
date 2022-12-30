@@ -26,5 +26,5 @@ Version=2
 @Sound.Play(FieldMove_Cut)
 @NPC.WearSkin(0,Red_Beheaded)
 @Level.Wait(20)
-@Player.Warp(room.dat,1,0.1,3,0)
+@Player.Warp(Room.dat,1,0.1,3,0)
 :end

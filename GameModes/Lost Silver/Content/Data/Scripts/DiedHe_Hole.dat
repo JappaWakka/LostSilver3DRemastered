@@ -12,11 +12,14 @@ Version=2
 @Level.Wait(30)
 @Screen.FadeOut(25)
 @Player.Warp(RuinsOfAlph_Outside.dat,9,0.1,5,0)
+@Level.Update
 @Player.TurnTo(2)
 @Player.SetSkin(Gold_DiedHe)
 @Camera.Defix
 @Camera.Update
 @Level.Update
+@Screen.FadeIn(25)
+@Camera.Update
 @Player.SetSpeed(1)
 @Player.Move(1)
 

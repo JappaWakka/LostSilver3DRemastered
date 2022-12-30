@@ -30,4 +30,5 @@ version=2
 @Screen.FadeIn(25)
 @Camera.Update
 @Screen.FadeOutColor(0,0,0)
+@Register.Register(DiedHe_Done)
 :end

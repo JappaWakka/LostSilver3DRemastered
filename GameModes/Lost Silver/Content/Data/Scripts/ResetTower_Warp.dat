@@ -1,5 +1,6 @@
 Version=2
 @Screen.FadeOut(15)
+@Camera.Update
 @Camera.SetPitch(0)
 @Sound.Play(enter)
 @Player.Warp(Tower.dat,4,0.1,7)

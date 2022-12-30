@@ -1,8 +1,26 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Unown]}}{"CurrentRegion"{str[Lost]}}]}}
 {"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[2]}}{"Weather"{int[1]}}{"Lighting"{int[1]}}]}}
 
-{"Floor"{ENT[{"Size"{intArr[40,1]}}{"Position"{intArr[0,0,0]}}{"TexturePath"{str[SlideShow_Wall]}}{"Texture"{rec[16,0,16,16]}}{"Visible"{bool[0]}}]}}
+Floors:
+{"Floor"{ENT[{"Size"{intArr[31,1]}}{"Position"{intArr[0,0,0]}}{"TexturePath"{str[SlideShow_Wall]}}{"Texture"{rec[16,0,16,16]}}{"Visible"{bool[0]}}]}}
+{"Floor"{ENT[{"Size"{intArr[1,20]}}{"Position"{intArr[30,0,-20]}}{"TexturePath"{str[SlideShow_Wall]}}{"Texture"{rec[16,0,16,16]}}{"Visible"{bool[0]}}]}}
 
 Walls:
-BattleAgainstTotodile
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[5,4.5,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[12,0,-4]}}{"TexturePath"{str[Slideshow_BattleTotodile]}}{"Textures"{recArr[[0,0,160,144]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	BattleTotodile
+		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[5,4.5,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[12,0,-4]}}{"TexturePath"{str[Slideshow_BattleTotodile]}}{"Textures"{recArr[[0,0,160,144]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	TradeForever
+		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[5,4.5,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[17.5,0,-4]}}{"TexturePath"{str[Slideshow_TradeForever]}}{"Textures"{recArr[[0,0,160,144]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	BattleRed
+		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[5,4.5,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[23,0,-4]}}{"TexturePath"{str[Slideshow_BattleRed]}}{"Textures"{recArr[[0,0,160,144]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+	BloodyWalls (Direction = From what side it is visible)
+		East
+		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[14,5.76,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[26.14,-0.76,-10.75]}}{"TexturePath"{str[SlideShow_Wall]}}{"Textures"{recArr[[0,0,416,160]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
+		West
+		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[14,5.76,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[34,-0.76,-10.75]}}{"TexturePath"{str[SlideShow_Wall]}}{"Textures"{recArr[[0,0,416,160]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[3]}}]}}
+	Gold
+		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[7.5,5.76,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[30.35,-0.64,-18.25]}}{"TexturePath"{str[Slideshow_Gold]}}{"Textures"{recArr[[0,0,208,160]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
+Ceiling:
+	{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[14,1,7.5]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[30,2.68,-10.75]}}{"TexturePath"{str[SlideShow_Ceiling]}}{"Textures"{recArr[[0,0,416,208]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[21]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}]}}
+	
+Scriptblocks:
+	{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[30,0,-18]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[64,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[SlideShow_Gold]}}{"Rotation"{int[0]}}]}}

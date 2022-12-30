@@ -1,0 +1,8 @@
+Version=2
+@Screen.FadeOutColor(245,245,245)
+@Screen.FadeOut(5)
+@Level.Wait(35)
+@Text.Show(R.I.P. Pokémon~Trainer Gold)
+@Player.PreventMovement
+
+:end

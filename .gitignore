@@ -24372,3 +24372,15 @@ Save/AnimTest/secretbase.dat
 Save/AnimTest/statistics.dat
 Content/Effects/BasicEffectWithAlphaTest.mgfxdx
 Content/Effects/BasicEffectWithAlphaTest.mgfxgl
+Content/Textures/Battle/Flying/Gust.png
+Content/Sounds/Battle/Attacks/Flying/Gust.wav
+Content/Models/SeaPlane/SeaPlane_Propeller.xnb
+Content/Models/SeaPlane/SeaPlane_1.xnb
+Content/Models/SeaPlane/SeaPlane_0.xnb
+Content/Models/SeaPlane/SeaPlane.xnb
+Content/Models/BattlePike/BattlePike_0.xnb
+Content/Models/BattlePike/BattlePike.xnb
+Content/Data/maps/structures/SeaPlane.dat
+Content/Data/maps/structures/frontier/facilities/tower.dat
+Content/Data/maps/structures/frontier/facilities/pike.dat
+Content/Data/maps/structures/frontier/facilities/factory.dat

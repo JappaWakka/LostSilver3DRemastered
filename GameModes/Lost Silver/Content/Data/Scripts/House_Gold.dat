@@ -1,0 +1,74 @@
+version=2
+@Environment.SetRenderDistance(0)
+@Camera.SetToPlayerFacing
+@Camera.DeactivateThirdPerson
+@Text.Show(Good bye forever ....)
+@Level.Wait(25)
+@Text.Show(??? used Nightmare!)
+@Camera.ActivateThirdPerson
+@Camera.Fix
+@Level.Wait(45)
+@Player.TurnTo(0)
+@Level.Wait(5)
+@Player.TurnTo(1)
+@Level.Wait(5)
+@Player.TurnTo(2)
+@Level.Wait(5)
+@Player.TurnTo(3)
+@Level.Wait(5)
+@Player.TurnTo(0)
+@Level.Wait(5)
+@Player.TurnTo(1)
+@Level.Wait(5)
+@Player.TurnTo(2)
+@Level.Wait(5)
+@Player.TurnTo(3)
+@Level.Wait(5)
+@Player.TurnTo(0)
+@Level.Wait(5)
+@Player.TurnTo(1)
+@Level.Wait(5)
+@Player.TurnTo(2)
+@Level.Wait(5)
+@Player.TurnTo(3)
+@Level.Wait(5)
+@Player.TurnTo(0)
+@Level.Wait(5)
+
+@Player.SetMovement(0,-1,0)
+@Player.SetSpeed(2)
+@Player.Move(2)
+@Player.ResetMovement
+
+@Screen.FadeOut(25)
+@Camera.DeFix
+@Player.SetSkin(Dead)
+@Storage.Set(Boolean,GoodEnding,1)
+:if:<Register.Registered(Hidden_Done)>=true
+	:if:<Register.Registered(Burned_Done)>=true
+		:if:<Register.Registered(DiedHe_Done)>=true
+			:if:<Register.Registered(SlideShow_Done)>=true
+				@Player.TurnTo(0)
+				@Camera.SetToPlayerFacing
+				@Camera.Update
+				@Player.Warp(GoodEnding.dat,4,0.1,7,0)
+			:else
+				@Storage.Set(Boolean,GoodEnding,0)
+			:endif
+		:else
+			@Storage.Set(Boolean,GoodEnding,0)
+		:endif
+	:else
+		@Storage.Set(Boolean,GoodEnding,0)
+	:endif
+:else
+	@Storage.Set(Boolean,GoodEnding,0)
+:endif
+:if:<Storage.Get(Boolean,GoodEnding)>=0
+	@Player.Warp(RIP.dat,4,0.1,4,0)
+:endif
+
+@Level.Update
+@Screen.FadeIn(25)
+@Camera.Update
+:end
