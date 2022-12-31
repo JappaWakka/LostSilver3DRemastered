@@ -3,5 +3,8 @@ Version=2
 @Level.Wait(1)
 @Options.Show(YES,NO,[TEXT=FALSE])
 :endwhen
-@Player.Warp(grave.dat,5,0.1,4,0)
+@Screen.SetFade(255)
+@Camera.Update
+@Player.Warp(Grave.dat,5,0.1,4,0)
+@Level.Update
 :end

@@ -46,7 +46,6 @@ version=2
 				:if:<Pokemon.AdditionalData(4)>=7
 					:if:<Pokemon.AdditionalData(5)>=4
 						@Player.Warp(DiedHe.dat,4,0.1,6,0)
-						@Music.Stop
 						@Level.Update
 						:end
 					:endif

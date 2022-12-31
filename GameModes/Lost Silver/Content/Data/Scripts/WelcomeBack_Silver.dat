@@ -11,7 +11,9 @@ version=2
 @Environment.SetRenderDistance(4)
 @Screen.FadeOutColor(245,245,245)
 @Screen.FadeOut(25)
+@Player.ShowBattleAnimations(1)
 @Battle.Trainer(Silver)
+@Player.ShowBattleAnimations(0)
 @Camera.SetToPlayerFacing
 @Camera.DeactivateThirdPerson
 @Environment.SetRenderDistance(0)
