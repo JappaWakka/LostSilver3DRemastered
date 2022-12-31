@@ -14,6 +14,7 @@ Version=2
 				@Options.Show(Yes,No,[TEXT=FALSE])
 				:when:No
 					@Screen.SetFade(255)
+					@Camera.Update
 					@Sound.Play(Door)
 					@Player.Warp(Tunnel_Alt.dat,5,0.1,99,0)
 					@Level.Update
@@ -22,7 +23,10 @@ Version=2
 			:endwhen
 		:endwhen
 	:endwhen
+	@Screen.SetFade(255)
+	@Camera.Update
 	@Player.Warp(grave.dat,5,0.1,4,0)
+	@Level.Update
 :else
 	:while:<Register.Registered(RepeatQuestion)>=false
 		@Options.Show(Yes,No,[TEXT=FALSE])
@@ -32,6 +36,8 @@ Version=2
 			:exitwhile
 		:endwhen
 	:endwhile
+	@Screen.SetFade(255)
+	@Camera.Update
 	@Player.Warp(grave.dat,4,0.1,5,0)
 	@Level.Update
 :endif

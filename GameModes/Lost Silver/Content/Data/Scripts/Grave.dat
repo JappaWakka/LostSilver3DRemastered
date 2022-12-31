@@ -2,6 +2,7 @@ Version=2
 @Environment.SetRenderDistance(0)
 :if:<Register.Registered(Grave)>=false
 	@Screen.SetFade(255)
+	@Camera.Update
 	@Camera.ActivateThirdPerson
 	@Player.TurnTo(2)
 	@Camera.Update
@@ -11,6 +12,7 @@ Version=2
 	@Register.Register(Grave)
 :endif
 @Screen.SetFade(0)
+@Camera.Update
 @Music.Play(Grave)
 @Pokemon.Clear
 
