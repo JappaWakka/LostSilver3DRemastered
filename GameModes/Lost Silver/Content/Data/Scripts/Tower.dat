@@ -5,7 +5,6 @@ Version=2
 :if:<Register.Registered(Tower)>=false
 	@Player.SetName(...)
 	@Player.SetOT(46579)
-	@Player.AddMoney(999999)
 :endif
 
 @Pokemon.Clear
