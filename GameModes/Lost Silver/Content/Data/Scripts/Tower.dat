@@ -33,4 +33,6 @@ Version=2
 @Pokemon.SetStat(5,MaxHP,20)
 @Pokemon.SetStat(5,cHP,1)
 
+@Player.ShowBattleAnimations(0)
+
 :end
