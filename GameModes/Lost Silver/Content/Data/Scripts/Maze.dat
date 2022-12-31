@@ -2,7 +2,7 @@ version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Backwards_Glitch)
 
-@Screen.SetFade(200)
+@Screen.SetFade(160)
 @Pokemon.Clear
 
 @Pokemon.Add(1022,15,...,5,...,0)
