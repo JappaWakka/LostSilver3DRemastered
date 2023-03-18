@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[silence]}}{"OverworldPokemon"{bool[0]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[BellchimeTrail]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[BellchimeTrail_Dead]}}]}}
 
 Floors:
 	Grass
@@ -79,26 +79,26 @@ Tin Tower:
 		Bottom
 		{"EntityField"{ENT[{"Size"{intArr[3,3]}}{"EntityID"{str[AllSidesObject]}}{"Position"{sngArr[22.5,1,9.5]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[160,64,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[21]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 1F+
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,1,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,2,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,3,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,4,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,5,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,6,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,7,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,8,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,9,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,10,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,11,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,12,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,13,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,14,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,15,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,16,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,17,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,18,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,19,9]}}]}}
-	{"Structure"{STR[{"Map"{str[Structures\TinTower_Floor]}}{"Offset"{sngArr[22,20,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,1,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,2,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,3,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,4,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,5,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,6,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,7,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,8,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,9,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,10,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,11,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,12,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,13,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,14,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,15,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,16,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,17,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,18,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,19,9]}}]}}
+	{"Structure"{STR[{"Map"{str[Structures\ResetTower_Floor]}}{"Offset"{sngArr[22,20,9]}}]}}
 Gatehouse:
 	Walls
 		West
@@ -135,7 +135,7 @@ Gatehouse:
 
 Sign:
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[24,-0.0625,14]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[144,98,16,14][148,114,4,14][144,60,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[SignBlock]}}{"Position"{sngArr[24,0,14]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[1]}}{"AdditionalValue"{str[BellchimeTrail_Sign]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[SignBlock]}}{"Position"{sngArr[24,0,14]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[1]}}{"AdditionalValue"{str[BellchimeTrail_Dead_Sign]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 
 NPCS:
 	{"NPC"{NPC[{"Position"{sngArr[8,0,7]}}{"TextureID"{str[Red_White]}}{"ID"{int[0]}}{"Name"{str[Red]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}

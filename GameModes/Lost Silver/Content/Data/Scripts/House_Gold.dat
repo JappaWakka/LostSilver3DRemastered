@@ -43,7 +43,7 @@ version=2
 @Screen.FadeOut(25)
 @Camera.DeFix
 @Player.SetSkin(Dead)
-@Storage.Set(Boolean,GoodEnding,1)
+@Storage.Set(Boolean,Ending_Good,1)
 :if:<Register.Registered(Hidden_Done)>=true
 	:if:<Register.Registered(Burned_Done)>=true
 		:if:<Register.Registered(DiedHe_Done)>=true
@@ -51,21 +51,21 @@ version=2
 				@Player.TurnTo(0)
 				@Camera.SetToPlayerFacing
 				@Camera.Update
-				@Player.Warp(GoodEnding.dat,4,0.1,7,0)
+				@Player.Warp(Ending_Good.dat,4,0.1,7,0)
 			:else
-				@Storage.Set(Boolean,GoodEnding,0)
+				@Storage.Set(Boolean,Ending_Good,0)
 			:endif
 		:else
-			@Storage.Set(Boolean,GoodEnding,0)
+			@Storage.Set(Boolean,Ending_Good,0)
 		:endif
 	:else
-		@Storage.Set(Boolean,GoodEnding,0)
+		@Storage.Set(Boolean,Ending_Good,0)
 	:endif
 :else
-	@Storage.Set(Boolean,GoodEnding,0)
+	@Storage.Set(Boolean,Ending_Good,0)
 :endif
-:if:<Storage.Get(Boolean,GoodEnding)>=0
-	@Player.Warp(RIP.dat,4,0.1,4,0)
+:if:<Storage.Get(Boolean,Ending_Good)>=0
+	@Player.Warp(Ending_Bad.dat,4,0.1,4,0)
 :endif
 
 @Level.Update

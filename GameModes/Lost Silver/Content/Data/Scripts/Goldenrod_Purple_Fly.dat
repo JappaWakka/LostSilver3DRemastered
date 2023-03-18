@@ -11,7 +11,7 @@ Version=2
 @Screen.FadeOut(15)
 @Camera.Update
 @Camera.DeFix
-@Player.Warp(BellchimeTrail.dat,6,0.1,7)
+@Player.Warp(BellchimeTrail_Dead.dat,6,0.1,7)
 @Level.Update
 @Camera.Fix
 @Player.Warp(9,3.1,7)
