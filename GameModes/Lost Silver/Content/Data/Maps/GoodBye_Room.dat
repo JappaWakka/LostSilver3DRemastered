@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[silence]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[room]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[GoodBye\GoodBye_Room_MapScript]}}]}}
 
 Floor:
 {"Floor"{ENT[{"Size"{intArr[8,5]}}{"Position"{intArr[0,0,0]}}{"TexturePath"{str[LostHouse]}}{"Texture"{rec[32,0,16,16]}}]}}
@@ -50,7 +50,7 @@ Stairs:
 {"Structure"{STR[{"Map"{str[Structures\Stairs\House\North]}}{"Offset"{sngArr[6,-3,0]}}]}}
 
 Warps:
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[6,-3,2]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[house.dat,8,0.1,-1,0]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[6,-3,2]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye_House.dat,8,0.1,-1,0]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 
 Furniture:
 

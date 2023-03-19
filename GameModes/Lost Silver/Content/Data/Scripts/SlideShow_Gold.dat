@@ -3,7 +3,7 @@ version=2
 @Camera.Update
 @Camera.SetPitch(0)
 @Camera.Update
-@Player.Warp(Room.dat,1,0.1,3,0)
+@Player.Warp(GoodBye_Room.dat,1,0.1,3,0)
 @Level.Update
 @Entity.SetCollision(1,1)
 @Entity.SetVisible(1,0)

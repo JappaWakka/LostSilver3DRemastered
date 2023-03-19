@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[silence]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[House]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[GoodBye\GoodBye_House_MapScript]}}]}}
 
 Floors:
 
@@ -130,20 +130,20 @@ Books:
 
 Warps:
 Upstairs
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[8,0,-1]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[Room.dat,6,-2.9,2,0]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[8,0,-1]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_Room.dat,6,-2.9,2,0]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 SlideShow
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[-28,0,26]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[SlideShow.dat,0,0.1,0,0]}}{"Rotation"{int[3]}}{"Visible"{bool[0]}}]}}
 
 ScriptBlocks:
 Door
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,7]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[64,0,16,16]]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[House_Door]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,7]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[64,0,16,16]]}}{"TextureIndex"{intArr[0,0,0,0,0,0,0,0,0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[1]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_Door]}}{"Rotation"{int[0]}}]}}
 ChangeColor
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,6]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[House_TurnBlack]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,6]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_TurnBlack]}}{"Rotation"{int[0]}}]}}
 
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,46]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[House_TurnBlack]}}{"Rotation"{int[0]}}]}}
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,45]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[House_TurnWhite]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,46]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_TurnBlack]}}{"Rotation"{int[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,45]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_TurnWhite]}}{"Rotation"{int[0]}}]}}
 
-{"OffsetMap"{MAP[{"Offset"{sngArr[2,3,-2]}}{"Map"{str[Room.dat]}}]}}
+{"OffsetMap"{MAP[{"Offset"{sngArr[2,3,-2]}}{"Map"{str[GoodBye\GoodBye_Room.dat]}}]}}
 
 Gold:
-{"NPC"{NPC[{"Position"{sngArr[7,0,81]}}{"TextureID"{str[Gold_Regular]}}{"ID"{int[0]}}{"Name"{str[Gold]}}{"Action"{int[1]}}{"AdditionalValue"{str[House_Gold]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[7,0,81]}}{"TextureID"{str[Gold_Regular]}}{"ID"{int[0]}}{"Name"{str[Gold]}}{"Action"{int[1]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_Gold]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}

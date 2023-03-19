@@ -4,7 +4,7 @@ Version=2
 
 @Pokemon.Clear
 
-@Pokemon.Add(0,{"Pokemon"[998]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[Ilex Forest]}{"CatchTrainer"[Gold]}{"CatchBall"[115]}{"CatchMethod"[Obtained at]}{"Friendship"[100]}{"isShiny"[0]}{"Attack1"[1005,10,10]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[1I0yRs9asmU]})
+@Pokemon.Add(0,{"Pokemon"[998]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[Ilex Forest]}{"CatchTrainer"[Gold]}{"CatchBall"[1]}{"CatchMethod"[Obtained at]}{"Friendship"[100]}{"isShiny"[0]}{"Attack1"[1005,10,10]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[]}{"IDValue"[1I0yRs9asmU]})
 @Pokemon.SetStat(0,maxHP,317)
 @Pokemon.SetStat(0,cHP,317)
 

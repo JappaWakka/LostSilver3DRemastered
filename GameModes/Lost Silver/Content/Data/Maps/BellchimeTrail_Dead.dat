@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[silence]}}{"OverworldPokemon"{bool[0]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[BellchimeTrail_Dead]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[BellchimeTrail\BellchimeTrail_Dead_MapScript]}}]}}
 
 Floors:
 	Grass
@@ -135,7 +135,7 @@ Gatehouse:
 
 Sign:
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[24,-0.0625,14]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[144,98,16,14][148,114,4,14][144,60,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[SignBlock]}}{"Position"{sngArr[24,0,14]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[1]}}{"AdditionalValue"{str[BellchimeTrail_Dead_Sign]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[SignBlock]}}{"Position"{sngArr[24,0,14]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,1,1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[1]}}{"AdditionalValue"{str[BellchimeTrail\BellchimeTrail_Dead_Sign]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 
 NPCS:
 	{"NPC"{NPC[{"Position"{sngArr[8,0,7]}}{"TextureID"{str[Red_White]}}{"ID"{int[0]}}{"Name"{str[Red]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[1]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
