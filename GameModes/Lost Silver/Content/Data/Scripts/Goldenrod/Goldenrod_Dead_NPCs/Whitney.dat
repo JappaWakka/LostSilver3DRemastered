@@ -5,5 +5,5 @@ Version=2
 @Register.Change(Goldenrod_Dead,<Register.Value(Goldenrod_Dead)>+1)
 @NPC.Remove(9)
 @Screen.FadeIn(15)
-@Script.Start(Goldenrod_Dead_Fly)
+@Script.Start(Goldenrod\Goldenrod_Dead_Fly)
 :end
