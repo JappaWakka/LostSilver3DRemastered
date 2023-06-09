@@ -1,0 +1,5 @@
+Version=2
+:if:<Register.Value(Tunnel_Alt)><5
+	@Player.SetSkin(Gold_Backwards_Dark5)
+	@Register.Change(Tunnel_Alt,5)
+:end
