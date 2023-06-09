@@ -13,12 +13,16 @@ Version=2
 				@Level.Wait(25)
 				@Options.Show(Yes,No,[TEXT=FALSE])
 				:when:No
-					@Screen.SetFade(255)
-					@Camera.Update
-					@Sound.Play(Door)
-					@Player.Warp(Tunnel_Alt.dat,5,0.1,99,0)
-					@Level.Update
-					:end
+					@Level.Wait(25)
+					@Options.Show(Yes,No,[TEXT=FALSE])
+					:when:No
+						@Screen.SetFade(255)
+						@Camera.Update
+						@Sound.Play(Door)
+						@Player.Warp(Tunnel_Alt.dat,5,0.1,86,0)
+						@Level.Update
+						:end
+					:endwhen
 				:endwhen
 			:endwhen
 		:endwhen
