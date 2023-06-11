@@ -3,7 +3,7 @@ version=2
 @Player.StopMovement
 @NPC.Remove(0)
 @Text.Show(    received~[][]!)
-@Item.Give(115)
+@Item.Give(gm0)
 
 @Screen.FadeOut(25)
 @Camera.Update

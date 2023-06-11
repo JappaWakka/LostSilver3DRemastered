@@ -1,6 +1,6 @@
 version=2
 :if:<Register.Registered(TurnBack)>=true
-	@Player.SetSkin(Gold_Grayscale)
+	@Player.SetSkin(Gold_RuinsOfAlph)
 :else
 	@Player.SetSkin(Gold_DiedHe)
 :endif
