@@ -56,7 +56,7 @@ Version=2
 @Environment.SetEnvironmentType(5)
 @NPC.WearSkin(1,[POKEMON|N]1002)
 @NPC.Turn(1,0)
-@Pokemon.Cry(1002)
+@Sound.Play(Totodile)
 @Level.Wait(50)
 @storage.set(Single,TotodileY,0)
 
