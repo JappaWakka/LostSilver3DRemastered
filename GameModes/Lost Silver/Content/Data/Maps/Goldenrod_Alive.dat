@@ -242,6 +242,7 @@ Buildings:
 		Sign
 			{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[12,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Alive]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 			{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[SignBlock]}}{"Position"{sngArr[12,0,30]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[0]}}{"AdditionalValue"{str[Underground Entrance]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+			
 	Pokémon Gym:
 		{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Alive\Building_6x2y4z_Gym]}}{"Offset"{sngArr[22,0,4]}}]}}
 		Door
@@ -305,6 +306,7 @@ Buildings:
 		Sign
 			{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WallBlock]}}{"Scale"{sngArr[1,0.875,0.25]}}{"Position"{sngArr[28,-0.0625,30]}}{"TexturePath"{str[Goldenrod_Alive]}}{"Textures"{recArr[[80,82,16,14][72,98,4,14][48,117,16,4]]}}{"TextureIndex"{intArr[0,0,1,1,1,1,0,0,2,2]}}{"Collision"{bool[1]}}{"ModelID"{int[1]}}{"Action"{int[1]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
 			{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[SignBlock]}}{"Position"{sngArr[28,0,30]}}{"TexturePath"{str[LostSilver]}}{"Textures"{recArr[[0,48,16,16][16,48,4,16]]}}{"TextureIndex"{intArr[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[4]}}{"Action"{int[0]}}{"AdditionalValue"{str[The World is a Cycle Path!~BIKE SHOP]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
+			
 	PokéCenter
 		{"Structure"{STR[{"Map"{str[Structures\Goldenrod_Alive\Building_4x2y4z_DarkBrick]}}{"Offset"{sngArr[14,0,24]}}]}}
 		{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"Scale"{sngArr[0.8125,1,1]}}{"EntityID"{str[WallBlock]}}{"Position"{sngArr[14.095,1,27]}}{"TexturePath"{str[Goldenrod_Alive]}}{"Textures"{recArr[[3,16,13,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[1]}}{"ModelID"{int[20]}}{"Action"{int[0]}}{"AdditionalValue"{str[]}}{"Rotation"{int[0]}}]}}
