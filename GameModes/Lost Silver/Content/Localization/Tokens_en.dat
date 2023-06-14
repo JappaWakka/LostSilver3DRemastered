@@ -744,7 +744,7 @@ pokemon_name_Pikachu,Pikachu
 pokemon_name_PikachuSad,Pikachu
 pokemon_name_Raichu,Raichu
 pokemon_name_Sandshrew,Sandshrew
-pokemon_name_Sandshlash,Sandslash
+pokemon_name_Sandslash,Sandslash
 pokemon_name_Nidoran,Nidoran
 pokemon_name_Nidorina,Nidorina
 pokemon_name_Nidoqueen,Nidoqueen
@@ -753,7 +753,7 @@ pokemon_name_Nidoking,Nidoking
 pokemon_name_Clefairy,Clefairy
 pokemon_name_Clefable,Clefable
 pokemon_name_Vulpix,Vulpix
-pokemon_name_Ninetails,Ninetails
+pokemon_name_Ninetales,Ninetales
 pokemon_name_Jigglypuff,Jigglypuff
 pokemon_name_Wigglytuff,Wigglytuff
 pokemon_name_Zubat,Zubat
@@ -832,7 +832,7 @@ pokemon_name_Chansey,Chansey
 pokemon_name_Tangela,Tangela
 pokemon_name_Kangaskhan,Kangaskhan
 pokemon_name_Horsea,Horsea
-pokemon_name_Seedra,Seedra
+pokemon_name_Seadra,Seadra
 pokemon_name_Goldeen,Goldeen
 pokemon_name_Seaking,Seaking
 pokemon_name_Staryu,Staryu
@@ -1004,7 +1004,7 @@ pokemon_name_Larvitar,Larvitar
 pokemon_name_Pupitar,Pupitar
 pokemon_name_Tyranitar,Tyranitar
 pokemon_name_Lugia,Lugia
-pokemon_name_Ho-Oh,Ho-Oh
+pokemon_name_Ho-oh,Ho-oh
 pokemon_name_Celebi,Celebi
 pokemon_name_CelebiLost,Celebi
 pokemon_name_CelebiHalf,Celebi
