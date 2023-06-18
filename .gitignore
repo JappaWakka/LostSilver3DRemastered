@@ -27308,3 +27308,53 @@ Save/Brown/SecretBase.dat
 Save/Brown/Statistics.dat
 Pokemon Brown08FIX.rar
 GameModes/Pokemon Brown 3D/Content/Textures/NPC/Player_Bike.png
+Content/Pokemon/Overworld/Shiny/676.png
+Content/Pokemon/Overworld/Normal/676.png
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/Daycare.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/GamblerHouse.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/NameRater.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/PokeCenter.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/PokeMart.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Routes/66/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Buildings/Building_Owsauri_FlatRoof_4x2y4z.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Buildings/Building_Owsauri_FlatRoof_4x2y4z_Entrance.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Buildings/Building_Owsauri_SlopeRoof_2x1y2z.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Buildings/Building_Owsauri_SlopeRoof_4x1y2z.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Buildings/Building_Owsauri_SlopeRoof_4x1y2z_Entrance.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_Gate_East.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49-Route50_2F_Binoculars_Left.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49-Route50_2F_Binoculars_Right.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49_1F_BikeCheck.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49_1F_Stairs.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49_2F_Binoculars_Left.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49_2F_Binoculars_Right.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49_2F_ShellderRhyhornTrade.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gates/Route49_2F_Stairs.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Daycare/DayCareMan.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Daycare/LeavePokemon.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Daycare/pokemon_0.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Daycare/pokemon_1.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Daycare/TakeBack.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Daycare/TakeEgg.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/gymguy.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/Main_MapScript.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/namerater.dat
+GameModes/Pokemon Brown 3D/Content/Songs/FinalDungeon_Building.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/FinalDungeon_Cave.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/FinalDungeon_Island.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/FinalDungeon_Path.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/Gate.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/Intro/Owsauri.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/Intro/SenecaCaverns.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/Owsauri.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/PurifiedZone.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/SenecaCaverns.ogg
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/AdultWoman_Green.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/BugCatcher_Adult.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/DayCareMan.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/Empty.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/GameCornerClerk_Female.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/GameCornerClerk_Male.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/PokeFan_Female_Red.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/YoungBoy_Green.png
