@@ -2,11 +2,14 @@ Version=2
 @Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Regular)
 	
-:if:<Register.Registered(LostForest)>=false
+:if:<Register.Registered(LostForest)>=False
 	@Player.SetName(Gold)
 :endif
 :if:<Register.Registered(LostShrine)>=True
 	@Player.PreventMovement
+:endif
+:if:<Register.Registered(LostSecret)>=True
+	@Entity.SetCollision(0,1)
 :endif
 
 @Pokemon.Clear
