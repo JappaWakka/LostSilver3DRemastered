@@ -39,21 +39,23 @@ version=2
 @Camera.Update
 @Player.ResetMovement
 @Camera.DeFix
-:if:<Pokemon.AdditionalData(0)>=3
-	:if:<Pokemon.AdditionalData(1)>=8
-		:if:<Pokemon.AdditionalData(2)>=4
-			:if:<Pokemon.AdditionalData(3)>=3
-				:if:<Pokemon.AdditionalData(4)>=7
-					:if:<Pokemon.AdditionalData(5)>=4
-						@Player.Warp(DiedHe.dat,4,0.1,6,0)
-						@Level.Update
-						:end
+:if:<Register.Registered(DiedHe_Done)>=false
+	:if:<Pokemon.AdditionalData(0)>=3
+		:if:<Pokemon.AdditionalData(1)>=8
+			:if:<Pokemon.AdditionalData(2)>=4
+				:if:<Pokemon.AdditionalData(3)>=3
+					:if:<Pokemon.AdditionalData(4)>=7
+						:if:<Pokemon.AdditionalData(5)>=4
+							@Player.Warp(DiedHe.dat,4,0.1,6,0)
+							@Level.Update
+							:end
+						:endif
 					:endif
 				:endif
 			:endif
 		:endif
 	:endif
-:endif		
+:endif
 @Player.Warp(RedTower.dat,4,0.1,8,0)
 @Music.Stop
 @Level.Update

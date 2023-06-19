@@ -143,7 +143,7 @@ ChangeColor
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,46]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_TurnBlack]}}{"Rotation"{int[0]}}]}}
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[7,0,45]}}{"TexturePath"{str[Center]}}{"Textures"{recArr[[0,48,16,16]]}}{"TextureIndex"{intArr[0,0]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_TurnWhite]}}{"Rotation"{int[0]}}]}}
 
-{"OffsetMap"{MAP[{"Offset"{sngArr[2,3,-2]}}{"Map"{str[GoodBye\GoodBye_Room.dat]}}]}}
+{"OffsetMap"{MAP[{"Offset"{sngArr[2,3,-2]}}{"Map"{str[GoodBye_Room.dat]}}]}}
 
 Gold:
 {"NPC"{NPC[{"Position"{sngArr[7,0,81]}}{"TextureID"{str[Gold_Regular]}}{"ID"{int[0]}}{"Name"{str[Gold]}}{"Action"{int[1]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_Gold]}}{"Rotation"{int[2]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
