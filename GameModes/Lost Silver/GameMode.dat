@@ -4,7 +4,7 @@ Version|3.0
 Author|JappaWakka, AlexCorruptor & nilllzz
 MapPath|$Mode\Content\Data\Maps\
 ScriptPath|$Mode\Content\Data\Scripts\
-PokeFilePath|$Mode\Content\Data\Maps\poke\
+PokeFilePath|$Mode\Content\Data\WildEncounters\
 PokemonDataPath|$Mode\Content\Pokemon\Data\
 ContentPath|$Mode\Content\
 LocalizationsPath|$Mode\Content\Localization\
