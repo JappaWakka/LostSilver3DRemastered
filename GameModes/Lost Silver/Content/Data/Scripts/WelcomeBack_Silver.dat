@@ -6,7 +6,7 @@ version=2
 @NPC.Move(1,7)
 @Text.Show(Welcome back.)
 @Pokemon.Clear
-@Pokemon.Add(0,{"Pokemon"[996]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[255]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[726]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[]}{"IDValue"[cs52xAO5tpg]})
+@Pokemon.Add(0,{"Pokemon"[229]}{"OriginalNumber"[-1]}{"Experience"[911250]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Forever]}{"Level"[90]}{"OT"[65665]}{"Ability"[48]}{"Status"[]}{"Nature"[22]}{"CatchLocation"[...]}{"CatchTrainer"[???]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[35]}{"isShiny"[0]}{"Attack1"[1008,15,15]}{"Attack2"[1007,15,15]}{"Attack3"[1009,10,10]}{"Attack4"[]}{"HP"[276]}{"EVs"[0,0,0,0,0,0]}{"IVs"[31,31,31,31,31,31]}{"AdditionalData"[lost]}{"IDValue"[cs52xAO5tpg]})
 @Music.SetMusicLoop(RedBattle)
 @Environment.SetRenderDistance(4)
 @Screen.FadeOutColor(245,245,245)
@@ -32,6 +32,6 @@ version=2
 @Screen.FadeIn(25)
 @Camera.Update
 @Screen.FadeOutColor(0,0,0)
-@Item.ClearItem(115)
+@Item.ClearItem(gm0)
 @Register.Register(DiedHe_Done)
 :end

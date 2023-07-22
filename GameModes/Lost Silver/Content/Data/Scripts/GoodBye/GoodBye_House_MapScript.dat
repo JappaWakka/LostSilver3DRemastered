@@ -8,41 +8,11 @@ version=2
 
 @Pokemon.Clear
 
-@Pokemon.Add(201,5,...,5,...,0)
-@Pokemon.SetNickName(0,Unown)
-@Pokemon.SetAdditionalValue(0,13)
-@Pokemon.SetShiny(0,1)
-
-@Pokemon.Add(201,5,...,5,...,0)
-@Pokemon.SetNickName(1,Unown)
-@Pokemon.SetAdditionalValue(1,14)
-@Pokemon.SetShiny(1,1)
-
-@Pokemon.Add(201,5,...,5,...,0)
-@Pokemon.SetNickName(2,Unown)
-@Pokemon.SetAdditionalValue(2,12)
-@Pokemon.SetShiny(2,1)
-
-@Pokemon.Add(201,5,...,5,...,0)
-@Pokemon.SetNickName(3,Unown)
-@Pokemon.SetAdditionalValue(3,14)
-@Pokemon.SetShiny(3,1)
-
-@Pokemon.Add(201,5,...,5,...,0)
-@Pokemon.SetNickName(4,Unown)
-@Pokemon.SetAdditionalValue(4,17)
-@Pokemon.SetShiny(4,1)
-
-@Pokemon.Add(201,5,...,5,...,0)
-@Pokemon.SetNickName(5,Unown)
-@Pokemon.SetAdditionalValue(5,4)
-@Pokemon.SetShiny(5,1)
-
-@Pokemon.SetAbility(0,26)
-@Pokemon.SetAbility(1,26)
-@Pokemon.SetAbility(2,26)
-@Pokemon.SetAbility(3,26)
-@Pokemon.SetAbility(4,26)
-@Pokemon.SetAbility(5,26)
+@Pokemon.Add(0,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[1]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[14,7,25,25,16,1]}{"AdditionalData"[13]}{"IDValue"[rLoFBCzt2Nc]})
+@Pokemon.Add(1,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[1]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[14,7,25,25,16,1]}{"AdditionalData"[14]}{"IDValue"[rLoFBCzt2Nc]})
+@Pokemon.Add(2,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[1]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[14,7,25,25,16,1]}{"AdditionalData"[12]}{"IDValue"[rLoFBCzt2Nc]})
+@Pokemon.Add(3,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[1]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[14,7,25,25,16,1]}{"AdditionalData"[14]}{"IDValue"[rLoFBCzt2Nc]})
+@Pokemon.Add(4,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[1]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[14,7,25,25,16,1]}{"AdditionalData"[17]}{"IDValue"[rLoFBCzt2Nc]})
+@Pokemon.Add(5,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[1]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[14,7,25,25,16,1]}{"AdditionalData"[4]}{"IDValue"[rLoFBCzt2Nc]})
 
 :end

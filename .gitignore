@@ -27358,3 +27358,246 @@ GameModes/Pokemon Brown 3D/Content/Textures/NPC/GameCornerClerk_Female.png
 GameModes/Pokemon Brown 3D/Content/Textures/NPC/GameCornerClerk_Male.png
 GameModes/Pokemon Brown 3D/Content/Textures/NPC/PokeFan_Female_Red.png
 GameModes/Pokemon Brown 3D/Content/Textures/NPC/YoungBoy_Green.png
+Content/Textures/TVs/AlexCorruptor.png
+Content/Textures/NPC/AlexCorruptor.png
+Content/Textures/Battle/Psychic/PsychicBackground.png
+Content/Textures/Battle/Ice/IcePunch_Fist.png
+Content/Textures/Battle/Ice/IcePunch_Crystals.png
+Content/Textures/Battle/Ghost/ConfuseRay.png
+Content/Sounds/Battle/Attacks/Psychic/Psychic.wav
+Content/Sounds/Battle/Attacks/Ice/IcePunch_Fist.wav
+Content/Sounds/Battle/Attacks/Ice/IcePunch_Crystals.wav
+Content/Sounds/Battle/Attacks/Ghost/ConfuseRay_Start.wav
+Content/Sounds/Battle/Attacks/Ghost/ConfuseRay_End.wav
+Content/Pokemon/Data/901.dat
+Content/Pokemon/Data/900.dat
+Content/Pokemon/Data/899.dat
+Content/Pokemon/Data/863.dat
+Content/Pokemon/Data/862.dat
+Content/Pokemon/Data/80_galar.dat
+Content/Pokemon/Data/79_galar.dat
+Content/Pokemon/Data/52_galar.dat
+Content/Pokemon/Data/264_galar.dat
+Content/Pokemon/Data/263_galar.dat
+Content/Pokemon/Data/199_galar.dat
+Content/Models/Pokemon/143/Snorlax_Shiny_0.xnb
+Content/Models/Pokemon/143/Snorlax_Shiny.xnb
+Content/Models/Pokemon/143/Snorlax_Normal_0.xnb
+Content/Models/Pokemon/143/Snorlax_Normal.xnb
+Content/Models/Pokemon/143/Shiny.xnb
+Content/Models/Pokemon/143/Normal.xnb
+Content/GUI/PokemonMenu/Gen9.png
+Content/Data/Scripts/kolben/AlexCorruptor.dat
+Content/Data/Scripts/frontier/shops/vitamin.dat
+Content/Data/Scripts/frontier/shops/tms.dat
+Content/Data/Scripts/frontier/shops/specialty.dat
+Content/Data/Scripts/frontier/shops/protect.dat
+Content/Data/Scripts/frontier/shops/power.dat
+Content/Data/Scripts/frontier/shops/nurture.dat
+Content/Data/Scripts/frontier/shops/mints.dat
+Content/Data/Scripts/frontier/shops/juice/give.dat
+Content/Data/Scripts/frontier/shops/juice/daily.dat
+Content/Data/Scripts/frontier/shops/juice/custom.dat
+Content/Data/Scripts/frontier/shops/juice/calc.dat
+Content/Data/Scripts/frontier/shops/held.dat
+Content/Data/Scripts/frontier/shops/gem.dat
+Content/Data/Scripts/frontier/shops/field.dat
+Content/Data/Scripts/frontier/shops/evo.dat
+Content/Data/Scripts/frontier/shops/consume.dat
+Content/Data/Scripts/frontier/shops/choice.dat
+Content/Data/Scripts/frontier/shops/berry/grabbag.dat
+Content/Data/Scripts/frontier/shops/berry/daily.dat
+Content/Data/forms.dat
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Tutorial_HowToPlay.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Tutorial_Hint.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Tutorial_AboutMemos.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Tile_MemoIcons.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Tile_Front.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Tile_Back.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Quit_Button.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Memo_Index.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Memo_Enabled.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Memo_Button.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Memo_Background.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/HUD.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Cursor_Memo.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Cursor_Game.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Board.png
+GameModes/Pokemon Brown 3D/Content/Textures/VoltorbFlip/Background.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/YoungBoy_Purple.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/Swimmer_Land.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/Swimmer.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/NameRater.png
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/AdultWoman_Red.png
+GameModes/Pokemon Brown 3D/Content/Songs/Intro/GameCorner.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/GameCorner.ogg
+GameModes/Pokemon Brown 3D/Content/Pokemon/Sprites/998.png
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/471.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/236_hitmontop.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/236_hitmonlee.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/133_umbreon.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/133_leafeon.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/133_glaceon.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/133_espeon.dat
+GameModes/Pokemon Brown 3D/Content/GUI/PokemonMenu/Gen6.png
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Seashore/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/66/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/64/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/63/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/62/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/61/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/60/PowerPlant.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/60/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/59/warehouse/4.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/59/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/58/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/57/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/56/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/55/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/54/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/53/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/52/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/51/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/50/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/49/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Routes/48-B/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Merson/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/FinalDungeon/UndergroundCaveMazeB1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/FinalDungeon/UndergroundCaveMaze1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/FinalDungeon/OutdoorPath.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/safari/4.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/safari/3.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/safari/2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/safari/1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/safari/0.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/B3.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/B2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/B1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/4.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/4-1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/3.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/3-2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/3-1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Seneca Caverns/0.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Mt.Boulder/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Mt.Boulder/B1.dat
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Merson/B1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Merson/1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/InternationalTunnel/B1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/InternationalTunnel/1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Eagulou/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/Botan/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/30Years/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Castro/mansion/Main.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Castro/mansion/Basement.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Castro/mansion/2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Castro/mansion/1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Castro/Forest.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/Missing5.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/Missing4.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/Missing3.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/Missing2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/6.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/5.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/4.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/3.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Botan/HauntedForest/2.poke
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/005.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/005.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/004.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/004.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/003.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/003.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/002.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/002.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/001.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/001.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/000.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/Route66/000.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/gyms/owsauri/leader.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/gyms/owsauri/leader.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/gyms/owsauri/001.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/gyms/owsauri/001.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/gyms/owsauri/000.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/gyms/owsauri/000.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/006.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/006.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/005.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/005.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/004.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/004.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/003.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/003.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/002.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/002.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/001.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/001.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/000.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMazeB1F/000.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/003.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/003.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/002.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/002.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/001.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/001.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/000.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/UndergroundCaveMaze1F/000.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/008.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/008.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/007.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/007.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/006.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/006.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/005.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/005.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/004.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/004.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/003.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/003.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/002.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/002.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/001.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/001.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/000.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/FinalDungeon/OutdoorPath/000.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/VoltorbFlip_Game.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/VoltorbFlip_Clerk.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/ShopRight.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/ShopLeft.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/ShopCenter.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/PokeManiac.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/PokeFanMale.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/PokeFanFemale.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/Gentleman.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/GamblingClerk.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/Gambler_Blue.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/CoinSellingClerk.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/AdultWoman.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Owsauri/GameCorner/AdultBugcatcher.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Marts/Owsauri.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Gyms/owsauri.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_GameCorner_Up_West.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_GameCorner_Up_East.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Routes/48-B/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/GameCorner_B1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Owsauri/GameCorner_1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Gyms/Owsauri.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/FinalDungeon/UndergroundCaveMazeB1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/FinalDungeon/UndergroundCaveMaze1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/FinalDungeon/OutdoorPath.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/InternationalTunnel/B1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/InternationalTunnel/1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/Routes/48-B/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/Gyms/Owsauri.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/FinalDungeon/UndergroundCaveMazeB1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/FinalDungeon/UndergroundCaveMaze1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/FinalDungeon/OutdoorPath.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/Caves/30Years/Main.dat
+GameModes/Pokemon Brown 3D/Content/Data/Items/gm74_CoronetStone.dat
+GameModes/Pokemon Brown 3D/Content/Data/Items/gm73_KingsRock.dat
+GameModes/Pokemon Brown 3D/Content/Data/Items/gm59_TM41_WoodHammer.dat
+GameModes/Pokemon Brown 3D/Content/Data/Items/gm1_EvolutionTool.dat
+GameModes/Pokemon Brown 3D/Content/Data/forms.dat
