@@ -28605,3 +28605,185 @@ GameModes/Lost Silver/Content/Pokemon/Sprites/sprites/silver/251_0.png
 GameModes/Lost Silver/Content/Pokemon/Sprites/sprites/silver/251_1.png
 GameModes/Lost Silver/Content/Pokemon/Sprites/sprites/silver/251_2.png
 GameModes/Lost Silver/Content/Pokemon/Sprites/sprites/silver/251_3.png
+Content/Data/Scripts/cianwood/cianmap.dat
+Content/Data/Scripts/goldenrod/mapscript.dat
+Content/Data/Scripts/mahogany/mahomap.dat
+Content/Data/Scripts/marts/goldenrodbargain.dat
+Content/Data/Scripts/olivine/olivmap.dat
+Content/Data/Scripts/phone/002.dat
+Content/Data/Scripts/phone/036.dat
+Content/Data/Scripts/phone/037.dat
+Content/Data/Scripts/phone/038.dat
+Content/Data/Scripts/phone/039.dat
+Content/Data/Scripts/phone/events/elm_kanto_radio.dat
+Content/Data/Scripts/phone/events/elm_post_badge7.dat
+Content/Data/Scripts/phone/events/elm_post_badge8.dat
+Content/Data/Scripts/phone/events/elm_post_e4.dat
+Content/Data/Scripts/phone/events/elm_post_falkner.dat
+Content/Data/Scripts/phone/events/elm_post_red.dat
+Content/Data/Scripts/phone/events/elm_thief.dat
+Content/Data/Scripts/phone/events/oak_post_blue.dat
+Content/Data/Scripts/trainer/nationalpark/003_3.trainer
+Content/Data/Scripts/trainer/nationalpark/004_3.trainer
+Content/Data/Scripts/trainer/route26/004_1.trainer
+Content/Data/Scripts/trainer/route26/004_2.trainer
+Content/Data/Scripts/trainer/route26/006_1.trainer
+Content/Data/Scripts/trainer/route26/006_2.trainer
+Content/Data/Scripts/trainer/route27/003_1.trainer
+Content/Data/Scripts/trainer/route27/003_2.trainer
+Content/Data/Scripts/trainer/route27/006_1.trainer
+Content/Data/Scripts/trainer/route27/006_2.trainer
+Content/Data/Scripts/trainer/route30/001_3.trainer
+Content/Data/Scripts/trainer/route30/001_4.trainer
+Content/Data/Scripts/trainer/route31/001_1.trainer
+Content/Data/Scripts/trainer/route31/001_2.trainer
+Content/Data/Scripts/trainer/route31/001_3.trainer
+Content/Data/Scripts/trainer/route31/001_4.trainer
+Content/Data/Scripts/trainer/route32/32002_3.trainer
+Content/Data/Scripts/trainer/route32/32005_3.trainer
+Content/Data/Scripts/trainer/route33/33001_3.trainer
+Content/Data/Scripts/trainer/route34/003_3.trainer
+Content/Data/Scripts/trainer/route34/004_3.trainer
+Content/Data/Scripts/trainer/route36/002_3.trainer
+Content/Data/Scripts/trainer/route38/005_3.trainer
+Content/Data/Scripts/trainer/route39/003_3.trainer
+Content/Data/Scripts/trainer/route44/006_1.trainer
+Content/Data/Scripts/trainer/route44/006_2.trainer
+Content/Data/Scripts/trainer/route44/007_1.trainer
+Content/Data/Scripts/trainer/route44/007_2.trainer
+Content/Data/Scripts/trainer/route46/002_3.trainer
+Content/Data/Scripts/viridian/virmap.dat
+Content/GUI/Menus/MailboxBackground.png
+Content/Pokemon/Overworld/Normal/100_hisui.png
+Content/Pokemon/Overworld/Normal/101_hisui.png
+Content/Pokemon/Overworld/Normal/110_galar.png
+Content/Pokemon/Overworld/Normal/122_galar.png
+Content/Pokemon/Overworld/Normal/144_galar.png
+Content/Pokemon/Overworld/Normal/145_galar.png
+Content/Pokemon/Overworld/Normal/146_galar.png
+Content/Pokemon/Overworld/Normal/157_hisui.png
+Content/Pokemon/Overworld/Normal/199_galar.png
+Content/Pokemon/Overworld/Normal/211_hisui.png
+Content/Pokemon/Overworld/Normal/215_hisui.png
+Content/Pokemon/Overworld/Normal/222_galar.png
+Content/Pokemon/Overworld/Normal/263_galar.png
+Content/Pokemon/Overworld/Normal/264_galar.png
+Content/Pokemon/Overworld/Normal/503_hisui.png
+Content/Pokemon/Overworld/Normal/52_galar.png
+Content/Pokemon/Overworld/Normal/549_hisui.png
+Content/Pokemon/Overworld/Normal/554_galar.png
+Content/Pokemon/Overworld/Normal/555_galar-zen.png
+Content/Pokemon/Overworld/Normal/555_galar.png
+Content/Pokemon/Overworld/Normal/562_galar.png
+Content/Pokemon/Overworld/Normal/570_hisui.png
+Content/Pokemon/Overworld/Normal/571_hisui.png
+Content/Pokemon/Overworld/Normal/58_hisui.png
+Content/Pokemon/Overworld/Normal/59_hisui.png
+Content/Pokemon/Overworld/Normal/618_galar.png
+Content/Pokemon/Overworld/Normal/628_hisui.png
+Content/Pokemon/Overworld/Normal/705_hisui.png
+Content/Pokemon/Overworld/Normal/706_hisui.png
+Content/Pokemon/Overworld/Normal/713_hisui.png
+Content/Pokemon/Overworld/Normal/724_hisui.png
+Content/Pokemon/Overworld/Normal/77_galar.png
+Content/Pokemon/Overworld/Normal/78_galar.png
+Content/Pokemon/Overworld/Normal/79_galar.png
+Content/Pokemon/Overworld/Normal/80_galar.png
+Content/Pokemon/Overworld/Normal/83_galar.png
+Content/Pokemon/Overworld/Normal/899.png
+Content/Pokemon/Overworld/Normal/900.png
+Content/Pokemon/Overworld/Normal/901.png
+Content/Pokemon/Overworld/Shiny/100_hisui.png
+Content/Pokemon/Overworld/Shiny/101_hisui.png
+Content/Pokemon/Overworld/Shiny/110_galar.png
+Content/Pokemon/Overworld/Shiny/122_galar.png
+Content/Pokemon/Overworld/Shiny/144_galar.png
+Content/Pokemon/Overworld/Shiny/145_galar.png
+Content/Pokemon/Overworld/Shiny/146_galar.png
+Content/Pokemon/Overworld/Shiny/157_hisui.png
+Content/Pokemon/Overworld/Shiny/199_galar.png
+Content/Pokemon/Overworld/Shiny/211_hisui.png
+Content/Pokemon/Overworld/Shiny/215_hisui.png
+Content/Pokemon/Overworld/Shiny/222_galar.png
+Content/Pokemon/Overworld/Shiny/263_galar.png
+Content/Pokemon/Overworld/Shiny/264_galar.png
+Content/Pokemon/Overworld/Shiny/503_hisui.png
+Content/Pokemon/Overworld/Shiny/52_galar.png
+Content/Pokemon/Overworld/Shiny/549_hisui.png
+Content/Pokemon/Overworld/Shiny/555_galar-zen.png
+Content/Pokemon/Overworld/Shiny/555_galar.png
+Content/Pokemon/Overworld/Shiny/562_galar.png
+Content/Pokemon/Overworld/Shiny/570_hisui.png
+Content/Pokemon/Overworld/Shiny/571_hisui.png
+Content/Pokemon/Overworld/Shiny/58_hisui.png
+Content/Pokemon/Overworld/Shiny/59_hisui.png
+Content/Pokemon/Overworld/Shiny/618_galar.png
+Content/Pokemon/Overworld/Shiny/628_hisui.png
+Content/Pokemon/Overworld/Shiny/705_hisui.png
+Content/Pokemon/Overworld/Shiny/706_hisui.png
+Content/Pokemon/Overworld/Shiny/713_hisui.png
+Content/Pokemon/Overworld/Shiny/724_hisui.png
+Content/Pokemon/Overworld/Shiny/77_galar.png
+Content/Pokemon/Overworld/Shiny/78_galar.png
+Content/Pokemon/Overworld/Shiny/79_galar.png
+Content/Pokemon/Overworld/Shiny/80_galar.png
+Content/Pokemon/Overworld/Shiny/83_galar.png
+Content/Pokemon/Overworld/Shiny/899.png
+Content/Pokemon/Overworld/Shiny/900.png
+Content/Pokemon/Overworld/Shiny/901.png
+Content/Pokemon/Sprites/100_hisui.png
+Content/Pokemon/Sprites/101_hisui.png
+Content/Pokemon/Sprites/110_galar.png
+Content/Pokemon/Sprites/122_galar.png
+Content/Pokemon/Sprites/144_galar.png
+Content/Pokemon/Sprites/145_galar.png
+Content/Pokemon/Sprites/146_galar.png
+Content/Pokemon/Sprites/157_hisui.png
+Content/Pokemon/Sprites/199_galar.png
+Content/Pokemon/Sprites/211_hisui.png
+Content/Pokemon/Sprites/215_hisui-f.png
+Content/Pokemon/Sprites/215_hisui.png
+Content/Pokemon/Sprites/222_galar.png
+Content/Pokemon/Sprites/263_galar.png
+Content/Pokemon/Sprites/264_galar.png
+Content/Pokemon/Sprites/503_hisui.png
+Content/Pokemon/Sprites/52_galar.png
+Content/Pokemon/Sprites/549_hisui.png
+Content/Pokemon/Sprites/554_galar.png
+Content/Pokemon/Sprites/555_galar-zen.png
+Content/Pokemon/Sprites/555_galar.png
+Content/Pokemon/Sprites/562_galar.png
+Content/Pokemon/Sprites/570_hisui.png
+Content/Pokemon/Sprites/571_hisui.png
+Content/Pokemon/Sprites/58_hisui.png
+Content/Pokemon/Sprites/59_hisui.png
+Content/Pokemon/Sprites/618_galar.png
+Content/Pokemon/Sprites/628_hisui.png
+Content/Pokemon/Sprites/705_hisui.png
+Content/Pokemon/Sprites/706_hisui.png
+Content/Pokemon/Sprites/713_hisui.png
+Content/Pokemon/Sprites/724_hisui.png
+Content/Pokemon/Sprites/77_galar.png
+Content/Pokemon/Sprites/78_galar.png
+Content/Pokemon/Sprites/79_galar.png
+Content/Pokemon/Sprites/80_galar.png
+Content/Pokemon/Sprites/83_galar.png
+Content/Pokemon/Sprites/899.png
+Content/Pokemon/Sprites/900.png
+Content/Pokemon/Sprites/901.png
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/SilkTunnel/1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/SilkTunnel/B1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/SilkTunnel/B2F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/SilkTunnel/B3F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Moves/1001_NoisePulse.dat
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/B1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/B2F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/SilkTunnel/B3F.poke
+GameModes/Pokemon Brown 3D/Content/Pokemon/Data/214.dat
+GameModes/Pokemon Brown 3D/Content/Pokemon/Overworld/Normal/461.png
+GameModes/Pokemon Brown 3D/Content/Pokemon/Overworld/Shiny/461.png
+GameModes/Pokemon Brown 3D/Content/Pokemon/Sprites/461.png
+GameModes/Pokemon Brown 3D/Content/Songs/SilkTunnel.ogg
+GameModes/Pokemon Brown 3D/TM & HM Moves IDs.txt
+GameModes/Pokemon Brown 3D/Trainer Intro Colors.txt

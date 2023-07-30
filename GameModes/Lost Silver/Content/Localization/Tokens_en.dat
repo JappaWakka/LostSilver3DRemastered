@@ -399,28 +399,13 @@ black_out_screen_line4,to prevent further injury
 black_out_screen_line5,to your Pokémon.
 ---
 Battle:
----
-main:
-battle_main_trainer_sent_out_1, sent out~
-battle_main_trainer_sent_out_2,.
-battle_main_trainer_sent_out_3, is about~to send out~
-battle_main_trainer_sent_out_4,!~Do you want to switch~your Pokémon?
-battle_main_trainer_sent_out_5,Yes
-battle_main_trainer_sent_out_6,No
-battle_main_choose_pokemon,Choose Pokémon
-battle_main_wild_appear_1,A wild 
-battle_main_wild_appear_2,~appeared!
-battle_main_trainer_intro_1, and~
-battle_main_trainer_intro_2, want~to battle!
-battle_main_trainer_intro_3, wants~to battle!
-battle_main_intro_1,GO! 
-battle_main_intro_2,!
-battle_main_trainer_defeat_1,~was defeated!
-battle_main_trainer_defeat_2, and~
-battle_main_trainer_defeat_3,~were defeated!
-battle_main_trainer_defeat_4, got 
-battle_main_trainer_defeat_5,~PokéDollars for winning!
-battle_main_cannot_switch,No. I can't.
+battle_trainer_about_to_send_out_1,is about to send out
+battle_trainer_about_to_send_out_2,! Do you want to switch your Pokémon?
+battle_choose_pokemon,Choose Pokémon
+battle_switch_already_in_battle,is already~in battle!
+battle_switch_fainted,is fainted!
+battle_switch_egg,Cannot switch in~the egg!
+battle_cannot_switch,No. I can't.
 ---
 attackTurn:
 battle_attack_poison_damage,~was hurt by poison!
