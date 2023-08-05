@@ -8,5 +8,7 @@
 @Player.SetOT(46579)
 @Player.PreventMovement
 @system.EndNewGame(UseSaveGame.dat,0,0.1,0,0)
+@Level.Update
+@Camera.Update
 
 :end
