@@ -30,4 +30,10 @@ version=2
 :else
 	@Pokemon.Add(5,{"Pokemon"[251]}{"OriginalNumber"[-1]}{"Experience"[1059860]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Celebi]}{"Level"[100]}{"OT"[46579]}{"Ability"[30]}{"Status"[]}{"Nature"[18]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[100]}{"isShiny"[1]}{"Attack1"[1003,5,5]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[314]}{"EVs"[0,0,0,0,0,0]}{"IVs"[7,8,14,10,20,19]}{"AdditionalData"[half]}{"IDValue"[8WMg2jfSozA]})
 :endif
+
+@Pokemon.SetStat(0,MaxHP,40)
+@Pokemon.SetStat(1,MaxHP,40)
+@Pokemon.SetStat(2,MaxHP,40)
+@Pokemon.SetStat(3,MaxHP,40)
+@Pokemon.SetStat(4,MaxHP,40)
 :end

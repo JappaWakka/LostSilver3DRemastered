@@ -23,6 +23,13 @@ Version=2
 @Pokemon.Add(4,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[125]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[4]}{"IDValue"[mik2LPuN589]})
 @Pokemon.Add(5,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[125]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[5]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[3]}{"IDValue"[mik2LPuN589]})
 
+@Pokemon.SetStat(0,MaxHP,20)
+@Pokemon.SetStat(1,MaxHP,20)
+@Pokemon.SetStat(2,MaxHP,20)
+@Pokemon.SetStat(3,MaxHP,20)
+@Pokemon.SetStat(4,MaxHP,20)
+@Pokemon.SetStat(5,MaxHP,20)
+
 @Player.AddBadge(17)
 @Player.AddBadge(18)
 @Player.AddBadge(19)

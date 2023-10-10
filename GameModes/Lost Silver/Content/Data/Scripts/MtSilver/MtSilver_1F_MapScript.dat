@@ -36,4 +36,8 @@ Version=2
 		@Pokemon.SetStat(4,cHP,10)
 	:endif
 :endif
+@Pokemon.SetStat(0,MaxHP,50)
+@Pokemon.SetStat(1,MaxHP,50)
+@Pokemon.SetStat(2,MaxHP,50)
+@Pokemon.SetStat(3,MaxHP,50)
 :end

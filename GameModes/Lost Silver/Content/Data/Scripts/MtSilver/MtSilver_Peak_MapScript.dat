@@ -38,6 +38,10 @@ version=2
 	@Pokemon.SetStat(5,maxHP,20)
 	
 	@Register.Register(MtSilver_Peak)
+	@Pokemon.SetStat(0,MaxHP,50)
+	@Pokemon.SetStat(1,MaxHP,50)
+	@Pokemon.SetStat(2,MaxHP,50)
+	@Pokemon.SetStat(3,MaxHP,50)
 :endif
 
 :end

@@ -29419,3 +29419,9 @@ GameModes/Pokemon Brown 3D/Content/Models/SSAnne/SSAnne.xnb
 GameModes/Pokemon Brown 3D/Content/Models/SSAnne/SSAnne_0.xnb
 GameModes/Pokemon Brown 3D/Content/Songs/Castro.ogg
 GameModes/Pokemon Brown 3D/Content/Textures/Cities/Castro.png
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_Mansion_Down_East.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_Mansion_Down_West.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_Mansion_Up_East.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_Mansion_Up_West.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Castro/Mansion/2F_Stairs_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Castro/Mansion/2F_Stairs_Up.dat
