@@ -24,7 +24,7 @@ Version=2
 :else
 	@Pokemon.SetStat(4,cHP,20)
 :endif
-:if:<Register.Registered(YourFault)>=false
+:if:<Register.Registered(YourFault)>=true
 	@Entity.Remove(3)
 :endif
 :end
