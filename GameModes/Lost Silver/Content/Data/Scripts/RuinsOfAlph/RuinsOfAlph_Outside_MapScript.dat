@@ -4,7 +4,6 @@ version=2
 :else
 	@Player.SetSkin(Gold_DiedHe)
 :endif
-@Environment.SetRenderDistance(0)
 
 @Pokemon.Clear
 

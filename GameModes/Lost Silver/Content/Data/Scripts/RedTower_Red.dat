@@ -13,7 +13,6 @@ Version=2
 @Battle.Trainer(Red)
 @Camera.SetToPlayerFacing
 @Camera.DeactivateThirdPerson
-@Environment.SetRenderDistance(0)
 @Player.Warp(Battle_RedTower.dat)
 @Level.Update
 @Screen.SetFade(0)

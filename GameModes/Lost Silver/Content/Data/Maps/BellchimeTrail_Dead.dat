@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[silence]}}{"OverworldPokemon"{bool[0]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"Lighting"{int[3]}}{"MapScript"{str[BellchimeTrail\BellchimeTrail_Dead_MapScript]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[11]}}{"Lighting"{int[3]}}{"MapScript"{str[BellchimeTrail\BellchimeTrail_Dead_MapScript]}}]}}
 
 Floors:
 	Grass

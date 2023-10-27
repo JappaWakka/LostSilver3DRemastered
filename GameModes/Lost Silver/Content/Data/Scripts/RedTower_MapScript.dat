@@ -1,7 +1,6 @@
 version=2
 @Screen.FadeIn(64)
 @Camera.Update
-@Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Grayscale)
 
 :if:<Register.Registered(RedTower)>=false

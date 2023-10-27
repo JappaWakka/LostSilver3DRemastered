@@ -74,7 +74,6 @@ Version=2
 @Item.ClearItem(gm0)
 @NPC.Register(MtSilver_Outside.dat|1|remove|1)
 @NPC.Register(MtSilver_Outside.dat|0|remove|1)
-@Environment.SetRenderDistance(0)
 @Level.Update
 @Player.Warp(MtSilver_Outside.dat)
 @Level.Update

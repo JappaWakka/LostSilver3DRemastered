@@ -1,5 +1,4 @@
 version=2
-@Environment.SetRenderDistance(0)
 @Player.StopMovement
 @Screen.FadeOut(25)
 @Camera.Update

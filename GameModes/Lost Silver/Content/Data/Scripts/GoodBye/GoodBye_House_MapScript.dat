@@ -4,7 +4,6 @@ version=2
 	@Entity.SetCollision(1,1)
 	@Entity.SetVisible(1,0)
 :endif
-@Environment.SetRenderDistance(0)
 
 @Pokemon.Clear
 

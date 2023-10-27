@@ -2,7 +2,6 @@
 @Level.Update
 @Camera.Update
 @Text.Show(Please use the save game~included with this GameMode.)
-@Environment.SetRenderDistance(0)
 @Player.SetSkin(Dead)
 @Player.SetName(UseSaveGame)
 @Player.SetOT(46579)

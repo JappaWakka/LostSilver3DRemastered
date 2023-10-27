@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Goldenrod_Alive]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[0]}}{"DayTime"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[Goldenrod\Goldenrod_Alive_MapScript]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[0]}}{"DayTime"{int[1]}}{"Weather"{int[11]}}{"MapScript"{str[Goldenrod\Goldenrod_Alive_MapScript]}}]}}
 
 Floors:
 	Dirt

@@ -1,5 +1,4 @@
 Version=2
-@Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Regular)
 
 @Pokemon.Clear
@@ -26,7 +25,6 @@ Version=2
 	@Camera.SetToPlayerFacing
 	@Player.StopMovement
 	@Screen.SetFade(255)
-	@Environment.SetRenderDistance(0)
 	@Player.SetSkin(Gold_Regular)
 	@Level.Wait(200)
 	@Screen.SetFade(0)

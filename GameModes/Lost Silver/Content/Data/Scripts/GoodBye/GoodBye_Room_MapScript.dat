@@ -12,7 +12,6 @@ version=2
 	@Player.AddBadge(40)
 :endif
 
-@Environment.SetRenderDistance(0)
 
 @Pokemon.Clear
 

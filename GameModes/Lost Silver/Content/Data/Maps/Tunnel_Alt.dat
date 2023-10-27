@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Unown_Fast]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[Tunnel\Tunnel_Alt_MapScript]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[1]}}{"Weather"{int[11]}}{"MapScript"{str[Tunnel\Tunnel_Alt_MapScript]}}]}}
 
 Floors:
 	Red

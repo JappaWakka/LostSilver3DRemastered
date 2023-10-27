@@ -1,5 +1,4 @@
 Version=2
-@Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_NoEyes)
 :if:<Register.Value(ResetTower)>=1
 	@Sound.Play(Celebi)

@@ -1,5 +1,4 @@
 version=2
-@Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_NoEyes)
 :if:<Register.Registered(MtSilver_Peak)>=false
 	@Camera.SetToPlayerFacing

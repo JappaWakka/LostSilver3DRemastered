@@ -1,5 +1,4 @@
 version=2
-@Environment.SetRenderDistance(0)
 @Player.StopMovement
 @NPC.Remove(0)
 @Text.Show(    received~[][]!)

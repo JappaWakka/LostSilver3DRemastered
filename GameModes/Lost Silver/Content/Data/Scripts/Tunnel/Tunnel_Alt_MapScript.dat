@@ -10,7 +10,6 @@ version=2
 	@Register.Change(Tunnel,160)
 	@Register.Register(Tunnel_Alt,int,0)
 	@Camera.SetYaw(0)
-	@Environment.SetRenderDistance(0)
 	@Player.SetSkin(Gold_Backwards)
 	@Screen.SetFade(<Register.Value(Tunnel)>)
 	@Pokemon.Clear

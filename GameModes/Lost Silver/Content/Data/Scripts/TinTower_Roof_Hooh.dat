@@ -33,7 +33,6 @@ Version=2
 @Screen.SetFade(255)
 @Camera.Update
 @Battle.ResetVars
-@Environment.SetRenderDistance(0)
 @Camera.Update
 @Level.Wait(50)
 @Text.Show(Celebi was bu)

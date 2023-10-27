@@ -1,5 +1,4 @@
 Version=2
-@Environment.SetRenderDistance(0)
 :if:<Register.Registered(Grave)>=false
 	@Screen.SetFade(255)
 	@Camera.Update

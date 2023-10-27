@@ -1,5 +1,4 @@
 version=2
-@Environment.SetRenderDistance(0)
 @Player.SetSkin(Gold_Backwards_Glitch)
 
 @Screen.SetFade(160)

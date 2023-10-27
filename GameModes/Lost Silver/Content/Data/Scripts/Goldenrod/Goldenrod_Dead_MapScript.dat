@@ -1,5 +1,4 @@
 Version=2
-@Environment.SetRenderDistance(0)
 
 @Pokemon.Clear	
 @Pokemon.Add(0,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[20]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[redH]}{"IDValue"[mik2LPuN589]})

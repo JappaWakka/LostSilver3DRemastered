@@ -16,7 +16,6 @@ version=2
 @Player.ShowBattleAnimations(0)
 @Camera.SetToPlayerFacing
 @Camera.DeactivateThirdPerson
-@Environment.SetRenderDistance(0)
 @NPC.Warp(2,~,~+3,~)
 @NPC.Remove(1)
 @Level.Update

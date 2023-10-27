@@ -1,5 +1,4 @@
 version=2
-@Environment.SetRenderDistance(0)
 
 :if:<Register.Registered(TurnBack)>=true
 	@Player.SetSkin(Gold_RuinsOfAlph)

@@ -1,5 +1,5 @@
 {"Level"{LEV[{"Name"{str[???]}}{"MusicLoop"{str[Grave]}}{"CurrentRegion"{str[Lost]}}]}}
-{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[1]}}{"MapScript"{str[DiedHe_MapScript]}}]}}
+{"Actions"{LEV[{"CanTeleport"{bool[0]}}{"CanDig"{bool[0]}}{"CanFly"{bool[0]}}{"EnvironmentType"{int[1]}}{"Weather"{int[11]}}{"MapScript"{str[DiedHe_MapScript]}}]}}
 
 Floors:
 Graves floor
