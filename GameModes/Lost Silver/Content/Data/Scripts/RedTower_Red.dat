@@ -7,7 +7,7 @@ Version=2
 :endif
 @Pokemon.SetStat(0,Speed,1)
 @Music.SetMusicLoop(RedBattle)
-@Environment.SetRenderDistance(4)
+@Environment.SetWeather(0)
 @Screen.FadeOutColor(245,245,245)
 @Screen.FadeOut(25)
 @Battle.Trainer(Red)
