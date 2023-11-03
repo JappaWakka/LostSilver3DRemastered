@@ -44,6 +44,7 @@ version=2
 		@Register.Change(UnownInteract,0)
 	:endif
 :endif
+@Music.Play(RuinsOfAlph_Inside)
 @Camera.Defix
 @Camera.Reset
 @Camera.SetYaw(0)

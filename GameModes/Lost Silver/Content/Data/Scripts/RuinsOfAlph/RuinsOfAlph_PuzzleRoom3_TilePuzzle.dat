@@ -41,6 +41,7 @@ version=2
 	@Register.Change(MainHall_Purple,4)
 :endif
 
+@Music.Play(RuinsOfAlph_Inside)
 @Camera.Defix
 @Camera.Reset
 @Camera.SetYaw(0)

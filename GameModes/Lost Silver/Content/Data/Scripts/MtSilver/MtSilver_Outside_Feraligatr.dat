@@ -20,7 +20,7 @@ Version=2
 @Player.Warp(Battle_MtSilver_Outside.dat)
 @Level.Update
 @Camera.Update
-@Environment.SetWeather(0)
+@Environment.SetWeather(1)
 @Battle.Wild({"Pokemon"[160]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[]}{"Level"[90]}{"OT"[46579]}{"Ability"[23]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[39,999,999]}{"Attack2"[39,999,999]}{"Attack3"[39,999,999]}{"Attack4"[39,999,999]}{"HP"[256]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[noeyes]}{"IDValue"[myDYzVeAXfg]},FeraligatrBattle_Intro,0)
 @Screen.FadeIn(25)
 @Battle.ResetVars

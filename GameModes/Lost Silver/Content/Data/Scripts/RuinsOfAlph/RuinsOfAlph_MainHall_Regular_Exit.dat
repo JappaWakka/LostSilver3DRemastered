@@ -6,6 +6,7 @@ version=2
 @Camera.Update
 @Sound.Play(Enter)
 @Player.Warp(RuinsOfAlph_Outside.dat,12,0.1,13,0)
+@Music.Play(RuinsOfAlph_Outside)
 @Level.Update
 @Camera.Update
 @Player.MoveAsync(1)

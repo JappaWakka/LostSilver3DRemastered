@@ -65,6 +65,7 @@ version=2
 :endif
 :if:<Storage.Get(Boolean,Ending_Good)>=0
 	@Player.Warp(Ending_Bad.dat,4,0.1,4,0)
+	@Music.Play(TurnBack)
 :endif
 
 @Level.Update

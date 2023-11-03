@@ -27,6 +27,11 @@ version=2
 @Pokemon.SetStat(0,MaxHP,244)
 @Pokemon.SetStat(0,cHP,244)
 @Camera.Update
+:if:<Register.Value(MainHall_Purple)>=6
+	@music.Stop
+:else
+	@Music.Play(RuinsOfAlph_Outside)
+:endif
 @Level.Update
 @Screen.FadeIn(25)
 @Camera.Update

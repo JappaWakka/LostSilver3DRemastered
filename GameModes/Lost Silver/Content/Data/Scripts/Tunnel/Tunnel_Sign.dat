@@ -20,6 +20,7 @@ Version=2
 						@Camera.Update
 						@Sound.Play(Door)
 						@Player.Warp(Tunnel_Alt.dat,5,0.1,86,0)
+						@Music.Play(Unown_Fast)
 						@Level.Update
 						:end
 					:endwhen
@@ -30,6 +31,7 @@ Version=2
 	@Screen.SetFade(255)
 	@Camera.Update
 	@Player.Warp(grave.dat,5,0.1,4,0)
+	@Music.Stop
 	@Level.Update
 :else
 	:while:<Register.Registered(RepeatQuestion)>=false
@@ -43,6 +45,7 @@ Version=2
 	@Screen.SetFade(255)
 	@Camera.Update
 	@Player.Warp(grave.dat,4,0.1,5,0)
+	@Music.Stop
 	@Level.Update
 :endif
 :end

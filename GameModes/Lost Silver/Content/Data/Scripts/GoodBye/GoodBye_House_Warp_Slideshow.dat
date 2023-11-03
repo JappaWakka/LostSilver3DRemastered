@@ -1,0 +1,6 @@
+version=2
+@Player.Warp(SlideShow.dat,0,0.1,0)
+@Music.Play(Unown)
+@Level.Update
+
+:end

@@ -19,6 +19,7 @@ Version=2
 		:endif
 	:endif
 :endif
+@Music.Play(LostForest)
 @Level.Update
 @Camera.Update
 @Level.Wait(5)

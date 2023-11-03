@@ -1,0 +1,19 @@
+version=2
+
+:if:<Player.Facing>=0
+	@Player.Warp(MtSilver_Peak.dat,2,-1.9,26,0)
+:else
+	:if:<Player.Facing>=1
+		@Player.Warp(MtSilver_Peak.dat,2,-1.9,26,3)
+	:else
+		:if:<Player.Facing>=2
+			@Player.Warp(MtSilver_Peak.dat,2,-1.9,26,2)
+		:else
+			@Player.Warp(MtSilver_Peak.dat,2,-1.9,26,1)
+		:endif
+	:endif
+:endif
+@Music.Stop
+@Level.Update
+@player.move(1)
+:end

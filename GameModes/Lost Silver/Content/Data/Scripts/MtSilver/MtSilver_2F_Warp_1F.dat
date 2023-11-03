@@ -1,0 +1,18 @@
+version=2
+@Screen.SetFade(255)
+:if:<Player.Facing>=0
+	@Player.Warp(MtSilver_1F.dat,15,0.1,2,2)
+:else
+	:if:<Player.Facing>=1
+		@Player.Warp(MtSilver_1F.dat,15,0.1,2,1)
+	:else
+		:if:<Player.Facing>=2
+			@Player.Warp(MtSilver_1F.dat,15,0.1,2,0)
+		:else
+			@Player.Warp(MtSilver_1F.dat,15,0.1,2,3)
+		:endif
+	:endif
+:endif
+@Music.Play(MtSilver_Slower)
+@Level.Update
+:end

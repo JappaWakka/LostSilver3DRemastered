@@ -28,6 +28,7 @@ Version=2
 	@Camera.SetPitch(0)
 	@Level.Wait(15)
 	@Player.Warp(Goldenrod_Alive.dat,19,0.1,31)
+	@Music.Play(Goldenrod_Alive)
 	@Level.Update
 	@Player.AllowMovement
 	@Screen.SetFade(0)

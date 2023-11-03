@@ -16,6 +16,7 @@ Version=2
 @Camera.Fix
 @Player.Warp(9,3.1,7)
 @Level.Update
+@Music.Stop
 @Screen.FadeIn(15)
 @Camera.Update
 @Player.SetSpeed(1.5)

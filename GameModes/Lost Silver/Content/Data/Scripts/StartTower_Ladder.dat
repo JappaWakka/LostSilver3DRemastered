@@ -1,0 +1,20 @@
+version=2
+:if:<Register.Registered(Tunnel)>=false
+	@Screen.SetFade(255)
+:endif
+:if:<Player.Facing>=0
+	@Player.Warp(tunnel.dat,5,0.1,2,2)
+:else
+	:if:<Player.Facing>=1
+		@Player.Warp(tunnel.dat,5,0.1,2,1)
+	:else
+		:if:<Player.Facing>=2
+			@Player.Warp(tunnel.dat,5,0.1,2,0)
+		:else
+			@Player.Warp(tunnel.dat,5,0.1,2,3)
+		:endif
+	:endif
+:endif
+@Music.Play(Unown)
+@Level.Update
+:end

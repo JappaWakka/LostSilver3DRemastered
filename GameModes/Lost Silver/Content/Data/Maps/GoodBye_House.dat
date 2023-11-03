@@ -132,7 +132,7 @@ Warps:
 Upstairs
 {"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[8,0,-1]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye_Room.dat,6,-2.9,2,0]}}{"Rotation"{int[0]}}{"Visible"{bool[0]}}]}}
 SlideShow
-{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[WarpBlock]}}{"Position"{sngArr[-28,0,26]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[1]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[SlideShow.dat,0,0.1,0,0]}}{"Rotation"{int[3]}}{"Visible"{bool[0]}}]}}
+{"EntityField"{ENT[{"Size"{intArr[1,1]}}{"EntityID"{str[ScriptBlock]}}{"Position"{sngArr[-28,0,26]}}{"TexturePath"{str[LostHouse]}}{"Textures"{recArr[[0,0,16,16]]}}{"TextureIndex"{intArr[-1,-1]}}{"Collision"{bool[0]}}{"ModelID"{int[0]}}{"Action"{int[0]}}{"AdditionalValue"{str[GoodBye\GoodBye_House_Warp_Slideshow]}}{"Rotation"{int[3]}}{"Visible"{bool[0]}}]}}
 
 ScriptBlocks:
 Door

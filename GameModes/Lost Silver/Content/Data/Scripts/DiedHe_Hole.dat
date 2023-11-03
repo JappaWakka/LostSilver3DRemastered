@@ -12,6 +12,7 @@ Version=2
 @Level.Wait(30)
 @Screen.FadeOut(25)
 @Player.Warp(RuinsOfAlph_Outside.dat,9,0.1,5,0)
+@Music.Play(RuinsOfAlph_Outside)
 @Level.Update
 @Player.TurnTo(2)
 @Player.SetSkin(Gold_DiedHe)

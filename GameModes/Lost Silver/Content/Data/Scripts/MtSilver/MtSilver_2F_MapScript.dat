@@ -1,25 +1,8 @@
 Version=2
 @Player.SetSkin(Gold_NoEyes)
 :if:<Register.Registered(EggHatched)>=false
-	@Level.Update
-	@Player.StopMovement
-	@Pokemon.Clear
-	
-	@Pokemon.Add(0,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[20]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[redD]}{"IDValue"[mik2LPuN589]})
-	@Pokemon.Add(1,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[20]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[redE]}{"IDValue"[mik2LPuN589]})
-	@Pokemon.Add(2,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[20]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[redN]}{"IDValue"[UVevUbF19Mt]})
-	@Pokemon.Add(3,{"Pokemon"[201]}{"OriginalNumber"[-1]}{"Experience"[8000]}{"Gender"[2]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[Unown]}{"Level"[20]}{"OT"[46579]}{"Ability"[26]}{"Status"[]}{"Nature"[21]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[237,15,15]}{"Attack2"[]}{"Attack3"[]}{"Attack4"[]}{"HP"[50]}{"EVs"[0,0,0,0,0,0]}{"IVs"[28,26,2,11,28,4]}{"AdditionalData"[redY]}{"IDValue"[hoBCeuLdITg]})
-	
-	@Pokemon.Add(4,{"Pokemon"[155]}{"Experience"[135]}{"Gender"[0]}{"EggSteps"[1]}{"NickName"[   ]}{"Level"[5]}{"OT"[46579]}{"Status"[]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"isShiny"[0]}{"Attack1"[43,30,30]}{"Attack2"[148,15,15]}{"Attack3"[171,15,15]}{"Attack4"[37,10,10]}{"HP"[20]}{"EVs"[0,0,0,0,0,0]}{"IVs"[25,9,24,1,17,3]}{"AdditionalData"[lost]}{"IDValue"[hVr8VbWtNau]})
-	@Pokemon.Hatch(4,0,    came~out of its egg!)
-	@Pokemon.SetNickName(4,   )
-	@Pokemon.ClearAttacks(4)
-	@Pokemon.AddAttack(4,43)
-	@Pokemon.AddAttack(4,148)
-	@Pokemon.AddAttack(4,171)
-	@Pokemon.AddAttack(4,37)
-	@Pokemon.SetStat(4,maxHP,20)
-	@Pokemon.SetStat(4,cHP,20)
+	@Screen.FadeIn(25)
+	@camera.update
 	@Register.Register(EggHatched)
 :else
 	@Pokemon.Clear
@@ -47,4 +30,5 @@ Version=2
 @Pokemon.SetStat(1,MaxHP,50)
 @Pokemon.SetStat(2,MaxHP,50)
 @Pokemon.SetStat(3,MaxHP,50)
+@screen.fadeoutcolor(0,0,0)
 :end
