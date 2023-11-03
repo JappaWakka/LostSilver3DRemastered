@@ -29606,3 +29606,84 @@ GameModes/Pokemon Brown 3D/Content/Sounds/MovePad.wav
 GameModes/Pokemon Brown 3D/Content/Sounds/Teleport.wav
 GameModes/Pokemon Brown 3D/Content/Textures/NPC/PalettePatrol.png
 GameModes/Pokemon Brown 3D/Content/Textures/NPC/ParkClerk.png
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Ladders/Ladder_Park.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/RocksAndGemstones/LargeRock_Light_4x4.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Structures/Stairs/Stairs_Park_Single.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/Area2_Ladder_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/SecretCave_B1F_Ladder_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/SecretCave_B1F_Ladder_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/SecretCave_B1F_MapScript.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/SecretCave_B1F_StrengthTrigger.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/SecretCave_B2F_Ladder_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/Park/Area1.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/Park/Area2.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/Park/Area3.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/Park/SecretCave_B1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Eagulou/Park/SecretCave_B2F.poke
+GameModes/Pokemon Brown 3D/Content/Textures/NPC/Gentleman_Blue.png
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Computer_DexEvaluation.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/AreaAll_MapScript.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/Park/StepScript.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Eagulou/PokeCenter_BenchGuy.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/EagulouParkCave/000.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/EagulouParkCave/000.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/EagulouParkCave/001.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/EagulouParkCave/001.Trainer
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/EagulouParkCave/002.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/trainer/EagulouParkCave/002.Trainer
+GameModes/Pokemon Brown 3D/Content/Sounds/EagulouParkBell.wav
+GameModes/Pokemon Brown 3D/Content/Sounds/PC/LogOn.wav
+GameModes/Pokemon Brown 3D/Content/Sounds/PC/TurnOff.wav
+GameModes/Pokemon Brown 3D/Content/Sounds/PC/TurnOn.wav
+GameModes/Pokemon Brown 3D/Content/Sounds/PokedexNewRating.wav
+GameModes/Pokemon Brown 3D/Content/Sounds/Pokegear/pokegear_off.wav
+GameModes/Pokemon Brown 3D/Content/Sounds/Pokegear/pokegear_on.wav
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/Caves/InternationalTunnel/1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Battle/Caves/InternationalTunnel/B1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/MtBoulder/1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Maps/Caves/MtBoulder/B1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/1F_Climb_B1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/1F_Ladder_Outside.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_1F.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_10_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_10_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_1_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_2+2_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_2+4_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_2_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_2_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_3_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_3_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_4+2_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_East_4_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_10_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_1_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_2+2_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_2+4_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_2_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_2_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_3_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_3_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_4+2_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_4_Down.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/InternationalTunnel/B1F_Climb_West_4_Up.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/MtBoulder/B1F_MapScript.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/MtBoulder/Ladder_Up_Eagulou.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/Caves/MtBoulder/Ladder_Up_Route55.dat
+GameModes/Pokemon Brown 3D/Content/Data/Scripts/RijonTunnel/Warp.dat
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/MtBoulder/1F.poke
+GameModes/Pokemon Brown 3D/Content/Data/WildEncounters/Caves/MtBoulder/B1F.poke
+GameModes/Pokemon Brown 3D/Content/Songs/CaveMusic2.ogg
+GameModes/Pokemon Brown 3D/Content/Songs/Intro/CaveMusic2.ogg
+GameModes/Pokemon Brown 3D/Content/Textures/Weather/rain.png
+GameModes/Pokemon Brown 3D/Content/Textures/Weather/rain2.png
+GameModes/Pokemon Brown 3D/Content/Textures/Weather/rain3.png
+GameModes/Pokemon Brown 3D/Content/Textures/Weather/sand.png
+GameModes/Pokemon Brown 3D/Source Models/Snorlax_Normal.fbx
+GameModes/Pokemon Brown 3D/Source Models/Snorlax_Normal.png
+GameModes/Pokemon Brown 3D/Source Models/Snorlax_Shiny.fbx
+GameModes/Pokemon Brown 3D/Source Models/Snorlax_Shiny.png
+GameModes/Pokemon Brown 3D/Source Models/SSAnne.fbx
+GameModes/Pokemon Brown 3D/Source Models/SSAnne.png
+GameModes/Pokemon Brown 3D/Source Models/Toolbox.fbx
+GameModes/Pokemon Brown 3D/Source Models/Toolbox.png
