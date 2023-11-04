@@ -1,4 +1,14 @@
 Version=2
-@NPC.Turn(3,1)
-@NPC.Turn(4,1)
+@NPC.Turn(13,1)
+@NPC.Turn(14,1)
+@NPC.Turn(15,1)
+@NPC.Turn(16,1)
+@NPC.Turn(17,1)
+@NPC.Turn(18,1)
+@NPC.Turn(19,1)
+@NPC.Turn(20,1)
+@NPC.Turn(21,1)
+@NPC.Turn(22,1)
+@NPC.Turn(23,1)
+@NPC.Turn(24,1)
 :end

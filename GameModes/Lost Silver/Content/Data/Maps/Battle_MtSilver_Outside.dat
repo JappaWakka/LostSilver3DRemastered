@@ -2,4 +2,4 @@
 {"Actions"{LEV[{"CanTeleport"{bool[1]}}{"CanDig"{bool[1]}}{"CanFly"{bool[1]}}{"EnvironmentType"{int[5]}}{"DayTime"{int[2]}}{"Weather"{int[11]}}{"Lighting"{int[1]}}]}}
 
 Feraligatr
-{"NPC"{NPC[{"Position"{sngArr[3,0,13]}}{"TextureID"{str[[POKEMON|N]1003]}}{"ID"{int[1]}}{"Name"{str[Feraligatr]}}{"Action"{int[1]}}{"AdditionalValue"{str[MtSilver_Outside_Feraligatr]}}{"Rotation"{int[0]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}
+{"NPC"{NPC[{"Position"{sngArr[3,0,13]}}{"TextureID"{str[[POKEMON|N]160_noeyes]}}{"ID"{int[1]}}{"Name"{str[Feraligatr]}}{"Action"{int[1]}}{"AdditionalValue"{str[MtSilver_Outside_Feraligatr]}}{"Rotation"{int[0]}}{"Movement"{str[Still]}}{"MoveRectangles"{recArr[]}}]}}

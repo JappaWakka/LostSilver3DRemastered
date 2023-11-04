@@ -12,6 +12,7 @@ Version=2
 @Level.Wait(30)
 @Screen.FadeOut(25)
 @Player.Warp(MtSilver_Peak.dat,2,0.1,3,2)
+@Music.Stop
 @Player.SetSkin(Gold_NoEyes)
 @Camera.Defix
 @Camera.Update

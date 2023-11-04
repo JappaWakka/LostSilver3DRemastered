@@ -10,6 +10,7 @@ version=2
 	@NPC.Warp(0,2,0,2)
 	@Level.Update
 	@Level.Wait(10)
+	@Screen.FadeOutColor(0,0,0)
 	@Screen.FadeIn(25)
 	@Text.Show(...~...)
 	@Level.Wait(20)

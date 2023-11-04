@@ -14,14 +14,16 @@ Version=2
 @Pokemon.SetStat(0,cHP,20)
 @Item.Give(gm0)
 
-@Battle.SetVar(CustomBattleMusic,FeraligatrBattle)
 @Screen.FadeOutColor(245,245,245)
 @Screen.FadeOut(25)
+@Music.SetMusicLoop(FeraligatrBattle)
 @Player.Warp(Battle_MtSilver_Outside.dat)
-@Level.Update
 @Camera.Update
 @Environment.SetWeather(1)
+@Battle.SetVar(CustomBattleMusic,FeraligatrBattle)
 @Battle.Wild({"Pokemon"[160]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[]}{"Level"[90]}{"OT"[46579]}{"Ability"[23]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[39,999,999]}{"Attack2"[39,999,999]}{"Attack3"[39,999,999]}{"Attack4"[39,999,999]}{"HP"[256]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[noeyes]}{"IDValue"[myDYzVeAXfg]},FeraligatrBattle_Intro,0)
+@Level.Update
+@Music.Play(FeraligatrBattle)
 @Screen.FadeIn(25)
 @Battle.ResetVars
 @Pokemon.Clear
@@ -55,7 +57,7 @@ Version=2
 
 @Music.Stop
 @Environment.SetEnvironmentType(5)
-@NPC.WearSkin(1,[POKEMON|N]1002)
+@NPC.WearSkin(1,[POKEMON|N]158_lost)
 @NPC.Turn(1,0)
 @Sound.Play(Totodile)
 @Level.Wait(50)
