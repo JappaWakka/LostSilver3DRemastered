@@ -1,10 +1,13 @@
 Version=2
 :if:<Register.Registered(YourFault)>=false
+	@storage.set(bool,ThirdPerson,<Camera.ThirdPerson>)
+	@Camera.SetThirdPerson(1)
 	@Player.TurnTo(3,1)
 	@Environment.SetWeather(1)
 	@Text.Show(The whole world is falling~apart and now no one knows if~this ever stops or if this can~be stopped...*It's all your fault, GOLD.)
 	@Register.Register(YourFault)
 	@Environment.SetWeather(11)
 	@Entity.Remove(3)
+	@Camera.SetThirdPerson(<storage.get(bool,ThirdPerson)>)
 :endif
 :end
