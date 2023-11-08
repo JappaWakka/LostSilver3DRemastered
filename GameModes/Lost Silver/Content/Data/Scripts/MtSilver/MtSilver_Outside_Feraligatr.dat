@@ -2,7 +2,11 @@ Version=2
 @Camera.SetToPlayerFacing
 @Camera.DeactivateThirdPerson
 @Camera.Update
-@NPC.Turn(1,0)
+:if:<player.position(z)>=13
+	@NPC.Turn(1,3)
+:else
+	@NPC.Turn(1,0)
+:endif
 @Pokemon.Cry(160_noeyes)
 @Text.Show((...WHERE?))
 @Pokemon.Clear
@@ -24,6 +28,11 @@ Version=2
 @Battle.Wild({"Pokemon"[160]}{"OriginalNumber"[-1]}{"Experience"[762160]}{"Gender"[0]}{"EggSteps"[0]}{"Item"[0]}{"ItemData"[]}{"NickName"[]}{"Level"[90]}{"OT"[46579]}{"Ability"[23]}{"Status"[]}{"Nature"[2]}{"CatchLocation"[...]}{"CatchTrainer"[...]}{"CatchBall"[5]}{"CatchMethod"[...]}{"Friendship"[70]}{"isShiny"[0]}{"Attack1"[39,999,999]}{"Attack2"[39,999,999]}{"Attack3"[39,999,999]}{"Attack4"[39,999,999]}{"HP"[256]}{"EVs"[0,0,0,0,0,0]}{"IVs"[0,0,0,0,0,0]}{"AdditionalData"[noeyes]}{"IDValue"[myDYzVeAXfg]},FeraligatrBattle_Intro,0)
 @Level.Update
 @Music.Play(FeraligatrBattle)
+:if:<player.position(z)>=13
+	@NPC.Turn(1,3)
+:else
+	@NPC.Turn(1,0)
+:endif
 @Screen.FadeIn(25)
 @Battle.ResetVars
 @Pokemon.Clear
@@ -40,25 +49,43 @@ Version=2
 @Level.Wait(75)
 @Environment.SetEnvironmentType(0)
 @NPC.WearSkin(1,FeraligatrNightmare)
+
 @Sound.Play(Nightmare1)
 @Level.Wait(100)
 
-@NPC.Turn(1,1)
+:if:<player.position(z)>=13
+	@NPC.Turn(1,0)
+:else
+	@NPC.Turn(1,1)
+:endif
+
 @Sound.Play(Nightmare2)
 @Level.Wait(100)
 
-@NPC.Turn(1,2)
+:if:<player.position(z)>=13
+	@NPC.Turn(1,1)
+:else
+	@NPC.Turn(1,2)
+:endif
 @Sound.Play(Nightmare3)
 @Level.Wait(100)
 
-@NPC.Turn(1,3)
+:if:<player.position(z)>=13
+	@NPC.Turn(1,2)
+:else
+	@NPC.Turn(1,3)
+:endif
 @Sound.Play(Nightmare4)
 @Level.Wait(100)
 
 @Music.Stop
 @Environment.SetEnvironmentType(5)
 @NPC.WearSkin(1,[POKEMON|N]158_lost)
-@NPC.Turn(1,0)
+:if:<player.position(z)>=13
+	@NPC.Turn(1,3)
+:else
+	@NPC.Turn(1,0)
+:endif
 @Sound.Play(Totodile)
 @Level.Wait(50)
 @storage.set(Single,TotodileY,0)
