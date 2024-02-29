@@ -7,6 +7,7 @@ version=2
 :endif
 @Camera.ActivateThirdPerson
 @Camera.Reset
+@Camera.SetPitch(-0.12)
 @Level.Wait(25)
 @Camera.SetY(0.25)
 @Camera.Update
@@ -27,9 +28,9 @@ version=2
 @Entity.Remove(0)
 @Level.Wait(7)
 :if:<Player.Position(x)>=2
-	@Entity.ShowMessageBulb(1|2|0.6|2)
+	@Entity.ShowMessageBulb(1|2|0.65|2)
 :else
-	@Entity.ShowMessageBulb(1|3|0.6|2)
+	@Entity.ShowMessageBulb(1|3|0.65|2)
 :endif
 @Player.SetMovement(0,-1,0)
 @Player.SetSpeed(2.5)

@@ -1,7 +1,7 @@
 version=2
+@Player.SetSkin(Gold_DiedHe)
 @Screen.FadeIn(64)
 @Camera.Update
-@Player.SetSkin(Gold_DiedHe)
 
 :if:<Register.Registered(DiedHe)>=false
 	@Camera.ActivateThirdPerson

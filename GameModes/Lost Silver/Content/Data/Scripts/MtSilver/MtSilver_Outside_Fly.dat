@@ -5,6 +5,7 @@ Version=2
 	@Camera.SetPosition(0,0.9,3)
 	@Level.Wait(30)
 	@Player.WearSkin(FlyBird)
+	@Player.TurnTo(1)
 	@Camera.Fix
 	@Player.SetSpeed(1.5)
 	@Player.SetMovement(-1,1,0)
@@ -19,11 +20,13 @@ Version=2
 	@Screen.FadeIn(15)
 	@Camera.Update
 	@Player.Warp(16,3.1,31)
+	@Player.Turnto(3)
 	@Player.SetSpeed(1.5)
 	@Player.SetMovement(1,-1,0)
 	@Player.Move(3)
 	@Player.WearSkin(Gold_NoEyes)
 	@Camera.DeFix
+	@Camera.Reset
 	@Level.Update
 	@Player.TurnTo(0)
 :endif
