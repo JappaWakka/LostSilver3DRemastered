@@ -5,7 +5,7 @@ Version=2
 @Camera.Update
 
 @NPC.Turn(0,0)
-@Text.Show(I am no longer sure~what the Unown are~trying to tell me.)
+@Text.Show(I am no longer sure what the~Unown are trying to tell me.)
 :if:<Player.Position(x)>>2
 	@NPC.Turn(0,3)
 :endif
@@ -24,7 +24,7 @@ Version=2
 @Player.Warp(RuinsOfAlph_TurnBack.dat,4,0.1,2,0)
 @Music.Play(TurnBack)
 @Level.Update
-@Text.Show(A blinding Flash~lights the area!)
+@Text.Show(A blinding Flash lights the~area!)
 @Screen.FadeIn(25)
 @Camera.Update
 @Register.Register(TurnBack)

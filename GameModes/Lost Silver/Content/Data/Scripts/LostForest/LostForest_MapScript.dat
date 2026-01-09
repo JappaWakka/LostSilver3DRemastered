@@ -1,9 +1,6 @@
 Version=2
 @Player.SetSkin(Gold_Regular)
-	
-:if:<Register.Registered(LostForest)>=False
-	@Player.SetName(Gold)
-:endif
+@Player.SetName(Gold)
 :if:<Register.Registered(LostShrine)>=True
 	@Player.PreventMovement
 :endif

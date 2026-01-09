@@ -4,7 +4,7 @@ Version=2
 	@Camera.SetThirdPerson(1)
 	@Player.TurnTo(3,1)
 	@Environment.SetWeather(1)
-	@Text.Show(The whole world is falling~apart and now no one knows if~this ever stops or if this can~be stopped...*It's all your fault, GOLD.)
+	@Text.Show(The whole world is falling~apart and now no one knows if~this ever stops or if this~can be stopped...*It's all your fault, GOLD.)
 	@Register.Register(YourFault)
 	@Environment.SetWeather(11)
 	@Entity.Remove(3)
