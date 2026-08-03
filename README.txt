@@ -1,4 +1,4 @@
-This is a remaster and continuation of the classic GameMode for Pokémon 3D 0.60.1+, based on the famous Pokémon Lost Silver creepypasta and the fangames by Reidd Maxwell.
+This is a remaster and continuation of the classic GameMode for Pokémon 3D 0.61.2+, based on the famous Pokémon Lost Silver creepypasta and the fangames by Reidd Maxwell.
 
 [Installation Instructions]
 1.	Download the LostSilver.zip file from https://github.com/JappaWakka/LostSilver3DRemastered/releases/latest
